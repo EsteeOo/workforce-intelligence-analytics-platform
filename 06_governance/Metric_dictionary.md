@@ -8,8 +8,6 @@ attrition_count / headcount
 **Early Attrition Rate**  
 early_attrition_count / headcount
 
----
-
 ## Hiring
 
 **Hire Rate**  
@@ -17,8 +15,6 @@ hires / applications
 
 **Offer Conversion Rate**  
 offers / interviews
-
----
 
 ## Engagement
 
@@ -28,14 +24,10 @@ Mean of engagement scores
 **Intent to Leave Rate**  
 intent_to_leave_count / survey_count
 
----
-
 ## Learning
 
 **Completion Rate**  
 completed_modules / total_assigned
-
----
 
 ## Operations
 
@@ -47,8 +39,6 @@ avg_absence_hours / avg_scheduled_hours
 
 **Pressure Rate**  
 Derived composite metric combining overtime, absence, and workload indicators
-
----
 
 ## Additional Metrics
 
