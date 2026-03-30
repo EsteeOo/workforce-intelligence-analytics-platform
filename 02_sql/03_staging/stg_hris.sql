@@ -1,0 +1,25 @@
+CREATE OR REPLACE VIEW stg_hris_employee_master AS
+SELECT
+    employee_id,
+    first_name,
+    last_name,
+    gender,
+    ethnicity,
+    age_band,
+    country,
+    site,
+    department,
+    job_role,
+    job_level,
+    hire_date,
+    termination_date,
+    employment_status,
+    tenure_months,
+    salary,
+    manager_flag,
+    CASE WHEN employment_status = 'Active' THEN 1 ELSE 0 END AS active_flag,
+    CASE WHEN employment_status = 'Terminated' THEN 1 ELSE 0 END AS attrition_flag,
+    CASE WHEN tenure_months < 12 THEN 1 ELSE 0 END AS early_tenure_flag,
+    DATE_TRUNC('month', hire_date) AS hire_month,
+    DATE_TRUNC('month', termination_date) AS termination_month
+FROM raw_hris_employee_master;

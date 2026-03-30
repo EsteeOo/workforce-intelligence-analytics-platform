@@ -1,0 +1,890 @@
+country,site,department,job_role,job_level,gender,ethnicity,employee_count,active_headcount,attrition_count,attrition_rate,early_attrition_count,avg_tenure_months,avg_salary,manager_count
+UK,London,Supply Chain,Logistics Coordinator,Junior,Male,Other,2,1,1,0.5,0,16.0,30369.0,0
+France,Paris,Technology,Software Engineer,Senior,Male,White,2,2,0,0.0,0,52.0,68465.0,0
+UK,Birmingham,Operations,Construction Supervisor,Manager,Male,Asian,2,2,0,0.0,0,58.0,110960.0,2
+Germany,Hamburg,Operations,Operations Analyst,Mid,Male,White,5,4,1,0.2,1,20.4,48386.0,0
+Germany,Berlin,Operations,Construction Supervisor,Manager,Female,White,3,3,0,0.0,0,28.0,98840.0,3
+UK,Manchester,Sales,Account Manager,Manager,Female,White,2,2,0,0.0,0,23.0,92720.0,2
+Germany,Munich,Commercial,Commercial Analyst,Mid,Male,White,5,4,1,0.2,1,46.4,49515.0,0
+UK,Glasgow,Technology,Data Engineer,Senior,Male,Other,3,3,0,0.0,0,26.7,72981.0,0
+UK,Glasgow,Operations,Project Manager,Manager,Male,Asian,2,2,0,0.0,0,38.5,103061.0,2
+Germany,Hamburg,Operations,Construction Supervisor,Manager,Male,Other,2,1,1,0.5,0,39.5,98998.0,2
+UK,Birmingham,Operations,Operations Analyst,Mid,Male,Other,3,3,0,0.0,0,41.0,44900.0,0
+Germany,Berlin,Customer Support,Customer Success Manager,Manager,Male,White,6,5,1,0.1667,1,27.0,96974.0,6
+France,Lyon,Operations,Construction Supervisor,Manager,Male,White,10,9,1,0.1,1,46.9,95287.0,10
+UK,Leeds,Operations,Site Engineer,Mid,Male,Asian,3,3,0,0.0,0,57.0,45570.0,0
+France,Paris,Operations,Site Engineer,Mid,Male,White,7,6,1,0.1429,1,39.0,47311.0,0
+Netherlands,Rotterdam,Technology,Software Engineer,Senior,Male,Asian,1,0,1,1.0,0,20.0,77436.0,0
+Ireland,Dublin,People,HR Business Partner,Senior,Male,White,1,1,0,0.0,0,58.0,58474.0,0
+UK,Manchester,Technology,Software Engineer,Senior,Male,White,3,3,0,0.0,0,20.3,71878.0,0
+France,Paris,Sales,Account Manager,Manager,Male,White,2,1,1,0.5,0,26.0,107664.0,2
+Germany,Munich,Operations,Site Engineer,Mid,Male,Asian,4,2,2,0.5,2,22.8,52630.0,0
+Netherlands,Amsterdam,Sales,Account Manager,Manager,Male,Other,1,1,0,0.0,0,14.0,105253.0,1
+Germany,Munich,People,HR Advisor,Mid,Female,Asian,1,1,0,0.0,0,39.0,39849.0,0
+UK,Birmingham,Operations,Site Engineer,Mid,Male,Asian,2,1,1,0.5,1,23.5,47324.0,0
+UK,London,Finance,Accountant,Mid,Male,White,6,5,1,0.1667,1,36.7,44430.0,0
+UK,London,Finance,Accountant,Mid,Male,Black,1,1,0,0.0,0,57.0,41522.0,0
+UK,Manchester,People,HR Advisor,Mid,Male,Other,1,1,0,0.0,0,5.0,50948.0,0
+UK,Glasgow,Finance,Financial Analyst,Mid,Male,Asian,1,1,0,0.0,0,11.0,50907.0,0
+France,Lyon,Technology,Software Engineer,Senior,Male,White,1,1,0,0.0,0,15.0,70958.0,0
+Ireland,Dublin,Supply Chain,Logistics Coordinator,Junior,Male,Mixed,1,1,0,0.0,0,33.0,28306.0,0
+UK,Birmingham,Supply Chain,Logistics Coordinator,Junior,Male,Mixed,1,1,0,0.0,0,28.0,26986.0,0
+Germany,Berlin,Customer Support,Customer Success Manager,Manager,Female,White,1,1,0,0.0,0,14.0,98871.0,1
+UK,Glasgow,Sales,Sales Executive,Junior,Male,Other,1,1,0,0.0,0,48.0,27436.0,0
+UK,Birmingham,Finance,Financial Analyst,Mid,Female,White,1,1,0,0.0,0,28.0,54729.0,0
+Germany,Hamburg,Technology,Data Analyst,Mid,Male,Other,1,1,0,0.0,0,44.0,38712.0,0
+France,Paris,Technology,Software Engineer,Senior,Male,Black,1,1,0,0.0,0,1.0,75642.0,0
+UK,London,Operations,Operations Analyst,Mid,Male,Asian,2,1,1,0.5,1,9.0,48260.0,0
+UK,Leeds,Technology,Software Engineer,Senior,Male,Other,1,1,0,0.0,0,3.0,66262.0,0
+UK,Leeds,Commercial,Pricing Manager,Manager,Male,Mixed,2,2,0,0.0,0,37.0,96889.0,2
+UK,Leeds,Technology,Data Engineer,Senior,Male,Mixed,1,1,0,0.0,0,31.0,78258.0,0
+Germany,Berlin,Supply Chain,Warehouse Manager,Manager,Male,Asian,1,1,0,0.0,0,73.0,101190.0,1
+Germany,Berlin,Supply Chain,Logistics Coordinator,Junior,Male,Mixed,1,1,0,0.0,0,43.0,27182.0,0
+Germany,Hamburg,Technology,Software Engineer,Senior,Male,Asian,1,1,0,0.0,0,10.0,79572.0,0
+Germany,Berlin,Commercial,Pricing Manager,Manager,Female,White,1,1,0,0.0,0,43.0,85697.0,1
+France,Paris,Operations,Site Engineer,Mid,Male,Black,1,0,1,1.0,0,27.0,42845.0,0
+Germany,Hamburg,Technology,Data Engineer,Senior,Male,White,1,1,0,0.0,0,20.0,77151.0,0
+UK,Leeds,Operations,Construction Supervisor,Manager,Female,White,1,1,0,0.0,0,28.0,104265.0,1
+UK,Manchester,Operations,Construction Supervisor,Manager,Male,Mixed,2,2,0,0.0,0,35.0,92119.0,2
+UK,London,Commercial,Commercial Analyst,Mid,Male,White,1,1,0,0.0,0,51.0,46387.0,0
+UK,Manchester,Customer Support,Customer Support Rep,Junior,Male,White,15,13,2,0.1333,0,32.7,31314.0,0
+Germany,Hamburg,Technology,Data Analyst,Mid,Male,White,9,9,0,0.0,0,49.9,49183.0,0
+UK,London,Supply Chain,Logistics Coordinator,Junior,Male,White,13,11,2,0.1538,1,45.4,29819.0,0
+Netherlands,Rotterdam,Supply Chain,Warehouse Manager,Manager,Male,White,2,2,0,0.0,0,42.0,82588.0,2
+France,Paris,Operations,Operations Analyst,Mid,Male,White,6,5,1,0.1667,0,35.3,45295.0,0
+Germany,Hamburg,Operations,Construction Supervisor,Manager,Male,White,10,8,2,0.2,0,41.9,99158.0,10
+Germany,Hamburg,Operations,Site Engineer,Mid,Male,White,14,11,3,0.2143,0,33.4,46648.0,0
+UK,London,Operations,Project Manager,Manager,Male,Asian,2,2,0,0.0,0,44.5,105515.0,2
+UK,London,Supply Chain,Logistics Coordinator,Junior,Male,Black,3,2,1,0.3333,0,34.0,31500.0,0
+UK,London,Supply Chain,Warehouse Manager,Manager,Male,Mixed,3,3,0,0.0,0,47.3,90367.0,3
+France,Lyon,Operations,Project Manager,Manager,Female,Mixed,1,0,1,1.0,1,4.0,102812.0,1
+UK,Leeds,Supply Chain,Procurement Specialist,Mid,Male,Asian,1,0,1,1.0,1,5.0,47135.0,0
+Netherlands,Amsterdam,Commercial,Commercial Analyst,Mid,Male,Asian,1,0,1,1.0,1,3.0,46338.0,0
+UK,Birmingham,Operations,Health & Safety Officer,Mid,Female,Mixed,1,1,0,0.0,0,28.0,50970.0,0
+UK,London,People,HR Advisor,Mid,Female,White,2,2,0,0.0,0,46.0,47438.0,0
+UK,Manchester,Operations,Site Engineer,Mid,Male,Mixed,2,1,1,0.5,1,11.0,41543.0,0
+UK,Glasgow,Sales,Sales Executive,Junior,Male,White,17,10,7,0.4118,2,37.4,32582.0,0
+Netherlands,Rotterdam,Customer Support,Customer Support Rep,Junior,Male,White,2,2,0,0.0,0,41.5,29108.0,0
+Netherlands,Amsterdam,Sales,Account Manager,Manager,Male,Black,1,1,0,0.0,0,7.0,85807.0,1
+France,Lyon,Commercial,Pricing Manager,Manager,Male,Asian,2,1,1,0.5,0,25.5,95079.0,2
+UK,Birmingham,Sales,Account Manager,Manager,Male,White,5,4,1,0.2,1,39.0,97712.0,5
+UK,Leeds,Operations,Construction Supervisor,Manager,Female,Other,1,0,1,1.0,1,7.0,113110.0,1
+UK,London,Commercial,Pricing Manager,Manager,Male,Black,2,1,1,0.5,1,25.5,98901.0,2
+UK,Birmingham,Operations,Operations Analyst,Mid,Male,White,3,3,0,0.0,0,19.3,44728.0,0
+Netherlands,Amsterdam,Sales,Account Manager,Manager,Male,White,1,1,0,0.0,0,59.0,100367.0,1
+UK,Leeds,Technology,Data Analyst,Mid,Male,Mixed,2,2,0,0.0,0,39.5,52759.0,0
+Netherlands,Amsterdam,Supply Chain,Procurement Specialist,Mid,Male,Asian,2,1,1,0.5,0,25.0,40196.0,0
+UK,Manchester,Technology,Data Analyst,Mid,Female,White,1,1,0,0.0,0,22.0,49033.0,0
+UK,Leeds,Customer Support,Customer Success Manager,Manager,Male,Asian,1,1,0,0.0,0,33.0,103646.0,1
+Netherlands,Rotterdam,Operations,Site Engineer,Mid,Male,White,4,3,1,0.25,0,21.8,45833.0,0
+UK,Birmingham,Sales,Sales Executive,Junior,Male,Asian,2,2,0,0.0,0,25.5,33377.0,0
+France,Lyon,Operations,Health & Safety Officer,Mid,Male,White,2,1,1,0.5,1,32.0,53278.0,0
+France,Paris,Operations,Construction Supervisor,Manager,Male,Asian,1,1,0,0.0,0,18.0,108033.0,1
+UK,Leeds,Technology,Software Engineer,Senior,Male,White,4,4,0,0.0,0,58.3,69976.0,0
+UK,Manchester,Customer Support,Customer Support Rep,Junior,Male,Black,3,2,1,0.3333,1,38.0,28634.0,0
+France,Paris,Finance,Accountant,Mid,Male,White,4,4,0,0.0,0,42.3,42962.0,0
+UK,Manchester,People,HR Advisor,Mid,Male,White,3,3,0,0.0,0,34.0,54103.0,0
+Germany,Munich,Operations,Project Manager,Manager,Male,White,3,2,1,0.3333,0,32.3,105543.0,3
+Germany,Hamburg,Supply Chain,Logistics Coordinator,Junior,Female,White,1,1,0,0.0,0,25.0,35306.0,0
+France,Lyon,Operations,Operations Analyst,Mid,Male,Asian,1,1,0,0.0,0,59.0,45254.0,0
+UK,London,Commercial,Commercial Analyst,Mid,Male,Black,1,1,0,0.0,0,28.0,46099.0,0
+France,Paris,Sales,Sales Executive,Junior,Female,White,2,2,0,0.0,0,27.5,28550.0,0
+UK,Birmingham,Supply Chain,Warehouse Manager,Manager,Male,Asian,1,1,0,0.0,0,12.0,80858.0,1
+France,Lyon,Technology,Software Engineer,Senior,Female,White,1,0,1,1.0,0,14.0,79991.0,0
+Ireland,Dublin,Operations,Project Manager,Manager,Male,Black,1,0,1,1.0,1,5.0,105612.0,1
+Netherlands,Rotterdam,Supply Chain,Warehouse Manager,Manager,Male,Black,1,1,0,0.0,0,35.0,94596.0,1
+Germany,Berlin,Commercial,Commercial Analyst,Mid,Female,White,1,1,0,0.0,0,25.0,42796.0,0
+UK,London,Operations,Health & Safety Officer,Mid,Female,Black,1,1,0,0.0,0,42.0,48124.0,0
+UK,London,Commercial,Pricing Manager,Manager,Male,White,4,4,0,0.0,0,22.0,103676.0,4
+UK,Glasgow,Operations,Construction Supervisor,Manager,Female,Asian,1,1,0,0.0,0,0.0,95693.0,1
+UK,London,Operations,Site Engineer,Mid,Male,Asian,1,1,0,0.0,0,74.0,50857.0,0
+UK,London,People,HR Business Partner,Senior,Male,White,1,1,0,0.0,0,54.0,75828.0,0
+UK,Birmingham,Commercial,Pricing Manager,Manager,Female,White,1,0,1,1.0,1,2.0,105982.0,1
+UK,Glasgow,Sales,Sales Executive,Junior,Male,Black,1,0,1,1.0,0,15.0,29858.0,0
+Netherlands,Rotterdam,Customer Support,Customer Support Rep,Junior,Male,Black,1,1,0,0.0,0,60.0,27923.0,0
+UK,Manchester,Customer Support,Customer Success Manager,Manager,Female,White,1,1,0,0.0,0,45.0,86682.0,1
+Germany,Munich,Sales,Sales Executive,Junior,Male,Mixed,1,0,1,1.0,1,3.0,33084.0,0
+Germany,Munich,Sales,Account Manager,Manager,Female,White,1,1,0,0.0,0,30.0,113466.0,1
+Ireland,Dublin,Operations,Project Manager,Manager,Male,White,1,1,0,0.0,0,25.0,108403.0,1
+UK,Birmingham,Operations,Operations Analyst,Mid,Male,Black,2,2,0,0.0,0,41.0,41492.0,0
+France,Lyon,Operations,Health & Safety Officer,Mid,Male,Black,1,1,0,0.0,0,19.0,38939.0,0
+France,Lyon,People,HR Business Partner,Senior,Female,White,1,0,1,1.0,1,5.0,66771.0,0
+UK,Birmingham,Customer Support,Customer Support Rep,Junior,Male,Other,1,1,0,0.0,0,60.0,28624.0,0
+Germany,Hamburg,Supply Chain,Procurement Specialist,Mid,Male,White,10,7,3,0.3,1,31.3,47780.0,0
+Ireland,Cork,Operations,Health & Safety Officer,Mid,Male,White,5,4,1,0.2,1,31.4,49001.0,0
+France,Lyon,Operations,Project Manager,Manager,Male,White,9,5,4,0.4444,2,38.0,94556.0,9
+UK,Manchester,Finance,Financial Analyst,Mid,Male,White,8,8,0,0.0,0,33.0,43236.0,0
+Germany,Hamburg,Operations,Health & Safety Officer,Mid,Male,White,8,6,2,0.25,0,44.9,46616.0,0
+UK,Glasgow,People,HR Advisor,Mid,Male,White,7,6,1,0.1429,1,43.9,43276.0,0
+France,Lyon,Finance,Financial Analyst,Mid,Male,White,2,1,1,0.5,1,26.5,46085.0,0
+UK,Leeds,Customer Support,Customer Success Manager,Manager,Female,White,2,2,0,0.0,0,62.0,82240.0,2
+Germany,Hamburg,Operations,Health & Safety Officer,Mid,Male,Black,2,2,0,0.0,0,21.0,47797.0,0
+UK,Leeds,Operations,Health & Safety Officer,Mid,Female,White,3,1,2,0.6667,1,45.3,46763.0,0
+France,Paris,Supply Chain,Procurement Specialist,Mid,Female,White,2,2,0,0.0,0,39.5,50887.0,0
+Netherlands,Amsterdam,Sales,Sales Executive,Junior,Male,Asian,2,2,0,0.0,0,42.5,31462.0,0
+Netherlands,Amsterdam,Customer Support,Customer Support Rep,Junior,Male,Black,1,1,0,0.0,0,38.0,33729.0,0
+Germany,Berlin,Finance,Accountant,Mid,Male,Asian,3,3,0,0.0,0,43.3,52056.0,0
+Germany,Berlin,Technology,Software Engineer,Senior,Male,White,3,1,2,0.6667,2,12.3,63562.0,0
+UK,Birmingham,Operations,Health & Safety Officer,Mid,Male,Asian,2,2,0,0.0,0,46.0,55085.0,0
+UK,Glasgow,Customer Support,Customer Support Rep,Junior,Male,Mixed,2,1,1,0.5,0,32.0,31345.0,0
+Germany,Munich,Supply Chain,Warehouse Manager,Manager,Male,Mixed,1,1,0,0.0,0,36.0,113166.0,1
+Germany,Hamburg,Operations,Construction Supervisor,Manager,Female,Other,1,1,0,0.0,0,24.0,97851.0,1
+Netherlands,Amsterdam,Customer Support,Customer Support Rep,Junior,Male,White,3,2,1,0.3333,1,33.0,29206.0,0
+Ireland,Dublin,Operations,Health & Safety Officer,Mid,Male,Mixed,1,1,0,0.0,0,8.0,52467.0,0
+UK,Birmingham,Technology,Software Engineer,Senior,Male,Other,1,1,0,0.0,0,4.0,81516.0,0
+Ireland,Dublin,Commercial,Commercial Analyst,Mid,Male,White,2,1,1,0.5,0,18.0,42964.0,0
+Ireland,Dublin,Technology,Data Engineer,Senior,Male,White,1,1,0,0.0,0,15.0,59674.0,0
+Netherlands,Rotterdam,Finance,Accountant,Mid,Male,White,1,1,0,0.0,0,46.0,47486.0,0
+Germany,Berlin,Sales,Account Manager,Manager,Female,Other,1,1,0,0.0,0,38.0,106675.0,1
+Ireland,Cork,Operations,Construction Supervisor,Manager,Male,Mixed,1,1,0,0.0,0,38.0,88700.0,1
+Netherlands,Rotterdam,Operations,Project Manager,Manager,Male,Asian,1,1,0,0.0,0,46.0,110734.0,1
+Germany,Munich,Supply Chain,Logistics Coordinator,Junior,Male,White,7,4,3,0.4286,2,28.0,30602.0,0
+UK,London,Supply Chain,Logistics Coordinator,Junior,Female,Asian,1,1,0,0.0,0,2.0,31843.0,0
+UK,Birmingham,Commercial,Pricing Manager,Manager,Male,White,5,4,1,0.2,0,44.8,85242.0,5
+Germany,Munich,Finance,Financial Analyst,Mid,Male,White,1,1,0,0.0,0,73.0,50213.0,0
+Germany,Munich,Finance,Financial Analyst,Mid,Female,White,1,1,0,0.0,0,32.0,47432.0,0
+UK,Manchester,Finance,Financial Analyst,Mid,Male,Black,1,1,0,0.0,0,20.0,49507.0,0
+Netherlands,Amsterdam,Customer Support,Customer Support Rep,Junior,Female,Asian,1,1,0,0.0,0,37.0,33802.0,0
+Netherlands,Amsterdam,Operations,Construction Supervisor,Manager,Male,Other,2,2,0,0.0,0,11.0,93730.0,2
+UK,Glasgow,Finance,Accountant,Mid,Female,White,1,1,0,0.0,0,48.0,47772.0,0
+France,Lyon,People,HR Advisor,Mid,Male,Mixed,2,2,0,0.0,0,44.0,50441.0,0
+Ireland,Cork,Operations,Project Manager,Manager,Male,Black,1,1,0,0.0,0,34.0,109890.0,1
+Germany,Hamburg,Supply Chain,Warehouse Manager,Manager,Male,White,2,2,0,0.0,0,36.0,107180.0,2
+France,Lyon,Technology,Data Engineer,Senior,Male,Mixed,1,1,0,0.0,0,26.0,79826.0,0
+Germany,Munich,Supply Chain,Logistics Coordinator,Junior,Male,Black,1,1,0,0.0,0,8.0,33001.0,0
+UK,London,Finance,Financial Analyst,Mid,Male,Other,1,1,0,0.0,0,56.0,49620.0,0
+UK,Glasgow,Operations,Construction Supervisor,Manager,Male,Mixed,1,1,0,0.0,0,16.0,81338.0,1
+Ireland,Cork,Operations,Construction Supervisor,Manager,Female,White,1,1,0,0.0,0,54.0,111343.0,1
+UK,London,Customer Support,Customer Support Rep,Junior,Male,Asian,1,1,0,0.0,0,25.0,27797.0,0
+Germany,Munich,People,HR Advisor,Mid,Male,Other,1,1,0,0.0,0,58.0,39927.0,0
+Netherlands,Rotterdam,Supply Chain,Logistics Coordinator,Junior,Male,Asian,1,0,1,1.0,1,8.0,32652.0,0
+Germany,Berlin,Operations,Health & Safety Officer,Mid,Male,White,5,4,1,0.2,0,33.2,47054.0,0
+UK,Leeds,Operations,Construction Supervisor,Manager,Male,White,15,15,0,0.0,0,27.1,96647.0,15
+UK,Leeds,Operations,Operations Analyst,Mid,Male,White,6,4,2,0.3333,1,49.0,47875.0,0
+France,Paris,Operations,Project Manager,Manager,Female,White,1,1,0,0.0,0,65.0,100560.0,1
+UK,Birmingham,Customer Support,Customer Support Rep,Junior,Male,White,13,9,4,0.3077,3,36.3,31915.0,0
+Germany,Berlin,Operations,Health & Safety Officer,Mid,Male,Black,2,2,0,0.0,0,13.5,49206.0,0
+UK,London,Sales,Account Manager,Manager,Male,White,7,7,0,0.0,0,42.0,94342.0,7
+UK,Leeds,Supply Chain,Warehouse Manager,Manager,Male,White,5,5,0,0.0,0,31.8,97308.0,5
+UK,Manchester,Commercial,Pricing Manager,Manager,Male,White,5,3,2,0.4,1,26.4,103354.0,5
+UK,Leeds,Operations,Construction Supervisor,Manager,Male,Black,1,1,0,0.0,0,71.0,86665.0,1
+UK,Leeds,Supply Chain,Logistics Coordinator,Junior,Male,White,13,11,2,0.1538,0,41.9,31314.0,0
+Netherlands,Amsterdam,Operations,Construction Supervisor,Manager,Male,White,6,5,1,0.1667,0,47.8,99785.0,6
+UK,London,People,HR Advisor,Mid,Male,Mixed,1,1,0,0.0,0,36.0,49786.0,0
+UK,Leeds,People,HR Business Partner,Senior,Male,White,6,4,2,0.3333,0,28.8,67665.0,0
+France,Lyon,Customer Support,Customer Support Rep,Junior,Male,White,9,7,2,0.2222,1,34.2,29574.0,0
+UK,London,Supply Chain,Procurement Specialist,Mid,Male,White,12,10,2,0.1667,1,31.4,48765.0,0
+UK,Leeds,Finance,Financial Analyst,Mid,Male,Black,2,2,0,0.0,0,27.0,53666.0,0
+UK,London,Finance,Financial Analyst,Mid,Male,White,5,5,0,0.0,0,40.2,46749.0,0
+Germany,Munich,Finance,Accountant,Mid,Male,White,2,1,1,0.5,0,37.0,46959.0,0
+UK,Glasgow,Commercial,Commercial Analyst,Mid,Male,Asian,1,1,0,0.0,0,37.0,49640.0,0
+UK,Manchester,Operations,Health & Safety Officer,Mid,Male,White,7,6,1,0.1429,0,40.6,48006.0,0
+France,Lyon,Operations,Project Manager,Manager,Male,Other,1,1,0,0.0,0,36.0,114596.0,1
+Germany,Hamburg,Operations,Construction Supervisor,Manager,Female,White,1,1,0,0.0,0,50.0,108872.0,1
+UK,Glasgow,People,HR Advisor,Mid,Female,Asian,2,2,0,0.0,0,12.5,40522.0,0
+UK,Leeds,Finance,Financial Analyst,Mid,Male,White,2,1,1,0.5,0,30.0,46750.0,0
+UK,London,Supply Chain,Procurement Specialist,Mid,Male,Black,2,2,0,0.0,0,29.0,40834.0,0
+UK,Birmingham,Technology,Software Engineer,Senior,Male,White,4,3,1,0.25,0,34.8,67155.0,0
+UK,Glasgow,Sales,Account Manager,Manager,Male,White,7,7,0,0.0,0,43.0,97023.0,7
+Germany,Munich,Commercial,Pricing Manager,Manager,Male,Asian,2,1,1,0.5,0,65.0,107757.0,2
+France,Lyon,Supply Chain,Logistics Coordinator,Junior,Female,White,3,3,0,0.0,0,44.7,32252.0,0
+Germany,Berlin,People,HR Business Partner,Senior,Male,Black,2,2,0,0.0,0,42.0,69570.0,0
+France,Lyon,Finance,Financial Analyst,Mid,Male,Other,1,1,0,0.0,0,41.0,55604.0,0
+UK,Glasgow,Commercial,Pricing Manager,Manager,Female,White,2,2,0,0.0,0,43.0,93747.0,2
+Ireland,Dublin,People,HR Advisor,Mid,Male,Mixed,1,1,0,0.0,0,42.0,40909.0,0
+UK,Glasgow,Supply Chain,Warehouse Manager,Manager,Male,Asian,2,2,0,0.0,0,45.0,97045.0,2
+France,Paris,Supply Chain,Logistics Coordinator,Junior,Female,Asian,1,1,0,0.0,0,37.0,29753.0,0
+Germany,Munich,People,HR Advisor,Mid,Male,White,3,2,1,0.3333,0,50.3,53046.0,0
+UK,Birmingham,Customer Support,Customer Support Rep,Junior,Male,Black,1,1,0,0.0,0,41.0,26230.0,0
+France,Paris,Operations,Health & Safety Officer,Mid,Female,Black,1,1,0,0.0,0,29.0,42936.0,0
+Netherlands,Rotterdam,Operations,Construction Supervisor,Manager,Male,Mixed,2,2,0,0.0,0,63.5,104996.0,2
+UK,Leeds,Operations,Operations Analyst,Mid,Male,Black,1,1,0,0.0,0,14.0,41274.0,0
+France,Paris,Customer Support,Customer Support Rep,Junior,Male,Asian,1,1,0,0.0,0,19.0,28597.0,0
+Germany,Berlin,People,HR Business Partner,Senior,Male,White,4,3,1,0.25,0,41.8,73492.0,0
+Netherlands,Rotterdam,Finance,Financial Analyst,Mid,Male,Mixed,1,1,0,0.0,0,62.0,47166.0,0
+UK,Leeds,People,HR Advisor,Mid,Female,White,1,1,0,0.0,0,74.0,52470.0,0
+France,Paris,Supply Chain,Logistics Coordinator,Junior,Male,Mixed,1,0,1,1.0,0,24.0,30799.0,0
+Netherlands,Amsterdam,Supply Chain,Warehouse Manager,Manager,Female,White,1,1,0,0.0,0,34.0,112933.0,1
+UK,Manchester,Finance,Accountant,Mid,Male,Asian,1,1,0,0.0,0,13.0,50109.0,0
+Ireland,Cork,Customer Support,Customer Success Manager,Manager,Male,White,2,1,1,0.5,0,28.5,95872.0,2
+UK,Birmingham,Commercial,Pricing Manager,Manager,Male,Other,1,1,0,0.0,0,43.0,102899.0,1
+UK,Manchester,Operations,Health & Safety Officer,Mid,Male,Black,1,1,0,0.0,0,57.0,42362.0,0
+UK,Glasgow,Finance,Accountant,Mid,Female,Other,1,1,0,0.0,0,41.0,38995.0,0
+UK,Leeds,Sales,Account Manager,Manager,Female,Asian,1,1,0,0.0,0,18.0,100539.0,1
+UK,Manchester,Customer Support,Customer Support Rep,Junior,Female,Asian,1,1,0,0.0,0,17.0,32008.0,0
+Netherlands,Amsterdam,Operations,Project Manager,Manager,Female,White,1,1,0,0.0,0,57.0,86368.0,1
+UK,Birmingham,Finance,Accountant,Mid,Male,Asian,1,1,0,0.0,0,59.0,51050.0,0
+Ireland,Cork,Customer Support,Customer Success Manager,Manager,Male,Black,1,1,0,0.0,0,56.0,97600.0,1
+UK,London,Technology,Data Analyst,Mid,Male,Mixed,1,1,0,0.0,0,43.0,50775.0,0
+France,Paris,Commercial,Pricing Manager,Manager,Female,Asian,1,1,0,0.0,0,28.0,102671.0,1
+Germany,Berlin,Supply Chain,Logistics Coordinator,Junior,Female,Asian,1,0,1,1.0,1,1.0,29705.0,0
+UK,Leeds,Supply Chain,Logistics Coordinator,Junior,Male,Black,1,1,0,0.0,0,33.0,30709.0,0
+UK,Manchester,Operations,Operations Analyst,Mid,Female,White,1,1,0,0.0,0,39.0,44900.0,0
+UK,Glasgow,Supply Chain,Warehouse Manager,Manager,Male,White,6,6,0,0.0,0,20.7,97815.0,6
+Germany,Hamburg,Technology,Data Analyst,Mid,Female,White,2,1,1,0.5,0,17.0,50532.0,0
+France,Paris,Customer Support,Customer Support Rep,Junior,Male,White,12,9,3,0.25,2,28.3,31057.0,0
+Germany,Berlin,Operations,Site Engineer,Mid,Female,White,1,1,0,0.0,0,69.0,53047.0,0
+Germany,Munich,Operations,Construction Supervisor,Manager,Male,White,11,10,1,0.0909,1,31.6,94303.0,11
+Ireland,Cork,Sales,Sales Executive,Junior,Male,White,5,5,0,0.0,0,37.2,31256.0,0
+UK,Birmingham,Customer Support,Customer Support Rep,Junior,Female,White,2,2,0,0.0,0,46.5,31332.0,0
+France,Paris,Finance,Financial Analyst,Mid,Female,White,1,1,0,0.0,0,5.0,54104.0,0
+Germany,Hamburg,Finance,Financial Analyst,Mid,Male,Other,1,1,0,0.0,0,27.0,52501.0,0
+Ireland,Dublin,Supply Chain,Procurement Specialist,Mid,Male,Mixed,1,0,1,1.0,0,19.0,53773.0,0
+UK,Manchester,Commercial,Pricing Manager,Manager,Male,Asian,1,1,0,0.0,0,20.0,98972.0,1
+UK,Leeds,Operations,Construction Supervisor,Manager,Male,Asian,3,3,0,0.0,0,21.0,101485.0,3
+UK,Birmingham,Finance,Accountant,Mid,Male,White,3,3,0,0.0,0,24.0,43297.0,0
+UK,Manchester,Finance,Accountant,Mid,Male,White,5,4,1,0.2,1,35.8,44095.0,0
+UK,Manchester,Supply Chain,Logistics Coordinator,Junior,Male,Black,4,3,1,0.25,1,19.5,31081.0,0
+Netherlands,Amsterdam,Technology,Data Analyst,Mid,Male,Black,1,1,0,0.0,0,67.0,47954.0,0
+Ireland,Cork,Technology,Data Analyst,Mid,Male,White,3,3,0,0.0,0,41.0,47506.0,0
+Netherlands,Amsterdam,Supply Chain,Warehouse Manager,Manager,Male,White,3,3,0,0.0,0,28.3,101717.0,3
+Germany,Munich,Supply Chain,Procurement Specialist,Mid,Male,Black,1,0,1,1.0,1,7.0,55876.0,0
+UK,London,Finance,Financial Analyst,Mid,Male,Asian,2,2,0,0.0,0,53.5,43925.0,0
+UK,Birmingham,Technology,Data Analyst,Mid,Male,White,4,4,0,0.0,0,25.0,51302.0,0
+Ireland,Dublin,People,HR Advisor,Mid,Female,Asian,1,1,0,0.0,0,55.0,48327.0,0
+UK,Manchester,Supply Chain,Logistics Coordinator,Junior,Male,White,12,10,2,0.1667,0,40.9,31381.0,0
+UK,Glasgow,Commercial,Commercial Analyst,Mid,Male,White,7,5,2,0.2857,1,24.4,48079.0,0
+Germany,Hamburg,Supply Chain,Warehouse Manager,Manager,Female,White,1,0,1,1.0,1,9.0,78497.0,1
+France,Paris,Technology,Data Engineer,Senior,Male,White,3,3,0,0.0,0,59.7,77250.0,0
+UK,Leeds,Commercial,Commercial Analyst,Mid,Male,Mixed,1,1,0,0.0,0,29.0,45982.0,0
+Germany,Berlin,Commercial,Commercial Analyst,Mid,Male,Mixed,2,2,0,0.0,0,49.5,42345.0,0
+UK,Birmingham,Supply Chain,Procurement Specialist,Mid,Female,Mixed,1,1,0,0.0,0,22.0,54807.0,0
+UK,Manchester,Operations,Site Engineer,Mid,Female,Black,1,1,0,0.0,0,21.0,55352.0,0
+UK,Manchester,Sales,Sales Executive,Junior,Male,Mixed,2,0,2,1.0,1,11.5,29353.0,0
+France,Lyon,Customer Support,Customer Support Rep,Junior,Male,Asian,1,0,1,1.0,0,16.0,26734.0,0
+France,Lyon,Supply Chain,Procurement Specialist,Mid,Male,Mixed,2,2,0,0.0,0,16.0,50924.0,0
+UK,Manchester,Operations,Health & Safety Officer,Mid,Male,Asian,2,1,1,0.5,0,33.5,49738.0,0
+France,Paris,Supply Chain,Logistics Coordinator,Junior,Female,White,3,3,0,0.0,0,32.0,28898.0,0
+UK,Manchester,Finance,Accountant,Mid,Male,Black,1,1,0,0.0,0,71.0,44168.0,0
+France,Lyon,Sales,Sales Executive,Junior,Female,Mixed,1,1,0,0.0,0,62.0,27354.0,0
+Germany,Munich,Customer Support,Customer Support Rep,Junior,Female,White,1,1,0,0.0,0,35.0,30425.0,0
+UK,Birmingham,Commercial,Commercial Analyst,Mid,Male,Black,2,2,0,0.0,0,24.5,46525.0,0
+Germany,Munich,Supply Chain,Procurement Specialist,Mid,Male,White,8,2,6,0.75,5,9.0,44211.0,0
+UK,Manchester,Operations,Project Manager,Manager,Male,Mixed,2,1,1,0.5,0,33.0,93925.0,2
+UK,Glasgow,People,HR Advisor,Mid,Female,White,1,1,0,0.0,0,34.0,48874.0,0
+Germany,Berlin,Operations,Health & Safety Officer,Mid,Male,Asian,2,0,2,1.0,0,40.5,53031.0,0
+UK,Birmingham,Commercial,Commercial Analyst,Mid,Male,White,2,2,0,0.0,0,33.5,46996.0,0
+Netherlands,Amsterdam,Supply Chain,Warehouse Manager,Manager,Male,Black,2,2,0,0.0,0,48.5,88636.0,2
+UK,Glasgow,Sales,Account Manager,Manager,Male,Asian,2,2,0,0.0,0,33.5,96764.0,2
+France,Paris,Supply Chain,Warehouse Manager,Manager,Male,Mixed,2,2,0,0.0,0,32.0,98023.0,2
+UK,Manchester,Operations,Construction Supervisor,Manager,Female,White,1,1,0,0.0,0,25.0,87631.0,1
+Germany,Munich,Customer Support,Customer Success Manager,Manager,Female,White,1,1,0,0.0,0,39.0,107215.0,1
+UK,Manchester,Operations,Site Engineer,Mid,Female,White,2,2,0,0.0,0,25.5,45315.0,0
+Germany,Munich,Commercial,Pricing Manager,Manager,Male,White,2,1,1,0.5,0,43.0,96621.0,2
+UK,London,Customer Support,Customer Support Rep,Junior,Male,Other,1,1,0,0.0,0,2.0,27750.0,0
+UK,Manchester,Supply Chain,Procurement Specialist,Mid,Female,White,1,1,0,0.0,0,21.0,43123.0,0
+UK,Leeds,Supply Chain,Logistics Coordinator,Junior,Male,Asian,2,2,0,0.0,0,7.5,34910.0,0
+UK,Glasgow,People,HR Business Partner,Senior,Male,White,1,1,0,0.0,0,13.0,80732.0,0
+Germany,Munich,Technology,Data Engineer,Senior,Male,White,1,1,0,0.0,0,74.0,72719.0,0
+Germany,Berlin,Supply Chain,Logistics Coordinator,Junior,Female,White,1,1,0,0.0,0,60.0,26219.0,0
+Ireland,Dublin,Sales,Sales Executive,Junior,Female,White,1,1,0,0.0,0,52.0,28657.0,0
+France,Paris,Customer Support,Customer Success Manager,Manager,Female,White,1,1,0,0.0,0,22.0,98577.0,1
+UK,Manchester,Supply Chain,Logistics Coordinator,Junior,Female,White,1,1,0,0.0,0,28.0,28937.0,0
+Germany,Berlin,Technology,Data Analyst,Mid,Female,White,1,1,0,0.0,0,71.0,45375.0,0
+Ireland,Cork,Finance,Accountant,Mid,Male,White,1,1,0,0.0,0,26.0,44181.0,0
+UK,Leeds,Technology,Data Engineer,Senior,Female,White,1,1,0,0.0,0,50.0,73352.0,0
+Netherlands,Amsterdam,Technology,Data Analyst,Mid,Male,White,1,0,1,1.0,1,1.0,52256.0,0
+France,Lyon,People,HR Advisor,Mid,Female,White,1,1,0,0.0,0,9.0,42705.0,0
+Germany,Hamburg,Sales,Sales Executive,Junior,Male,Mixed,1,1,0,0.0,0,44.0,28436.0,0
+UK,Birmingham,Technology,Data Analyst,Mid,Male,Black,1,0,1,1.0,1,1.0,51607.0,0
+Netherlands,Amsterdam,Finance,Accountant,Mid,Male,White,1,1,0,0.0,0,73.0,54265.0,0
+UK,Birmingham,Technology,Data Engineer,Senior,Male,Mixed,1,1,0,0.0,0,41.0,81978.0,0
+Germany,Hamburg,Operations,Construction Supervisor,Manager,Female,Asian,1,1,0,0.0,0,7.0,98649.0,1
+UK,Manchester,Commercial,Commercial Analyst,Mid,Male,Mixed,1,1,0,0.0,0,38.0,50927.0,0
+Germany,Hamburg,Commercial,Commercial Analyst,Mid,Female,White,1,1,0,0.0,0,36.0,47484.0,0
+Ireland,Dublin,Customer Support,Customer Support Rep,Junior,Male,White,4,4,0,0.0,0,33.5,33561.0,0
+UK,Manchester,Operations,Operations Analyst,Mid,Male,White,5,3,2,0.4,1,18.2,49481.0,0
+Netherlands,Rotterdam,Operations,Construction Supervisor,Manager,Male,White,6,3,3,0.5,0,32.2,98688.0,6
+Germany,Munich,People,HR Advisor,Mid,Male,Mixed,1,1,0,0.0,0,2.0,41824.0,0
+UK,Birmingham,Operations,Project Manager,Manager,Male,White,14,12,2,0.1429,2,32.9,92091.0,14
+Netherlands,Amsterdam,Operations,Operations Analyst,Mid,Male,White,5,5,0,0.0,0,32.6,44661.0,0
+Netherlands,Amsterdam,Operations,Site Engineer,Mid,Male,Asian,1,1,0,0.0,0,60.0,50380.0,0
+Germany,Berlin,Supply Chain,Procurement Specialist,Mid,Female,Asian,1,1,0,0.0,0,64.0,42508.0,0
+France,Paris,Supply Chain,Logistics Coordinator,Junior,Male,White,8,6,2,0.25,0,42.0,30370.0,0
+UK,Glasgow,Finance,Accountant,Mid,Male,Asian,2,2,0,0.0,0,37.0,50620.0,0
+Germany,Munich,Operations,Health & Safety Officer,Mid,Male,Asian,1,1,0,0.0,0,32.0,44817.0,0
+UK,London,Technology,Software Engineer,Senior,Male,White,3,3,0,0.0,0,53.7,73842.0,0
+France,Paris,Supply Chain,Warehouse Manager,Manager,Male,Asian,2,1,1,0.5,1,32.0,96638.0,2
+Netherlands,Rotterdam,Finance,Financial Analyst,Mid,Male,White,4,3,1,0.25,0,55.8,41924.0,0
+UK,London,People,HR Advisor,Mid,Male,White,4,4,0,0.0,0,26.0,53233.0,0
+UK,London,Operations,Project Manager,Manager,Female,White,4,4,0,0.0,0,41.0,103369.0,4
+UK,Manchester,Operations,Operations Analyst,Mid,Male,Black,1,1,0,0.0,0,25.0,41778.0,0
+UK,Glasgow,Commercial,Pricing Manager,Manager,Female,Mixed,1,1,0,0.0,0,61.0,89269.0,1
+UK,Manchester,Commercial,Commercial Analyst,Mid,Male,Asian,1,1,0,0.0,0,9.0,47146.0,0
+France,Paris,Finance,Financial Analyst,Mid,Male,Asian,2,2,0,0.0,0,19.5,48224.0,0
+Netherlands,Amsterdam,Customer Support,Customer Success Manager,Manager,Male,White,1,1,0,0.0,0,8.0,94876.0,1
+UK,Glasgow,Operations,Operations Analyst,Mid,Male,White,3,2,1,0.3333,1,12.7,49180.0,0
+Netherlands,Rotterdam,Supply Chain,Procurement Specialist,Mid,Male,White,3,3,0,0.0,0,47.0,47060.0,0
+Netherlands,Rotterdam,Operations,Construction Supervisor,Manager,Female,White,1,1,0,0.0,0,38.0,79162.0,1
+UK,Manchester,Customer Support,Customer Success Manager,Manager,Male,White,9,8,1,0.1111,0,28.8,94351.0,9
+Netherlands,Amsterdam,Sales,Account Manager,Manager,Female,White,1,1,0,0.0,0,5.0,91808.0,1
+UK,Birmingham,Customer Support,Customer Support Rep,Junior,Male,Mixed,1,1,0,0.0,0,31.0,28942.0,0
+UK,Birmingham,Finance,Accountant,Mid,Female,White,1,1,0,0.0,0,66.0,39606.0,0
+Germany,Berlin,People,HR Advisor,Mid,Male,White,3,3,0,0.0,0,25.3,48399.0,0
+UK,Leeds,Commercial,Commercial Analyst,Mid,Male,Asian,1,1,0,0.0,0,41.0,42219.0,0
+UK,Manchester,Operations,Health & Safety Officer,Mid,Male,Mixed,2,0,2,1.0,0,32.0,53471.0,0
+Germany,Berlin,Customer Support,Customer Support Rep,Junior,Female,White,1,1,0,0.0,0,66.0,31083.0,0
+Netherlands,Amsterdam,Operations,Operations Analyst,Mid,Female,White,1,0,1,1.0,0,22.0,41813.0,0
+Germany,Hamburg,People,HR Business Partner,Senior,Female,Mixed,1,0,1,1.0,1,3.0,73890.0,0
+UK,London,Technology,Data Analyst,Mid,Male,White,8,7,1,0.125,1,39.1,49094.0,0
+UK,Manchester,Commercial,Pricing Manager,Manager,Male,Mixed,1,1,0,0.0,0,50.0,81400.0,1
+UK,Leeds,Supply Chain,Logistics Coordinator,Junior,Male,Mixed,1,1,0,0.0,0,64.0,34277.0,0
+UK,Glasgow,Commercial,Pricing Manager,Manager,Male,Asian,1,1,0,0.0,0,40.0,101259.0,1
+Ireland,Cork,Customer Support,Customer Support Rep,Junior,Male,White,1,1,0,0.0,0,17.0,34286.0,0
+UK,Glasgow,Operations,Construction Supervisor,Manager,Male,Other,1,1,0,0.0,0,4.0,97686.0,1
+France,Paris,Supply Chain,Logistics Coordinator,Junior,Male,Black,2,1,1,0.5,0,18.5,31303.0,0
+UK,London,Supply Chain,Procurement Specialist,Mid,Male,Mixed,1,1,0,0.0,0,23.0,42408.0,0
+Ireland,Cork,Commercial,Pricing Manager,Manager,Male,Other,1,1,0,0.0,0,46.0,98865.0,1
+Germany,Hamburg,Sales,Sales Executive,Junior,Male,Asian,1,1,0,0.0,0,73.0,30454.0,0
+UK,London,Finance,Financial Analyst,Mid,Male,Mixed,1,1,0,0.0,0,9.0,42273.0,0
+Ireland,Dublin,Operations,Site Engineer,Mid,Male,White,1,1,0,0.0,0,48.0,41151.0,0
+UK,Manchester,Operations,Project Manager,Manager,Male,Asian,1,1,0,0.0,0,26.0,85597.0,1
+Germany,Berlin,Sales,Sales Executive,Junior,Female,Black,1,0,1,1.0,0,27.0,32146.0,0
+France,Lyon,Supply Chain,Procurement Specialist,Mid,Male,Asian,1,1,0,0.0,0,16.0,46081.0,0
+UK,Leeds,Operations,Site Engineer,Mid,Female,Other,1,1,0,0.0,0,31.0,51161.0,0
+UK,Manchester,Technology,Software Engineer,Senior,Female,Asian,1,1,0,0.0,0,22.0,78797.0,0
+Ireland,Cork,Operations,Project Manager,Manager,Female,White,2,2,0,0.0,0,46.5,96225.0,2
+UK,Birmingham,Technology,Data Engineer,Senior,Male,Asian,1,1,0,0.0,0,58.0,65806.0,0
+Ireland,Dublin,People,HR Advisor,Mid,Male,White,1,1,0,0.0,0,6.0,45432.0,0
+UK,Leeds,Supply Chain,Warehouse Manager,Manager,Male,Mixed,1,1,0,0.0,0,56.0,91790.0,1
+France,Lyon,Supply Chain,Procurement Specialist,Mid,Female,White,1,1,0,0.0,0,11.0,52299.0,0
+UK,Birmingham,Operations,Construction Supervisor,Manager,Female,White,1,1,0,0.0,0,46.0,83909.0,1
+Ireland,Cork,Operations,Operations Analyst,Mid,Male,White,2,2,0,0.0,0,68.5,43213.0,0
+UK,Leeds,Operations,Construction Supervisor,Manager,Female,Asian,2,2,0,0.0,0,15.5,97500.0,2
+Germany,Munich,Operations,Site Engineer,Mid,Male,White,10,8,2,0.2,0,51.5,48554.0,0
+UK,Birmingham,Operations,Site Engineer,Mid,Male,White,14,13,1,0.0714,0,29.4,45830.0,0
+UK,Birmingham,Operations,Construction Supervisor,Manager,Male,White,16,16,0,0.0,0,34.0,92078.0,16
+Germany,Berlin,Supply Chain,Warehouse Manager,Manager,Male,White,6,5,1,0.1667,0,27.7,95821.0,6
+UK,Birmingham,Sales,Account Manager,Manager,Female,Asian,1,0,1,1.0,0,41.0,113750.0,1
+UK,Glasgow,Finance,Financial Analyst,Mid,Male,White,7,6,1,0.1429,1,28.6,46315.0,0
+UK,Glasgow,Operations,Project Manager,Manager,Male,White,11,10,1,0.0909,1,41.3,93531.0,11
+UK,Leeds,Sales,Account Manager,Manager,Male,Mixed,2,2,0,0.0,0,18.5,104123.0,2
+Netherlands,Rotterdam,Technology,Software Engineer,Senior,Male,White,3,3,0,0.0,0,29.0,70373.0,0
+Germany,Munich,Sales,Account Manager,Manager,Male,White,6,5,1,0.1667,1,27.2,89686.0,6
+UK,Glasgow,Supply Chain,Logistics Coordinator,Junior,Male,Mixed,1,1,0,0.0,0,74.0,31482.0,0
+Germany,Berlin,Customer Support,Customer Success Manager,Manager,Male,Asian,1,1,0,0.0,0,46.0,85896.0,1
+Ireland,Cork,Supply Chain,Procurement Specialist,Mid,Male,Mixed,1,1,0,0.0,0,71.0,38811.0,0
+UK,Glasgow,Customer Support,Customer Success Manager,Manager,Male,White,7,7,0,0.0,0,47.7,101223.0,7
+Netherlands,Amsterdam,Technology,Data Engineer,Senior,Male,White,1,1,0,0.0,0,21.0,77597.0,0
+France,Lyon,Operations,Construction Supervisor,Manager,Male,Asian,1,1,0,0.0,0,67.0,98541.0,1
+France,Lyon,Operations,Site Engineer,Mid,Male,Mixed,1,0,1,1.0,0,33.0,41280.0,0
+UK,Leeds,Operations,Site Engineer,Mid,Male,White,9,7,2,0.2222,2,39.1,49161.0,0
+UK,Manchester,Supply Chain,Warehouse Manager,Manager,Female,Asian,2,1,1,0.5,1,37.0,107946.0,2
+UK,Birmingham,Operations,Construction Supervisor,Manager,Male,Black,1,1,0,0.0,0,38.0,78357.0,1
+UK,Manchester,Supply Chain,Procurement Specialist,Mid,Male,Mixed,1,1,0,0.0,0,66.0,53068.0,0
+Netherlands,Rotterdam,Technology,Data Analyst,Mid,Male,Mixed,1,1,0,0.0,0,4.0,46836.0,0
+Germany,Berlin,Supply Chain,Warehouse Manager,Manager,Male,Black,1,0,1,1.0,1,9.0,91911.0,1
+UK,London,Operations,Site Engineer,Mid,Female,White,2,2,0,0.0,0,33.0,43132.0,0
+France,Lyon,Finance,Accountant,Mid,Male,White,6,5,1,0.1667,0,33.0,48583.0,0
+UK,Glasgow,Operations,Project Manager,Manager,Female,White,2,2,0,0.0,0,16.5,86867.0,2
+Germany,Munich,Operations,Site Engineer,Mid,Male,Black,1,0,1,1.0,0,38.0,45691.0,0
+Germany,Munich,Technology,Data Analyst,Mid,Male,Other,1,1,0,0.0,0,18.0,45774.0,0
+UK,London,Operations,Project Manager,Manager,Male,Other,1,1,0,0.0,0,6.0,81230.0,1
+Germany,Hamburg,Sales,Sales Executive,Junior,Female,White,1,1,0,0.0,0,65.0,28003.0,0
+UK,Glasgow,Finance,Financial Analyst,Mid,Male,Black,1,1,0,0.0,0,74.0,44133.0,0
+UK,London,Operations,Operations Analyst,Mid,Male,White,6,4,2,0.3333,2,23.5,45403.0,0
+France,Paris,Operations,Operations Analyst,Mid,Female,White,1,1,0,0.0,0,6.0,39249.0,0
+Netherlands,Rotterdam,Finance,Accountant,Mid,Female,Black,1,1,0,0.0,0,45.0,55793.0,0
+UK,Glasgow,Operations,Project Manager,Manager,Male,Black,2,2,0,0.0,0,64.5,104289.0,2
+UK,Leeds,Operations,Site Engineer,Mid,Male,Black,2,2,0,0.0,0,27.5,51459.0,0
+UK,Birmingham,Finance,Financial Analyst,Mid,Female,Asian,1,1,0,0.0,0,0.0,44948.0,0
+UK,Birmingham,Operations,Site Engineer,Mid,Male,Black,1,1,0,0.0,0,52.0,42510.0,0
+Germany,Hamburg,Technology,Software Engineer,Senior,Male,White,2,1,1,0.5,0,20.0,65073.0,0
+France,Paris,Operations,Site Engineer,Mid,Male,Asian,1,1,0,0.0,0,57.0,52042.0,0
+Germany,Munich,Commercial,Commercial Analyst,Mid,Male,Asian,1,1,0,0.0,0,33.0,51249.0,0
+UK,Leeds,Operations,Health & Safety Officer,Mid,Male,Mixed,1,1,0,0.0,0,55.0,45014.0,0
+Germany,Munich,Supply Chain,Logistics Coordinator,Junior,Female,White,1,1,0,0.0,0,23.0,30897.0,0
+Germany,Hamburg,Commercial,Commercial Analyst,Mid,Male,Mixed,1,1,0,0.0,0,72.0,54411.0,0
+UK,Manchester,Technology,Software Engineer,Senior,Male,Asian,1,1,0,0.0,0,2.0,77634.0,0
+UK,Glasgow,Supply Chain,Logistics Coordinator,Junior,Male,White,16,11,5,0.3125,3,38.0,31119.0,0
+UK,Manchester,Supply Chain,Procurement Specialist,Mid,Male,White,9,7,2,0.2222,1,27.6,47144.0,0
+France,Lyon,Operations,Site Engineer,Mid,Male,White,4,4,0,0.0,0,46.5,43982.0,0
+Germany,Hamburg,Commercial,Commercial Analyst,Mid,Male,White,1,1,0,0.0,0,71.0,49776.0,0
+UK,Leeds,Finance,Accountant,Mid,Male,White,4,4,0,0.0,0,16.3,44388.0,0
+UK,Leeds,Sales,Account Manager,Manager,Male,White,6,5,1,0.1667,0,40.0,97737.0,6
+UK,Glasgow,Operations,Site Engineer,Mid,Male,Asian,5,2,3,0.6,1,32.2,46670.0,0
+UK,Glasgow,Operations,Health & Safety Officer,Mid,Male,White,12,9,3,0.25,1,31.9,46854.0,0
+UK,Leeds,Operations,Health & Safety Officer,Mid,Male,White,10,7,3,0.3,0,34.2,45125.0,0
+Germany,Munich,Operations,Operations Analyst,Mid,Female,White,1,1,0,0.0,0,53.0,49433.0,0
+UK,Leeds,Sales,Account Manager,Manager,Male,Black,1,1,0,0.0,0,29.0,86333.0,1
+UK,Leeds,Commercial,Pricing Manager,Manager,Female,White,1,1,0,0.0,0,70.0,105250.0,1
+UK,Leeds,Customer Support,Customer Support Rep,Junior,Male,Other,2,2,0,0.0,0,21.0,31038.0,0
+UK,Glasgow,Supply Chain,Logistics Coordinator,Junior,Male,Black,2,2,0,0.0,0,46.5,29378.0,0
+Germany,Berlin,Finance,Financial Analyst,Mid,Male,Black,1,0,1,1.0,1,4.0,52520.0,0
+UK,London,Customer Support,Customer Success Manager,Manager,Female,White,2,2,0,0.0,0,39.5,101118.0,2
+Ireland,Dublin,Technology,Data Engineer,Senior,Female,White,1,1,0,0.0,0,52.0,77079.0,0
+UK,Manchester,Supply Chain,Procurement Specialist,Mid,Male,Black,2,2,0,0.0,0,16.0,49486.0,0
+UK,London,Technology,Data Engineer,Senior,Male,White,3,3,0,0.0,0,60.0,75318.0,0
+France,Lyon,Customer Support,Customer Support Rep,Junior,Female,White,1,0,1,1.0,1,3.0,31284.0,0
+UK,Birmingham,Operations,Site Engineer,Mid,Male,Mixed,1,1,0,0.0,0,10.0,45766.0,0
+Germany,Munich,Operations,Operations Analyst,Mid,Male,White,6,3,3,0.5,2,30.7,48499.0,0
+UK,Leeds,People,HR Advisor,Mid,Male,White,5,5,0,0.0,0,34.6,45978.0,0
+UK,Glasgow,Supply Chain,Procurement Specialist,Mid,Male,Other,1,1,0,0.0,0,14.0,51680.0,0
+Netherlands,Rotterdam,Commercial,Pricing Manager,Manager,Male,White,4,4,0,0.0,0,49.8,97742.0,4
+Germany,Berlin,Supply Chain,Procurement Specialist,Mid,Male,Other,3,2,1,0.3333,0,36.7,41650.0,0
+Netherlands,Amsterdam,Technology,Software Engineer,Senior,Female,White,1,1,0,0.0,0,15.0,59935.0,0
+Germany,Hamburg,Supply Chain,Logistics Coordinator,Junior,Male,Other,1,1,0,0.0,0,51.0,27772.0,0
+France,Paris,Operations,Site Engineer,Mid,Female,White,1,1,0,0.0,0,68.0,55550.0,0
+UK,London,Commercial,Commercial Analyst,Mid,Female,Black,1,1,0,0.0,0,57.0,45165.0,0
+Ireland,Dublin,Technology,Software Engineer,Senior,Male,White,2,2,0,0.0,0,25.5,78276.0,0
+UK,Birmingham,People,HR Advisor,Mid,Male,Other,1,0,1,1.0,0,12.0,43866.0,0
+UK,Birmingham,Sales,Sales Executive,Junior,Female,Asian,1,1,0,0.0,0,43.0,29171.0,0
+UK,Leeds,People,HR Advisor,Mid,Male,Black,1,1,0,0.0,0,8.0,43587.0,0
+France,Paris,Customer Support,Customer Success Manager,Manager,Male,Other,1,1,0,0.0,0,20.0,91464.0,1
+UK,London,Sales,Sales Executive,Junior,Female,White,2,2,0,0.0,0,29.5,31386.0,0
+Netherlands,Rotterdam,Technology,Data Analyst,Mid,Male,White,1,0,1,1.0,1,7.0,48832.0,0
+UK,Leeds,Finance,Accountant,Mid,Male,Black,1,1,0,0.0,0,23.0,38766.0,0
+UK,Manchester,Sales,Account Manager,Manager,Male,Asian,2,2,0,0.0,0,51.0,111621.0,2
+France,Lyon,Operations,Site Engineer,Mid,Male,Black,2,1,1,0.5,1,15.0,44529.0,0
+UK,Glasgow,Supply Chain,Procurement Specialist,Mid,Female,Black,1,1,0,0.0,0,16.0,55960.0,0
+UK,Glasgow,Finance,Financial Analyst,Mid,Male,Mixed,1,1,0,0.0,0,8.0,44580.0,0
+UK,Glasgow,Customer Support,Customer Success Manager,Manager,Male,Mixed,1,1,0,0.0,0,10.0,104036.0,1
+UK,Birmingham,Supply Chain,Logistics Coordinator,Junior,Male,Asian,1,1,0,0.0,0,70.0,33556.0,0
+Germany,Berlin,Supply Chain,Logistics Coordinator,Junior,Male,Asian,3,1,2,0.6667,0,34.7,32014.0,0
+Germany,Berlin,Operations,Construction Supervisor,Manager,Male,Other,2,1,1,0.5,0,31.5,104418.0,2
+Ireland,Dublin,Commercial,Pricing Manager,Manager,Male,White,3,3,0,0.0,0,50.0,99524.0,3
+UK,Glasgow,Supply Chain,Procurement Specialist,Mid,Female,White,1,1,0,0.0,0,6.0,40204.0,0
+Germany,Hamburg,Operations,Project Manager,Manager,Female,Asian,1,1,0,0.0,0,65.0,80058.0,1
+Germany,Munich,Supply Chain,Logistics Coordinator,Junior,Female,Mixed,1,0,1,1.0,0,24.0,27035.0,0
+Germany,Munich,People,HR Advisor,Mid,Female,Mixed,1,1,0,0.0,0,0.0,41271.0,0
+UK,Leeds,Commercial,Pricing Manager,Manager,Female,Black,1,1,0,0.0,0,33.0,87299.0,1
+UK,Glasgow,Operations,Project Manager,Manager,Male,Mixed,1,1,0,0.0,0,41.0,109659.0,1
+UK,Glasgow,Customer Support,Customer Support Rep,Junior,Female,White,3,1,2,0.6667,2,25.7,32977.0,0
+Netherlands,Rotterdam,People,HR Advisor,Mid,Male,White,3,2,1,0.3333,0,40.3,50027.0,0
+UK,Leeds,Operations,Site Engineer,Mid,Male,Mixed,1,1,0,0.0,0,27.0,41800.0,0
+Germany,Hamburg,Operations,Project Manager,Manager,Male,Asian,1,1,0,0.0,0,56.0,106799.0,1
+Ireland,Dublin,Supply Chain,Logistics Coordinator,Junior,Male,Asian,1,1,0,0.0,0,56.0,34227.0,0
+Ireland,Cork,Sales,Account Manager,Manager,Male,White,2,2,0,0.0,0,44.5,85350.0,2
+UK,Manchester,Commercial,Commercial Analyst,Mid,Female,White,1,1,0,0.0,0,27.0,38681.0,0
+UK,Glasgow,Operations,Health & Safety Officer,Mid,Male,Black,1,0,1,1.0,0,16.0,51870.0,0
+Germany,Berlin,Technology,Software Engineer,Senior,Female,Black,1,1,0,0.0,0,58.0,77404.0,0
+UK,London,Sales,Sales Executive,Junior,Female,Black,1,1,0,0.0,0,13.0,27993.0,0
+Germany,Hamburg,Operations,Health & Safety Officer,Mid,Female,White,1,0,1,1.0,0,18.0,47299.0,0
+Ireland,Cork,Supply Chain,Procurement Specialist,Mid,Male,White,2,2,0,0.0,0,23.0,49146.0,0
+UK,London,Operations,Operations Analyst,Mid,Male,Mixed,1,0,1,1.0,0,12.0,45002.0,0
+UK,Birmingham,Operations,Construction Supervisor,Manager,Male,Mixed,1,1,0,0.0,0,54.0,82124.0,1
+UK,London,Commercial,Commercial Analyst,Mid,Female,White,1,0,1,1.0,0,18.0,45937.0,0
+Germany,Berlin,Finance,Financial Analyst,Mid,Male,White,1,1,0,0.0,0,17.0,53080.0,0
+UK,Manchester,Operations,Project Manager,Manager,Male,White,16,15,1,0.0625,1,33.4,96226.0,16
+Germany,Berlin,Customer Support,Customer Support Rep,Junior,Male,White,12,8,4,0.3333,1,25.4,31907.0,0
+Ireland,Dublin,Supply Chain,Procurement Specialist,Mid,Male,White,1,1,0,0.0,0,48.0,52901.0,0
+UK,Manchester,Sales,Sales Executive,Junior,Male,Black,1,1,0,0.0,0,63.0,30039.0,0
+Germany,Munich,Operations,Health & Safety Officer,Mid,Male,White,8,6,2,0.25,0,39.3,49731.0,0
+UK,Leeds,Supply Chain,Procurement Specialist,Mid,Female,White,2,1,1,0.5,0,39.0,44563.0,0
+Germany,Hamburg,Sales,Sales Executive,Junior,Male,Black,2,2,0,0.0,0,24.0,31561.0,0
+UK,Glasgow,Finance,Accountant,Mid,Male,White,1,1,0,0.0,0,38.0,40625.0,0
+UK,Manchester,Sales,Sales Executive,Junior,Male,White,6,4,2,0.3333,1,26.0,30042.0,0
+UK,Manchester,Commercial,Commercial Analyst,Mid,Male,White,4,2,2,0.5,1,26.5,49471.0,0
+France,Paris,Supply Chain,Warehouse Manager,Manager,Male,White,4,3,1,0.25,0,33.8,101764.0,4
+UK,Birmingham,Technology,Data Engineer,Senior,Male,White,4,4,0,0.0,0,29.5,74200.0,0
+Netherlands,Rotterdam,Finance,Financial Analyst,Mid,Male,Asian,1,1,0,0.0,0,64.0,54208.0,0
+France,Paris,Supply Chain,Logistics Coordinator,Junior,Male,Asian,1,1,0,0.0,0,47.0,26543.0,0
+Netherlands,Amsterdam,Operations,Site Engineer,Mid,Male,White,7,6,1,0.1429,0,40.6,46106.0,0
+Germany,Munich,Commercial,Pricing Manager,Manager,Male,Mixed,1,1,0,0.0,0,67.0,103662.0,1
+UK,Glasgow,Commercial,Pricing Manager,Manager,Male,White,5,5,0,0.0,0,36.4,92628.0,5
+UK,Glasgow,Supply Chain,Warehouse Manager,Manager,Male,Mixed,1,1,0,0.0,0,70.0,104064.0,1
+UK,Glasgow,Commercial,Pricing Manager,Manager,Male,Black,1,1,0,0.0,0,60.0,97738.0,1
+France,Lyon,Supply Chain,Procurement Specialist,Mid,Male,White,5,4,1,0.2,1,46.0,47895.0,0
+Germany,Munich,Operations,Construction Supervisor,Manager,Male,Mixed,1,1,0,0.0,0,30.0,85767.0,1
+Germany,Hamburg,Sales,Sales Executive,Junior,Male,White,6,2,4,0.6667,3,21.2,30943.0,0
+Netherlands,Rotterdam,Sales,Sales Executive,Junior,Female,Asian,1,1,0,0.0,0,23.0,34904.0,0
+France,Lyon,Supply Chain,Warehouse Manager,Manager,Male,White,6,6,0,0.0,0,39.7,103231.0,6
+Netherlands,Amsterdam,People,HR Advisor,Mid,Male,Black,1,1,0,0.0,0,12.0,44808.0,0
+UK,Leeds,Operations,Project Manager,Manager,Male,Other,1,1,0,0.0,0,48.0,111181.0,1
+Germany,Berlin,Commercial,Commercial Analyst,Mid,Male,Black,1,1,0,0.0,0,56.0,42765.0,0
+UK,Leeds,Commercial,Commercial Analyst,Mid,Male,White,3,3,0,0.0,0,49.7,51084.0,0
+Netherlands,Amsterdam,Supply Chain,Logistics Coordinator,Junior,Female,White,1,1,0,0.0,0,14.0,32064.0,0
+Netherlands,Amsterdam,Supply Chain,Procurement Specialist,Mid,Female,White,3,2,1,0.3333,0,32.0,48937.0,0
+Germany,Berlin,Operations,Project Manager,Manager,Female,White,1,1,0,0.0,0,19.0,99005.0,1
+France,Paris,Finance,Financial Analyst,Mid,Male,White,2,2,0,0.0,0,34.0,50532.0,0
+France,Paris,Technology,Software Engineer,Senior,Female,White,1,0,1,1.0,1,6.0,68729.0,0
+Germany,Berlin,Supply Chain,Procurement Specialist,Mid,Female,White,1,1,0,0.0,0,36.0,43717.0,0
+Ireland,Dublin,Customer Support,Customer Support Rep,Junior,Male,Asian,1,0,1,1.0,0,25.0,35790.0,0
+Ireland,Cork,Sales,Sales Executive,Junior,Male,Mixed,1,1,0,0.0,0,36.0,33249.0,0
+Netherlands,Amsterdam,Sales,Account Manager,Manager,Female,Asian,1,0,1,1.0,0,22.0,87685.0,1
+Germany,Berlin,Commercial,Commercial Analyst,Mid,Male,White,3,2,1,0.3333,1,28.3,45364.0,0
+UK,London,Supply Chain,Warehouse Manager,Manager,Female,White,1,1,0,0.0,0,33.0,81388.0,1
+France,Lyon,Supply Chain,Warehouse Manager,Manager,Male,Black,1,0,1,1.0,0,27.0,107501.0,1
+UK,Birmingham,People,HR Business Partner,Senior,Female,Asian,1,1,0,0.0,0,68.0,78173.0,0
+UK,London,People,HR Advisor,Mid,Male,Asian,1,1,0,0.0,0,52.0,41105.0,0
+Germany,Munich,Operations,Health & Safety Officer,Mid,Male,Black,1,1,0,0.0,0,64.0,48552.0,0
+Netherlands,Amsterdam,Supply Chain,Logistics Coordinator,Junior,Female,Black,1,0,1,1.0,1,2.0,35099.0,0
+France,Paris,Technology,Data Analyst,Mid,Male,Other,1,1,0,0.0,0,63.0,43731.0,0
+Germany,Hamburg,People,HR Business Partner,Senior,Male,White,1,1,0,0.0,0,34.0,58449.0,0
+UK,Birmingham,Technology,Data Engineer,Senior,Male,Black,1,1,0,0.0,0,69.0,62459.0,0
+Ireland,Dublin,People,HR Advisor,Mid,Male,Asian,1,1,0,0.0,0,7.0,50788.0,0
+UK,Glasgow,Operations,Health & Safety Officer,Mid,Female,White,1,1,0,0.0,0,72.0,51750.0,0
+UK,Manchester,Commercial,Commercial Analyst,Mid,Male,Black,1,1,0,0.0,0,67.0,54430.0,0
+UK,Leeds,Operations,Project Manager,Manager,Male,Mixed,1,1,0,0.0,0,69.0,104040.0,1
+Netherlands,Amsterdam,Finance,Financial Analyst,Mid,Male,White,1,1,0,0.0,0,48.0,55750.0,0
+UK,Birmingham,Operations,Health & Safety Officer,Mid,Male,White,10,9,1,0.1,1,35.4,46344.0,0
+UK,London,Customer Support,Customer Support Rep,Junior,Male,White,15,13,2,0.1333,0,27.9,33209.0,0
+UK,London,Operations,Health & Safety Officer,Mid,Male,White,12,9,3,0.25,1,28.1,47013.0,0
+Germany,Berlin,Sales,Account Manager,Manager,Male,White,4,4,0,0.0,0,34.5,93863.0,4
+Netherlands,Rotterdam,Commercial,Commercial Analyst,Mid,Male,Black,1,1,0,0.0,0,67.0,52653.0,0
+Germany,Berlin,Operations,Project Manager,Manager,Male,White,9,8,1,0.1111,1,31.7,99947.0,9
+Germany,Hamburg,Finance,Financial Analyst,Mid,Male,White,4,3,1,0.25,0,50.5,47344.0,0
+UK,Glasgow,Finance,Accountant,Mid,Female,Asian,1,0,1,1.0,1,1.0,55500.0,0
+Netherlands,Rotterdam,Operations,Project Manager,Manager,Male,White,5,4,1,0.2,0,33.8,97541.0,5
+Germany,Hamburg,Finance,Financial Analyst,Mid,Male,Black,1,1,0,0.0,0,48.0,47911.0,0
+Netherlands,Rotterdam,Supply Chain,Logistics Coordinator,Junior,Male,White,5,4,1,0.2,0,36.2,29827.0,0
+Germany,Berlin,Finance,Accountant,Mid,Male,White,5,4,1,0.2,0,46.0,46093.0,0
+UK,London,Finance,Accountant,Mid,Female,White,2,2,0,0.0,0,38.0,49325.0,0
+Ireland,Cork,Operations,Health & Safety Officer,Mid,Male,Asian,1,0,1,1.0,1,2.0,42499.0,0
+Netherlands,Amsterdam,Operations,Construction Supervisor,Manager,Female,Black,1,1,0,0.0,0,40.0,103564.0,1
+Netherlands,Amsterdam,Sales,Sales Executive,Junior,Male,White,4,3,1,0.25,1,20.5,28943.0,0
+Germany,Munich,Supply Chain,Logistics Coordinator,Junior,Male,Asian,3,3,0,0.0,0,37.0,30089.0,0
+UK,London,Supply Chain,Procurement Specialist,Mid,Female,White,1,1,0,0.0,0,24.0,40863.0,0
+UK,London,Supply Chain,Procurement Specialist,Mid,Female,Black,1,1,0,0.0,0,48.0,38357.0,0
+UK,Manchester,Operations,Project Manager,Manager,Female,White,3,2,1,0.3333,0,62.0,92713.0,3
+Ireland,Cork,Commercial,Commercial Analyst,Mid,Male,White,2,2,0,0.0,0,31.5,45264.0,0
+Germany,Hamburg,Supply Chain,Procurement Specialist,Mid,Male,Asian,3,3,0,0.0,0,36.7,48904.0,0
+Germany,Hamburg,Finance,Accountant,Mid,Male,Black,1,1,0,0.0,0,59.0,43667.0,0
+Germany,Munich,Customer Support,Customer Support Rep,Junior,Male,Mixed,1,1,0,0.0,0,65.0,27111.0,0
+UK,Birmingham,Operations,Health & Safety Officer,Mid,Male,Black,1,1,0,0.0,0,35.0,55580.0,0
+Ireland,Dublin,Customer Support,Customer Success Manager,Manager,Male,White,5,4,1,0.2,0,39.4,97679.0,5
+Ireland,Cork,Supply Chain,Logistics Coordinator,Junior,Male,White,2,1,1,0.5,0,25.5,31121.0,0
+UK,Glasgow,Supply Chain,Logistics Coordinator,Junior,Female,White,1,0,1,1.0,1,3.0,33221.0,0
+Netherlands,Amsterdam,Sales,Sales Executive,Junior,Male,Black,2,1,1,0.5,1,29.0,28744.0,0
+Netherlands,Amsterdam,Customer Support,Customer Support Rep,Junior,Male,Asian,1,0,1,1.0,0,17.0,29762.0,0
+Germany,Hamburg,Sales,Account Manager,Manager,Female,White,1,1,0,0.0,0,14.0,88021.0,1
+Germany,Hamburg,Finance,Accountant,Mid,Male,White,2,1,1,0.5,0,28.5,53963.0,0
+UK,Birmingham,Technology,Data Analyst,Mid,Female,Mixed,1,1,0,0.0,0,47.0,51753.0,0
+UK,Leeds,Operations,Health & Safety Officer,Mid,Female,Asian,1,1,0,0.0,0,44.0,38791.0,0
+Ireland,Cork,Supply Chain,Warehouse Manager,Manager,Male,White,1,1,0,0.0,0,0.0,98585.0,1
+Ireland,Cork,Supply Chain,Warehouse Manager,Manager,Male,Black,1,0,1,1.0,1,9.0,107220.0,1
+Netherlands,Amsterdam,Supply Chain,Warehouse Manager,Manager,Male,Other,1,1,0,0.0,0,3.0,97252.0,1
+Germany,Berlin,Supply Chain,Warehouse Manager,Manager,Female,Black,1,0,1,1.0,1,8.0,78272.0,1
+UK,London,Customer Support,Customer Support Rep,Junior,Male,Black,1,1,0,0.0,0,54.0,35464.0,0
+UK,London,Supply Chain,Logistics Coordinator,Junior,Female,White,1,1,0,0.0,0,46.0,35543.0,0
+Ireland,Dublin,Operations,Operations Analyst,Mid,Male,White,1,1,0,0.0,0,49.0,55541.0,0
+Netherlands,Rotterdam,Commercial,Commercial Analyst,Mid,Male,White,1,1,0,0.0,0,2.0,48028.0,0
+UK,Manchester,Finance,Accountant,Mid,Female,White,1,1,0,0.0,0,26.0,46345.0,0
+Netherlands,Rotterdam,Finance,Accountant,Mid,Male,Asian,1,1,0,0.0,0,44.0,52440.0,0
+Germany,Munich,Supply Chain,Procurement Specialist,Mid,Male,Other,1,0,1,1.0,1,1.0,40993.0,0
+UK,Leeds,Customer Support,Customer Success Manager,Manager,Male,White,4,4,0,0.0,0,16.5,91443.0,4
+UK,Birmingham,Sales,Sales Executive,Junior,Male,Black,2,2,0,0.0,0,24.0,31553.0,0
+Germany,Munich,Technology,Data Analyst,Mid,Male,White,6,6,0,0.0,0,28.2,45040.0,0
+UK,London,Operations,Project Manager,Manager,Male,Black,3,3,0,0.0,0,58.0,91922.0,3
+France,Paris,Supply Chain,Procurement Specialist,Mid,Male,White,9,5,4,0.4444,1,29.6,47026.0,0
+UK,Birmingham,Sales,Sales Executive,Junior,Male,White,18,17,1,0.0556,1,36.9,30649.0,0
+Germany,Hamburg,Commercial,Pricing Manager,Manager,Male,White,5,4,1,0.2,0,58.6,94052.0,5
+France,Lyon,Sales,Sales Executive,Junior,Male,Mixed,1,1,0,0.0,0,22.0,32051.0,0
+UK,Glasgow,Operations,Project Manager,Manager,Male,Other,3,3,0,0.0,0,35.3,102123.0,3
+UK,London,Operations,Site Engineer,Mid,Male,White,16,12,4,0.25,1,32.2,45302.0,0
+UK,Manchester,Finance,Financial Analyst,Mid,Female,White,3,3,0,0.0,0,38.7,49177.0,0
+UK,London,Operations,Project Manager,Manager,Male,White,9,9,0,0.0,0,32.3,94017.0,9
+France,Paris,Operations,Construction Supervisor,Manager,Male,White,13,11,2,0.1538,1,36.9,96964.0,13
+UK,Birmingham,Supply Chain,Warehouse Manager,Manager,Male,White,5,3,2,0.4,1,28.2,95837.0,5
+UK,Birmingham,Supply Chain,Warehouse Manager,Manager,Male,Black,1,1,0,0.0,0,40.0,103401.0,1
+UK,Leeds,Customer Support,Customer Support Rep,Junior,Male,Mixed,2,0,2,1.0,1,8.0,30635.0,0
+Netherlands,Amsterdam,Supply Chain,Procurement Specialist,Mid,Male,White,2,2,0,0.0,0,36.0,39114.0,0
+Germany,Berlin,Operations,Operations Analyst,Mid,Male,White,6,4,2,0.3333,1,29.8,46447.0,0
+UK,London,Operations,Construction Supervisor,Manager,Male,Mixed,1,1,0,0.0,0,7.0,83300.0,1
+Germany,Munich,Technology,Data Analyst,Mid,Male,Black,1,1,0,0.0,0,0.0,46001.0,0
+UK,London,Finance,Financial Analyst,Mid,Female,Asian,1,1,0,0.0,0,48.0,48515.0,0
+France,Lyon,Commercial,Pricing Manager,Manager,Male,White,4,4,0,0.0,0,56.8,93483.0,4
+Germany,Hamburg,Operations,Site Engineer,Mid,Male,Asian,2,1,1,0.5,1,17.0,51331.0,0
+UK,Leeds,Supply Chain,Procurement Specialist,Mid,Male,Black,3,3,0,0.0,0,45.0,41541.0,0
+UK,Birmingham,Supply Chain,Warehouse Manager,Manager,Female,White,1,1,0,0.0,0,12.0,86338.0,1
+UK,Leeds,Supply Chain,Procurement Specialist,Mid,Male,White,7,7,0,0.0,0,31.6,44064.0,0
+UK,Glasgow,Operations,Construction Supervisor,Manager,Female,White,4,3,1,0.25,0,39.0,87953.0,4
+Netherlands,Rotterdam,Sales,Sales Executive,Junior,Male,White,1,1,0,0.0,0,33.0,29402.0,0
+UK,London,Commercial,Commercial Analyst,Mid,Male,Asian,1,1,0,0.0,0,26.0,54755.0,0
+Germany,Munich,Operations,Project Manager,Manager,Male,Asian,1,0,1,1.0,1,3.0,85235.0,1
+France,Lyon,Sales,Account Manager,Manager,Male,Black,1,1,0,0.0,0,0.0,101979.0,1
+UK,Leeds,Customer Support,Customer Support Rep,Junior,Female,White,3,2,1,0.3333,0,26.3,29620.0,0
+UK,Birmingham,Operations,Project Manager,Manager,Female,Black,1,1,0,0.0,0,64.0,89423.0,1
+Ireland,Dublin,Technology,Data Analyst,Mid,Male,White,2,1,1,0.5,1,16.0,47317.0,0
+UK,Leeds,Customer Support,Customer Support Rep,Junior,Female,Black,1,1,0,0.0,0,45.0,28376.0,0
+Ireland,Dublin,Technology,Data Analyst,Mid,Male,Black,1,1,0,0.0,0,25.0,51622.0,0
+UK,London,Technology,Data Analyst,Mid,Female,White,1,1,0,0.0,0,38.0,50230.0,0
+UK,Glasgow,Sales,Sales Executive,Junior,Male,Asian,1,1,0,0.0,0,23.0,31747.0,0
+Netherlands,Rotterdam,Technology,Software Engineer,Senior,Male,Other,1,1,0,0.0,0,52.0,63145.0,0
+UK,Glasgow,Supply Chain,Procurement Specialist,Mid,Male,Mixed,3,2,1,0.3333,0,52.3,48174.0,0
+UK,London,Operations,Site Engineer,Mid,Male,Black,1,1,0,0.0,0,30.0,49523.0,0
+UK,Manchester,Customer Support,Customer Support Rep,Junior,Male,Asian,3,3,0,0.0,0,37.3,32635.0,0
+UK,London,Supply Chain,Logistics Coordinator,Junior,Male,Asian,2,2,0,0.0,0,51.0,32882.0,0
+France,Lyon,Operations,Operations Analyst,Mid,Male,White,2,1,1,0.5,0,66.5,44831.0,0
+Germany,Berlin,Supply Chain,Procurement Specialist,Mid,Male,Mixed,1,0,1,1.0,1,8.0,45027.0,0
+UK,Birmingham,Sales,Account Manager,Manager,Male,Asian,1,1,0,0.0,0,69.0,94807.0,1
+Ireland,Dublin,Operations,Project Manager,Manager,Male,Asian,1,1,0,0.0,0,47.0,109685.0,1
+Netherlands,Amsterdam,Commercial,Commercial Analyst,Mid,Male,White,1,1,0,0.0,0,59.0,46215.0,0
+Germany,Berlin,Operations,Construction Supervisor,Manager,Male,Mixed,1,0,1,1.0,1,1.0,90583.0,1
+Netherlands,Rotterdam,Sales,Sales Executive,Junior,Male,Black,2,2,0,0.0,0,31.0,34680.0,0
+France,Paris,Operations,Construction Supervisor,Manager,Male,Black,1,1,0,0.0,0,6.0,100077.0,1
+France,Lyon,Operations,Health & Safety Officer,Mid,Male,Asian,1,0,1,1.0,0,12.0,54298.0,0
+UK,Leeds,Operations,Site Engineer,Mid,Male,Other,1,0,1,1.0,1,6.0,47341.0,0
+UK,Glasgow,Technology,Data Analyst,Mid,Male,Mixed,1,1,0,0.0,0,55.0,42054.0,0
+UK,Birmingham,Operations,Project Manager,Manager,Female,White,1,1,0,0.0,0,14.0,108596.0,1
+UK,Glasgow,Operations,Construction Supervisor,Manager,Female,Black,1,1,0,0.0,0,32.0,89382.0,1
+UK,London,Sales,Sales Executive,Junior,Male,Asian,2,2,0,0.0,0,48.0,31162.0,0
+UK,Leeds,Sales,Sales Executive,Junior,Male,White,10,7,3,0.3,0,47.5,32085.0,0
+France,Paris,Customer Support,Customer Success Manager,Manager,Male,White,3,3,0,0.0,0,24.3,101053.0,3
+UK,Glasgow,Supply Chain,Procurement Specialist,Mid,Male,White,10,6,4,0.4,1,19.5,46627.0,0
+UK,Glasgow,Technology,Data Analyst,Mid,Male,White,11,8,3,0.2727,2,20.6,48288.0,0
+France,Paris,Customer Support,Customer Success Manager,Manager,Male,Black,1,0,1,1.0,1,7.0,109751.0,1
+UK,Birmingham,People,HR Advisor,Mid,Male,White,8,8,0,0.0,0,23.4,47632.0,0
+Germany,Hamburg,Customer Support,Customer Support Rep,Junior,Male,Asian,3,3,0,0.0,0,29.7,27765.0,0
+UK,Manchester,Operations,Construction Supervisor,Manager,Male,Asian,5,5,0,0.0,0,32.2,94158.0,5
+France,Paris,Operations,Project Manager,Manager,Male,White,10,9,1,0.1,1,34.1,96296.0,10
+Germany,Hamburg,Sales,Account Manager,Manager,Male,White,2,2,0,0.0,0,63.5,102471.0,2
+UK,Leeds,Sales,Sales Executive,Junior,Male,Black,1,1,0,0.0,0,64.0,32707.0,0
+UK,Leeds,Customer Support,Customer Support Rep,Junior,Male,White,15,13,2,0.1333,1,31.3,30332.0,0
+Germany,Berlin,Operations,Construction Supervisor,Manager,Male,White,10,9,1,0.1,0,37.8,98687.0,10
+Germany,Berlin,Supply Chain,Procurement Specialist,Mid,Male,White,8,6,2,0.25,1,38.6,44877.0,0
+UK,Leeds,People,HR Advisor,Mid,Male,Other,1,1,0,0.0,0,48.0,48954.0,0
+Germany,Berlin,Operations,Site Engineer,Mid,Male,White,8,5,3,0.375,0,34.3,48382.0,0
+Netherlands,Amsterdam,Commercial,Pricing Manager,Manager,Male,White,6,5,1,0.1667,1,33.8,91860.0,6
+UK,Manchester,Operations,Site Engineer,Mid,Male,Asian,2,2,0,0.0,0,33.5,45797.0,0
+UK,London,Operations,Construction Supervisor,Manager,Male,White,18,16,2,0.1111,1,29.4,96650.0,18
+France,Lyon,Sales,Sales Executive,Junior,Male,White,8,6,2,0.25,2,33.4,31885.0,0
+France,Lyon,Operations,Site Engineer,Mid,Male,Other,2,1,1,0.5,0,12.0,53506.0,0
+UK,Leeds,Customer Support,Customer Support Rep,Junior,Male,Black,3,3,0,0.0,0,22.0,28043.0,0
+UK,Leeds,Supply Chain,Procurement Specialist,Mid,Male,Mixed,4,4,0,0.0,0,53.8,46972.0,0
+Germany,Hamburg,Supply Chain,Logistics Coordinator,Junior,Male,White,11,7,4,0.3636,1,33.6,32001.0,0
+France,Paris,Operations,Construction Supervisor,Manager,Male,Mixed,1,1,0,0.0,0,65.0,111692.0,1
+UK,Manchester,People,HR Business Partner,Senior,Male,White,1,1,0,0.0,0,4.0,67896.0,0
+UK,Birmingham,Supply Chain,Logistics Coordinator,Junior,Female,White,2,2,0,0.0,0,32.5,33519.0,0
+UK,Glasgow,Technology,Data Analyst,Mid,Female,White,1,1,0,0.0,0,20.0,47826.0,0
+UK,London,Operations,Construction Supervisor,Manager,Male,Black,5,4,1,0.2,0,40.6,85604.0,5
+UK,Glasgow,Operations,Operations Analyst,Mid,Female,White,1,1,0,0.0,0,40.0,51555.0,0
+UK,Glasgow,Supply Chain,Procurement Specialist,Mid,Male,Black,2,2,0,0.0,0,54.5,43328.0,0
+UK,Birmingham,Customer Support,Customer Success Manager,Manager,Female,White,3,2,1,0.3333,0,28.0,93750.0,3
+France,Paris,Commercial,Commercial Analyst,Mid,Male,White,7,5,2,0.2857,1,24.0,47612.0,0
+Ireland,Dublin,Sales,Sales Executive,Junior,Male,White,1,1,0,0.0,0,39.0,29706.0,0
+Netherlands,Amsterdam,Supply Chain,Procurement Specialist,Mid,Male,Mixed,1,0,1,1.0,0,26.0,55373.0,0
+UK,London,Customer Support,Customer Success Manager,Manager,Female,Other,1,1,0,0.0,0,35.0,83218.0,1
+France,Paris,Operations,Health & Safety Officer,Mid,Male,White,4,3,1,0.25,0,40.8,48376.0,0
+France,Paris,Commercial,Commercial Analyst,Mid,Male,Black,1,1,0,0.0,0,10.0,44410.0,0
+Germany,Berlin,Supply Chain,Procurement Specialist,Mid,Male,Black,2,2,0,0.0,0,61.0,54244.0,0
+UK,Glasgow,Operations,Health & Safety Officer,Mid,Male,Other,1,1,0,0.0,0,4.0,53537.0,0
+UK,Birmingham,Operations,Operations Analyst,Mid,Female,Black,1,1,0,0.0,0,39.0,45567.0,0
+UK,Manchester,People,HR Business Partner,Senior,Male,Black,1,1,0,0.0,0,18.0,80545.0,0
+Ireland,Dublin,Supply Chain,Procurement Specialist,Mid,Female,White,1,1,0,0.0,0,29.0,49439.0,0
+Germany,Munich,Technology,Software Engineer,Senior,Male,White,3,2,1,0.3333,0,30.3,72218.0,0
+UK,Leeds,Operations,Health & Safety Officer,Mid,Male,Other,1,1,0,0.0,0,24.0,46790.0,0
+UK,Leeds,Technology,Data Analyst,Mid,Male,Asian,1,1,0,0.0,0,70.0,53296.0,0
+UK,London,Operations,Project Manager,Manager,Male,Mixed,1,1,0,0.0,0,49.0,91523.0,1
+Netherlands,Rotterdam,Technology,Data Analyst,Mid,Male,Other,1,1,0,0.0,0,10.0,40177.0,0
+UK,Glasgow,Operations,Construction Supervisor,Manager,Female,Mixed,1,1,0,0.0,0,5.0,93210.0,1
+UK,London,Supply Chain,Warehouse Manager,Manager,Male,Asian,1,1,0,0.0,0,12.0,85350.0,1
+France,Paris,Operations,Health & Safety Officer,Mid,Male,Black,1,1,0,0.0,0,50.0,45676.0,0
+UK,Glasgow,People,HR Business Partner,Senior,Female,White,2,2,0,0.0,0,41.0,74509.0,0
+Germany,Berlin,Operations,Construction Supervisor,Manager,Male,Black,1,1,0,0.0,0,34.0,94516.0,1
+UK,Manchester,Commercial,Pricing Manager,Manager,Female,Black,1,1,0,0.0,0,53.0,80022.0,1
+UK,Birmingham,Operations,Project Manager,Manager,Female,Mixed,1,1,0,0.0,0,29.0,98552.0,1
+Germany,Munich,Sales,Sales Executive,Junior,Male,Asian,1,1,0,0.0,0,36.0,30844.0,0
+Germany,Hamburg,Sales,Account Manager,Manager,Male,Black,1,1,0,0.0,0,20.0,108574.0,1
+Germany,Munich,Finance,Accountant,Mid,Female,Other,1,1,0,0.0,0,3.0,53150.0,0
+France,Paris,Supply Chain,Procurement Specialist,Mid,Male,Mixed,1,1,0,0.0,0,60.0,45224.0,0
+Ireland,Cork,Finance,Financial Analyst,Mid,Male,Asian,1,1,0,0.0,0,54.0,40220.0,0
+UK,Glasgow,Supply Chain,Logistics Coordinator,Junior,Male,Asian,2,1,1,0.5,0,58.5,31223.0,0
+UK,Glasgow,Operations,Site Engineer,Mid,Male,White,19,13,6,0.3158,3,34.2,45258.0,0
+Germany,Berlin,Finance,Financial Analyst,Mid,Male,Asian,1,0,1,1.0,0,60.0,39289.0,0
+UK,London,Sales,Sales Executive,Junior,Male,Other,1,1,0,0.0,0,21.0,32503.0,0
+UK,Manchester,Sales,Account Manager,Manager,Male,Black,2,2,0,0.0,0,14.5,101932.0,2
+Ireland,Dublin,Supply Chain,Logistics Coordinator,Junior,Male,White,6,4,2,0.3333,0,36.0,31567.0,0
+UK,Manchester,Sales,Account Manager,Manager,Male,White,6,6,0,0.0,0,19.7,99484.0,6
+Germany,Berlin,Sales,Sales Executive,Junior,Male,White,6,5,1,0.1667,0,31.0,30593.0,0
+UK,Leeds,Commercial,Pricing Manager,Manager,Male,White,5,5,0,0.0,0,47.4,104941.0,5
+Ireland,Dublin,Operations,Construction Supervisor,Manager,Male,White,6,3,3,0.5,1,17.2,84884.0,6
+UK,London,Operations,Construction Supervisor,Manager,Female,White,4,4,0,0.0,0,32.0,93913.0,4
+UK,Birmingham,Supply Chain,Logistics Coordinator,Junior,Male,Black,3,3,0,0.0,0,46.0,30257.0,0
+UK,Leeds,Operations,Health & Safety Officer,Mid,Male,Asian,1,1,0,0.0,0,58.0,52733.0,0
+Germany,Berlin,Supply Chain,Logistics Coordinator,Junior,Male,White,10,7,3,0.3,1,32.2,30425.0,0
+France,Lyon,Commercial,Commercial Analyst,Mid,Male,White,2,2,0,0.0,0,39.0,55456.0,0
+Germany,Berlin,Commercial,Pricing Manager,Manager,Female,Mixed,1,1,0,0.0,0,59.0,104465.0,1
+UK,Glasgow,Operations,Health & Safety Officer,Mid,Male,Asian,2,2,0,0.0,0,25.5,49646.0,0
+Ireland,Cork,Operations,Site Engineer,Mid,Male,White,5,3,2,0.4,2,34.4,45319.0,0
+France,Paris,Sales,Sales Executive,Junior,Male,White,5,4,1,0.2,0,41.6,29111.0,0
+Ireland,Dublin,Sales,Account Manager,Manager,Male,White,4,3,1,0.25,1,28.8,92840.0,4
+UK,Manchester,People,HR Business Partner,Senior,Female,White,1,0,1,1.0,1,8.0,71429.0,0
+Ireland,Cork,Operations,Site Engineer,Mid,Male,Black,1,1,0,0.0,0,18.0,50361.0,0
+UK,Birmingham,Finance,Financial Analyst,Mid,Male,White,4,2,2,0.5,0,54.8,46622.0,0
+UK,Leeds,Technology,Data Engineer,Senior,Male,White,2,2,0,0.0,0,53.5,66689.0,0
+France,Lyon,Operations,Construction Supervisor,Manager,Male,Mixed,1,1,0,0.0,0,46.0,91869.0,1
+UK,Birmingham,Supply Chain,Logistics Coordinator,Junior,Male,White,7,6,1,0.1429,0,40.7,29816.0,0
+France,Paris,Sales,Sales Executive,Junior,Male,Black,2,1,1,0.5,0,26.0,33541.0,0
+Germany,Berlin,Supply Chain,Logistics Coordinator,Junior,Male,Black,2,2,0,0.0,0,67.5,32727.0,0
+Germany,Hamburg,Commercial,Commercial Analyst,Mid,Male,Asian,1,0,1,1.0,1,11.0,42108.0,0
+France,Lyon,Customer Support,Customer Success Manager,Manager,Male,White,2,2,0,0.0,0,32.0,100997.0,2
+UK,Birmingham,Finance,Financial Analyst,Mid,Male,Black,1,1,0,0.0,0,10.0,50825.0,0
+Germany,Munich,Supply Chain,Procurement Specialist,Mid,Female,White,2,2,0,0.0,0,24.5,42279.0,0
+Germany,Hamburg,Operations,Project Manager,Manager,Male,Black,1,1,0,0.0,0,36.0,101647.0,1
+France,Lyon,Commercial,Commercial Analyst,Mid,Male,Black,1,1,0,0.0,0,64.0,52327.0,0
+Netherlands,Rotterdam,Operations,Health & Safety Officer,Mid,Male,White,1,1,0,0.0,0,16.0,42102.0,0
+Netherlands,Rotterdam,Commercial,Pricing Manager,Manager,Male,Asian,1,1,0,0.0,0,10.0,100441.0,1
+Germany,Hamburg,Operations,Project Manager,Manager,Male,White,4,3,1,0.25,1,18.0,98598.0,4
+UK,Leeds,Sales,Account Manager,Manager,Male,Asian,1,1,0,0.0,0,39.0,103517.0,1
+UK,London,Customer Support,Customer Success Manager,Manager,Female,Asian,1,1,0,0.0,0,62.0,98171.0,1
+Germany,Munich,Operations,Project Manager,Manager,Female,White,1,1,0,0.0,0,47.0,89926.0,1
+Ireland,Dublin,Supply Chain,Logistics Coordinator,Junior,Male,Black,1,1,0,0.0,0,73.0,35631.0,0
+Netherlands,Rotterdam,Customer Support,Customer Support Rep,Junior,Female,Asian,1,1,0,0.0,0,33.0,28215.0,0
+Germany,Hamburg,Customer Support,Customer Support Rep,Junior,Male,Other,2,2,0,0.0,0,34.0,34567.0,0
+UK,Manchester,Supply Chain,Procurement Specialist,Mid,Male,Asian,1,1,0,0.0,0,5.0,47825.0,0
+Germany,Hamburg,Operations,Project Manager,Manager,Female,White,1,1,0,0.0,0,30.0,80137.0,1
+Germany,Hamburg,Customer Support,Customer Success Manager,Manager,Male,Other,1,0,1,1.0,0,22.0,98739.0,1
+Ireland,Cork,Supply Chain,Procurement Specialist,Mid,Male,Asian,1,1,0,0.0,0,3.0,55273.0,0
+UK,London,Operations,Construction Supervisor,Manager,Female,Black,1,0,1,1.0,1,5.0,91275.0,1
+France,Lyon,Technology,Data Analyst,Mid,Male,Asian,1,1,0,0.0,0,28.0,47513.0,0
+France,Paris,People,HR Advisor,Mid,Male,White,3,3,0,0.0,0,49.0,49686.0,0
+UK,Manchester,Supply Chain,Warehouse Manager,Manager,Male,White,7,7,0,0.0,0,48.6,91216.0,7
+UK,Glasgow,Supply Chain,Warehouse Manager,Manager,Female,White,4,3,1,0.25,1,11.8,92298.0,4
+UK,Glasgow,Customer Support,Customer Support Rep,Junior,Male,White,19,12,7,0.3684,5,26.8,31006.0,0
+Germany,Berlin,Commercial,Pricing Manager,Manager,Male,Asian,1,1,0,0.0,0,42.0,108116.0,1
+Germany,Munich,Supply Chain,Warehouse Manager,Manager,Male,White,5,4,1,0.2,1,20.0,98338.0,5
+UK,Glasgow,Operations,Construction Supervisor,Manager,Male,White,12,12,0,0.0,0,34.4,100309.0,12
+Germany,Hamburg,Supply Chain,Procurement Specialist,Mid,Male,Mixed,2,1,1,0.5,1,28.5,49406.0,0
+France,Lyon,People,HR Advisor,Mid,Male,Black,1,1,0,0.0,0,72.0,39310.0,0
+France,Lyon,Supply Chain,Logistics Coordinator,Junior,Male,Asian,1,1,0,0.0,0,28.0,35426.0,0
+Netherlands,Rotterdam,Supply Chain,Procurement Specialist,Mid,Male,Other,1,1,0,0.0,0,53.0,47279.0,0
+UK,Manchester,Finance,Financial Analyst,Mid,Male,Mixed,1,1,0,0.0,0,27.0,46491.0,0
+France,Lyon,People,HR Advisor,Mid,Male,White,4,4,0,0.0,0,24.3,45986.0,0
+Ireland,Cork,Operations,Construction Supervisor,Manager,Male,White,3,2,1,0.3333,1,38.3,93867.0,3
+UK,Glasgow,Sales,Sales Executive,Junior,Female,Asian,1,0,1,1.0,0,22.0,35982.0,0
+Netherlands,Amsterdam,Operations,Health & Safety Officer,Mid,Male,Asian,2,0,2,1.0,2,5.0,54638.0,0
+Netherlands,Rotterdam,Sales,Account Manager,Manager,Male,Asian,1,1,0,0.0,0,37.0,87394.0,1
+UK,Birmingham,Technology,Data Analyst,Mid,Female,Asian,1,1,0,0.0,0,55.0,42828.0,0
+Ireland,Cork,Technology,Software Engineer,Senior,Male,White,2,2,0,0.0,0,36.5,67795.0,0
+UK,Birmingham,Operations,Project Manager,Manager,Male,Other,4,3,1,0.25,1,43.0,94091.0,4
+UK,Glasgow,Customer Support,Customer Support Rep,Junior,Male,Black,3,2,1,0.3333,1,5.0,30148.0,0
+France,Paris,People,HR Advisor,Mid,Male,Black,1,1,0,0.0,0,3.0,39843.0,0
+Germany,Munich,Customer Support,Customer Support Rep,Junior,Male,Asian,2,1,1,0.5,1,10.5,30505.0,0
+UK,Leeds,Operations,Site Engineer,Mid,Female,Black,1,1,0,0.0,0,37.0,46457.0,0
+Germany,Munich,Operations,Construction Supervisor,Manager,Female,White,1,1,0,0.0,0,13.0,81379.0,1
+Netherlands,Amsterdam,Operations,Project Manager,Manager,Male,White,6,6,0,0.0,0,29.7,97010.0,6
+UK,Birmingham,People,HR Business Partner,Senior,Male,White,1,1,0,0.0,0,23.0,79525.0,0
+UK,Leeds,Operations,Project Manager,Manager,Male,Asian,1,1,0,0.0,0,65.0,107949.0,1
+UK,Birmingham,Customer Support,Customer Success Manager,Manager,Male,Asian,1,1,0,0.0,0,52.0,85302.0,1
+Ireland,Dublin,Technology,Software Engineer,Senior,Female,White,1,1,0,0.0,0,58.0,59892.0,0
+UK,Manchester,Sales,Sales Executive,Junior,Female,White,1,1,0,0.0,0,36.0,33683.0,0
+UK,Glasgow,Technology,Software Engineer,Senior,Male,Asian,1,1,0,0.0,0,2.0,58040.0,0
+Netherlands,Rotterdam,Customer Support,Customer Success Manager,Manager,Female,White,1,1,0,0.0,0,49.0,100501.0,1
+UK,Leeds,Supply Chain,Logistics Coordinator,Junior,Female,White,1,0,1,1.0,1,4.0,27516.0,0
+UK,Glasgow,Operations,Construction Supervisor,Manager,Male,Black,1,1,0,0.0,0,53.0,96960.0,1
+UK,Birmingham,People,HR Business Partner,Senior,Male,Black,2,2,0,0.0,0,52.5,68238.0,0
+Ireland,Cork,Commercial,Pricing Manager,Manager,Male,White,1,1,0,0.0,0,56.0,107156.0,1
+Netherlands,Amsterdam,Sales,Account Manager,Manager,Female,Other,1,1,0,0.0,0,64.0,104072.0,1
+Germany,Munich,Supply Chain,Logistics Coordinator,Junior,Male,Mixed,1,0,1,1.0,1,10.0,30476.0,0
+UK,London,Customer Support,Customer Success Manager,Manager,Male,White,5,5,0,0.0,0,38.6,101511.0,5
+Germany,Hamburg,Customer Support,Customer Success Manager,Manager,Male,White,5,5,0,0.0,0,41.0,88018.0,5
+UK,Manchester,Operations,Site Engineer,Mid,Male,White,15,9,6,0.4,4,32.9,46909.0,0
+Germany,Munich,Sales,Sales Executive,Junior,Male,White,8,3,5,0.625,0,32.0,30374.0,0
+UK,Leeds,Technology,Data Analyst,Mid,Male,White,4,4,0,0.0,0,45.3,45581.0,0
+Netherlands,Amsterdam,Supply Chain,Logistics Coordinator,Junior,Male,White,7,6,1,0.1429,1,35.7,32732.0,0
+UK,Manchester,Operations,Construction Supervisor,Manager,Male,White,15,10,5,0.3333,1,33.5,98129.0,15
+Germany,Hamburg,Supply Chain,Logistics Coordinator,Junior,Male,Asian,3,3,0,0.0,0,66.7,30114.0,0
+UK,Birmingham,Supply Chain,Logistics Coordinator,Junior,Male,Other,1,0,1,1.0,1,2.0,29533.0,0
+UK,London,Operations,Operations Analyst,Mid,Female,White,4,4,0,0.0,0,34.3,44263.0,0
+UK,Manchester,Technology,Data Analyst,Mid,Male,White,3,2,1,0.3333,0,52.3,44385.0,0
+UK,London,Supply Chain,Warehouse Manager,Manager,Male,White,10,8,2,0.2,1,30.9,101599.0,10
+UK,Manchester,Operations,Construction Supervisor,Manager,Male,Black,2,2,0,0.0,0,44.5,92421.0,2
+UK,London,Commercial,Commercial Analyst,Mid,Male,Mixed,3,3,0,0.0,0,15.0,51197.0,0
+Germany,Hamburg,Operations,Project Manager,Manager,Male,Other,2,2,0,0.0,0,46.0,98215.0,2
+UK,London,Customer Support,Customer Success Manager,Manager,Male,Black,1,1,0,0.0,0,64.0,92878.0,1
+Germany,Hamburg,People,HR Advisor,Mid,Male,White,3,2,1,0.3333,1,32.0,44810.0,0
+UK,Manchester,Operations,Site Engineer,Mid,Male,Black,3,2,1,0.3333,0,40.0,46995.0,0
+UK,Glasgow,Supply Chain,Procurement Specialist,Mid,Male,Asian,3,2,1,0.3333,0,23.7,43725.0,0
+UK,London,Supply Chain,Logistics Coordinator,Junior,Male,Mixed,2,1,1,0.5,1,5.0,32875.0,0
+UK,Glasgow,Operations,Site Engineer,Mid,Male,Other,1,1,0,0.0,0,63.0,42366.0,0
+Germany,Hamburg,Technology,Data Engineer,Senior,Female,White,1,1,0,0.0,0,17.0,75595.0,0
+UK,London,Sales,Sales Executive,Junior,Male,White,7,5,2,0.2857,1,33.0,31994.0,0
+France,Paris,Sales,Sales Executive,Junior,Male,Other,1,1,0,0.0,0,5.0,30438.0,0
+UK,Leeds,Finance,Financial Analyst,Mid,Female,White,3,3,0,0.0,0,33.7,46983.0,0
+France,Paris,Technology,Data Analyst,Mid,Female,White,1,0,1,1.0,0,47.0,48219.0,0
+UK,Manchester,Customer Support,Customer Support Rep,Junior,Male,Mixed,2,2,0,0.0,0,17.5,33502.0,0
+France,Paris,Finance,Accountant,Mid,Male,Mixed,1,1,0,0.0,0,10.0,50066.0,0
+Netherlands,Rotterdam,Technology,Data Engineer,Senior,Female,White,1,1,0,0.0,0,66.0,60501.0,0
+UK,Leeds,Customer Support,Customer Support Rep,Junior,Male,Asian,2,2,0,0.0,0,33.5,34058.0,0
+France,Paris,Operations,Project Manager,Manager,Male,Asian,3,2,1,0.3333,1,25.7,101886.0,3
+France,Paris,Commercial,Commercial Analyst,Mid,Male,Asian,1,1,0,0.0,0,74.0,53004.0,0
+Germany,Hamburg,Customer Support,Customer Support Rep,Junior,Male,White,10,6,4,0.4,1,18.3,32434.0,0
+France,Paris,Commercial,Pricing Manager,Manager,Male,White,3,3,0,0.0,0,13.0,90397.0,3
+UK,Leeds,Technology,Data Engineer,Senior,Male,Other,1,1,0,0.0,0,40.0,71297.0,0
+Netherlands,Amsterdam,Supply Chain,Logistics Coordinator,Junior,Male,Black,1,1,0,0.0,0,66.0,32123.0,0
+France,Lyon,Operations,Project Manager,Manager,Female,White,1,1,0,0.0,0,55.0,87549.0,1
+UK,Glasgow,Technology,Software Engineer,Senior,Female,Mixed,1,1,0,0.0,0,37.0,81958.0,0
+Ireland,Cork,Operations,Site Engineer,Mid,Male,Other,1,1,0,0.0,0,36.0,49365.0,0
+Ireland,Dublin,Operations,Project Manager,Manager,Male,Mixed,1,1,0,0.0,0,35.0,83974.0,1
+Germany,Hamburg,Operations,Site Engineer,Mid,Female,White,2,1,1,0.5,1,17.0,55203.0,0
+Germany,Berlin,Supply Chain,Procurement Specialist,Mid,Male,Asian,1,0,1,1.0,1,2.0,51575.0,0
+UK,Glasgow,Technology,Data Analyst,Mid,Male,Asian,2,1,1,0.5,0,22.5,52349.0,0
+UK,Manchester,People,HR Business Partner,Senior,Male,Asian,1,0,1,1.0,1,7.0,58869.0,0
+UK,Birmingham,Operations,Health & Safety Officer,Mid,Female,White,2,2,0,0.0,0,30.0,54250.0,0
+France,Paris,Customer Support,Customer Success Manager,Manager,Male,Asian,1,1,0,0.0,0,36.0,99468.0,1
+Germany,Hamburg,Customer Support,Customer Success Manager,Manager,Male,Black,1,1,0,0.0,0,49.0,103484.0,1
+UK,Leeds,Technology,Software Engineer,Senior,Male,Mixed,1,1,0,0.0,0,52.0,72461.0,0
+Germany,Hamburg,People,HR Advisor,Mid,Male,Black,2,1,1,0.5,1,33.5,54879.0,0
+Ireland,Dublin,Operations,Construction Supervisor,Manager,Male,Other,1,1,0,0.0,0,15.0,113818.0,1
+Netherlands,Amsterdam,Commercial,Pricing Manager,Manager,Female,Black,1,1,0,0.0,0,59.0,95159.0,1
+Ireland,Dublin,Supply Chain,Warehouse Manager,Manager,Male,White,4,2,2,0.5,0,32.0,90867.0,4
+France,Lyon,Sales,Sales Executive,Junior,Male,Asian,1,1,0,0.0,0,15.0,26361.0,0
+UK,London,Supply Chain,Warehouse Manager,Manager,Male,Black,2,2,0,0.0,0,31.5,101779.0,2
+Germany,Berlin,Technology,Data Engineer,Senior,Male,White,1,1,0,0.0,0,56.0,75459.0,0
+Netherlands,Amsterdam,Commercial,Pricing Manager,Manager,Male,Asian,1,1,0,0.0,0,47.0,107339.0,1
+UK,Birmingham,Finance,Financial Analyst,Mid,Male,Other,1,1,0,0.0,0,58.0,52693.0,0
+UK,London,Commercial,Pricing Manager,Manager,Female,White,2,2,0,0.0,0,29.0,100738.0,2
+UK,Glasgow,Operations,Operations Analyst,Mid,Female,Asian,1,0,1,1.0,1,3.0,55722.0,0
+Netherlands,Amsterdam,Commercial,Pricing Manager,Manager,Female,White,1,1,0,0.0,0,58.0,109914.0,1
+UK,Manchester,People,HR Advisor,Mid,Male,Mixed,1,0,1,1.0,0,39.0,46345.0,0
+France,Paris,Technology,Data Analyst,Mid,Female,Black,1,1,0,0.0,0,25.0,41291.0,0
+UK,Glasgow,Technology,Data Engineer,Senior,Female,White,1,1,0,0.0,0,44.0,60609.0,0
+Netherlands,Amsterdam,Operations,Health & Safety Officer,Mid,Male,White,5,5,0,0.0,0,34.2,47180.0,0
+UK,London,Customer Support,Customer Support Rep,Junior,Male,Mixed,2,2,0,0.0,0,51.5,30002.0,0
+UK,Birmingham,Technology,Data Engineer,Senior,Male,Other,1,1,0,0.0,0,16.0,76461.0,0
+France,Lyon,Supply Chain,Logistics Coordinator,Junior,Male,White,12,10,2,0.1667,1,35.5,29531.0,0
+UK,Birmingham,Customer Support,Customer Success Manager,Manager,Male,White,5,4,1,0.2,1,56.2,94374.0,5
+Netherlands,Amsterdam,Operations,Health & Safety Officer,Mid,Male,Black,1,0,1,1.0,1,1.0,41006.0,0
+UK,Manchester,Sales,Sales Executive,Junior,Male,Other,2,1,1,0.5,0,22.5,32755.0,0
+UK,Glasgow,Operations,Construction Supervisor,Manager,Male,Asian,2,2,0,0.0,0,57.5,94009.0,2
+UK,Leeds,Operations,Project Manager,Manager,Male,White,7,5,2,0.2857,2,25.1,92035.0,7
+Germany,Berlin,Operations,Project Manager,Manager,Male,Mixed,2,2,0,0.0,0,15.5,99390.0,2
+France,Lyon,Operations,Site Engineer,Mid,Female,White,4,4,0,0.0,0,29.0,51863.0,0
+UK,Leeds,Operations,Project Manager,Manager,Female,White,2,1,1,0.5,0,34.0,87941.0,2
+UK,Birmingham,Supply Chain,Procurement Specialist,Mid,Male,White,11,10,1,0.0909,1,38.3,47884.0,0
+Ireland,Dublin,Finance,Accountant,Mid,Male,White,2,2,0,0.0,0,23.5,40935.0,0
+Ireland,Cork,Supply Chain,Procurement Specialist,Mid,Female,White,1,1,0,0.0,0,60.0,38418.0,0
+Germany,Munich,Customer Support,Customer Support Rep,Junior,Male,White,6,4,2,0.3333,1,19.3,30041.0,0
+Germany,Berlin,Technology,Data Analyst,Mid,Male,White,2,0,2,1.0,1,15.5,51406.0,0
+UK,Leeds,Commercial,Commercial Analyst,Mid,Male,Other,3,3,0,0.0,0,47.0,46317.0,0
+Ireland,Cork,Supply Chain,Procurement Specialist,Mid,Female,Black,1,0,1,1.0,1,9.0,47027.0,0
+Netherlands,Rotterdam,Technology,Data Engineer,Senior,Male,Black,1,1,0,0.0,0,49.0,69997.0,0
+Netherlands,Rotterdam,Sales,Account Manager,Manager,Male,Black,1,0,1,1.0,1,3.0,84395.0,1
+Netherlands,Amsterdam,Sales,Sales Executive,Junior,Male,Mixed,1,1,0,0.0,0,68.0,33022.0,0
+UK,Glasgow,Technology,Software Engineer,Senior,Male,Black,1,1,0,0.0,0,1.0,68742.0,0
+Germany,Munich,People,HR Business Partner,Senior,Male,White,2,2,0,0.0,0,19.0,71244.0,0
+UK,London,Operations,Health & Safety Officer,Mid,Male,Mixed,2,2,0,0.0,0,43.0,46932.0,0
+France,Paris,Technology,Data Analyst,Mid,Male,White,4,3,1,0.25,0,25.0,48729.0,0
+UK,Glasgow,Technology,Software Engineer,Senior,Male,White,8,8,0,0.0,0,20.8,70664.0,0
+Netherlands,Rotterdam,Sales,Account Manager,Manager,Male,White,4,3,1,0.25,1,29.8,94381.0,4
+Ireland,Cork,Operations,Construction Supervisor,Manager,Male,Asian,1,1,0,0.0,0,27.0,79808.0,1
+UK,London,Supply Chain,Logistics Coordinator,Junior,Female,Mixed,1,0,1,1.0,1,3.0,30462.0,0
+Germany,Munich,Customer Support,Customer Success Manager,Manager,Male,White,4,2,2,0.5,2,17.0,92880.0,4
+France,Lyon,People,HR Advisor,Mid,Male,Asian,3,3,0,0.0,0,35.7,51357.0,0
+France,Paris,Customer Support,Customer Support Rep,Junior,Female,White,3,2,1,0.3333,1,26.0,30975.0,0
+France,Lyon,Technology,Data Analyst,Mid,Male,White,4,2,2,0.5,1,27.3,44922.0,0
+UK,Birmingham,Customer Support,Customer Success Manager,Manager,Male,Black,1,1,0,0.0,0,42.0,94515.0,1
+UK,Glasgow,Operations,Site Engineer,Mid,Female,White,1,1,0,0.0,0,47.0,53339.0,0
+UK,Glasgow,Customer Support,Customer Support Rep,Junior,Male,Asian,2,2,0,0.0,0,17.5,28817.0,0
+UK,Glasgow,Customer Support,Customer Success Manager,Manager,Female,White,1,1,0,0.0,0,49.0,111594.0,1
+UK,Manchester,Supply Chain,Warehouse Manager,Manager,Male,Asian,2,2,0,0.0,0,34.0,104106.0,2
+Germany,Munich,Commercial,Pricing Manager,Manager,Female,White,1,1,0,0.0,0,66.0,102148.0,1
+Germany,Berlin,Commercial,Pricing Manager,Manager,Male,Black,1,1,0,0.0,0,49.0,104956.0,1
+UK,Manchester,Technology,Data Engineer,Senior,Male,White,3,3,0,0.0,0,33.7,67550.0,0
+Germany,Hamburg,Sales,Sales Executive,Junior,Male,Other,1,1,0,0.0,0,32.0,27538.0,0
+Netherlands,Rotterdam,Technology,Data Engineer,Senior,Male,White,1,1,0,0.0,0,33.0,76553.0,0
+UK,Birmingham,Operations,Health & Safety Officer,Mid,Male,Mixed,1,1,0,0.0,0,10.0,48291.0,0
+UK,Glasgow,Sales,Sales Executive,Junior,Female,White,1,1,0,0.0,0,0.0,32351.0,0
+France,Paris,Technology,Data Analyst,Mid,Male,Black,2,0,2,1.0,1,16.5,49463.0,0
+Netherlands,Rotterdam,Customer Support,Customer Success Manager,Manager,Female,Asian,1,1,0,0.0,0,19.0,78281.0,1
+Germany,Berlin,Commercial,Pricing Manager,Manager,Male,White,4,4,0,0.0,0,14.8,83319.0,4
+Germany,Munich,Customer Support,Customer Support Rep,Junior,Male,Black,1,1,0,0.0,0,35.0,31033.0,0
+UK,Birmingham,Supply Chain,Procurement Specialist,Mid,Male,Black,1,1,0,0.0,0,3.0,49623.0,0
+France,Lyon,People,HR Business Partner,Senior,Male,White,1,0,1,1.0,1,9.0,67681.0,0
+France,Paris,Finance,Financial Analyst,Mid,Male,Other,1,1,0,0.0,0,24.0,38984.0,0
+Germany,Munich,People,HR Business Partner,Senior,Male,Black,1,1,0,0.0,0,26.0,58055.0,0
+Ireland,Cork,Commercial,Pricing Manager,Manager,Male,Asian,1,1,0,0.0,0,37.0,80735.0,1
+UK,Manchester,Operations,Project Manager,Manager,Female,Mixed,1,1,0,0.0,0,20.0,108370.0,1
+Ireland,Dublin,Customer Support,Customer Success Manager,Manager,Male,Mixed,1,0,1,1.0,1,1.0,85751.0,1
+Ireland,Dublin,Operations,Project Manager,Manager,Female,White,1,1,0,0.0,0,73.0,92019.0,1

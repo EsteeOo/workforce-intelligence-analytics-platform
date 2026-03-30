@@ -1,0 +1,1521 @@
+country,department,job_role,gender,application_month,application_count,screen_count,interview_count,offer_count,hired_count,screen_rate,interview_rate,offer_rate,hire_rate
+Netherlands,Finance,Accountant,Male,2025-06-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Commercial,Commercial Analyst,Male,2025-09-01 00:00:00,20,15,9,3,3,0.75,0.45,0.15,0.15
+France,Commercial,Commercial Analyst,Male,2025-05-01 00:00:00,4,2,2,2,1,0.5,0.5,0.5,0.25
+Germany,Commercial,Commercial Analyst,Male,2025-10-01 00:00:00,8,7,4,2,2,0.875,0.5,0.25,0.25
+Germany,Finance,Financial Analyst,Male,2025-05-01 00:00:00,6,6,2,0,0,1.0,0.3333,0.0,0.0
+Germany,Technology,Data Engineer,Male,2025-04-01 00:00:00,6,4,4,3,3,0.6667,0.6667,0.5,0.5
+Germany,Sales,Account Manager,Male,2025-05-01 00:00:00,7,7,7,1,0,1.0,1.0,0.1429,0.0
+France,Sales,Account Manager,Male,2026-01-01 00:00:00,6,5,2,1,1,0.8333,0.3333,0.1667,0.1667
+Germany,Operations,Project Manager,Male,2026-03-01 00:00:00,5,3,2,1,0,0.6,0.4,0.2,0.0
+Germany,Technology,Data Analyst,Male,2025-09-01 00:00:00,4,2,1,0,0,0.5,0.25,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Male,2026-01-01 00:00:00,8,5,3,1,0,0.625,0.375,0.125,0.0
+UK,Finance,Financial Analyst,Male,2025-10-01 00:00:00,23,19,6,4,1,0.8261,0.2609,0.1739,0.0435
+UK,Sales,Account Manager,Male,2025-12-01 00:00:00,25,21,15,6,4,0.84,0.6,0.24,0.16
+France,Technology,Software Engineer,Female,2025-04-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Supply Chain,Logistics Coordinator,Male,2026-02-01 00:00:00,14,9,8,3,2,0.6429,0.5714,0.2143,0.1429
+UK,Operations,Site Engineer,Male,2026-02-01 00:00:00,17,12,5,0,0,0.7059,0.2941,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Male,2025-08-01 00:00:00,9,4,3,2,2,0.4444,0.3333,0.2222,0.2222
+France,Commercial,Commercial Analyst,Male,2025-08-01 00:00:00,6,5,4,1,1,0.8333,0.6667,0.1667,0.1667
+Germany,Finance,Financial Analyst,Male,2025-08-01 00:00:00,9,5,2,1,1,0.5556,0.2222,0.1111,0.1111
+UK,Technology,Software Engineer,Male,2025-07-01 00:00:00,17,13,8,5,4,0.7647,0.4706,0.2941,0.2353
+Germany,Operations,Site Engineer,Male,2025-04-01 00:00:00,6,3,1,0,0,0.5,0.1667,0.0,0.0
+Germany,Sales,Sales Executive,Female,2026-01-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Germany,Technology,Software Engineer,Male,2025-10-01 00:00:00,5,5,3,0,0,1.0,0.6,0.0,0.0
+France,Sales,Account Manager,Female,2026-02-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,People,HR Business Partner,Female,2025-12-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Germany,Sales,Account Manager,Male,2025-08-01 00:00:00,5,2,1,0,0,0.4,0.2,0.0,0.0
+UK,Finance,Financial Analyst,Female,2025-09-01 00:00:00,4,4,4,3,2,1.0,1.0,0.75,0.5
+UK,Operations,Construction Supervisor,Male,2025-07-01 00:00:00,18,12,6,3,2,0.6667,0.3333,0.1667,0.1111
+UK,People,HR Business Partner,Male,2025-10-01 00:00:00,28,18,11,7,4,0.6429,0.3929,0.25,0.1429
+France,Finance,Accountant,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Supply Chain,Procurement Specialist,Male,2025-10-01 00:00:00,5,3,1,0,0,0.6,0.2,0.0,0.0
+Netherlands,Supply Chain,Logistics Coordinator,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Operations,Project Manager,Male,2025-04-01 00:00:00,5,1,1,0,0,0.2,0.2,0.0,0.0
+Ireland,Finance,Financial Analyst,Male,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Commercial,Commercial Analyst,Male,2025-07-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Ireland,Supply Chain,Procurement Specialist,Male,2025-12-01 00:00:00,5,4,0,0,0,0.8,0.0,0.0,0.0
+UK,Supply Chain,Logistics Coordinator,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Commercial,Pricing Manager,Male,2025-07-01 00:00:00,12,9,8,2,2,0.75,0.6667,0.1667,0.1667
+France,Customer Support,Customer Success Manager,Male,2025-06-01 00:00:00,4,1,0,0,0,0.25,0.0,0.0,0.0
+UK,Technology,Data Engineer,Male,2025-11-01 00:00:00,8,6,3,2,2,0.75,0.375,0.25,0.25
+France,Sales,Account Manager,Male,2025-05-01 00:00:00,7,4,2,1,0,0.5714,0.2857,0.1429,0.0
+Germany,Operations,Construction Supervisor,Male,2025-09-01 00:00:00,8,5,4,2,1,0.625,0.5,0.25,0.125
+Ireland,Technology,Software Engineer,Male,2025-09-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+UK,Sales,Sales Executive,Female,2025-06-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+France,Technology,Data Engineer,Male,2025-04-01 00:00:00,4,4,2,2,2,1.0,0.5,0.5,0.5
+Netherlands,Technology,Data Analyst,Male,2025-09-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Germany,Technology,Data Engineer,Female,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Finance,Accountant,Male,2025-07-01 00:00:00,4,2,2,2,2,0.5,0.5,0.5,0.5
+Germany,Finance,Accountant,Male,2025-10-01 00:00:00,8,6,3,2,2,0.75,0.375,0.25,0.25
+France,Technology,Data Analyst,Female,2025-10-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Germany,Finance,Financial Analyst,Male,2026-01-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+France,People,HR Business Partner,Male,2025-10-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+Ireland,Customer Support,Customer Success Manager,Male,2025-10-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+France,Technology,Data Analyst,Male,2025-12-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Technology,Software Engineer,Female,2025-12-01 00:00:00,5,3,3,1,0,0.6,0.6,0.2,0.0
+Netherlands,Technology,Software Engineer,Male,2025-08-01 00:00:00,4,2,1,1,1,0.5,0.25,0.25,0.25
+France,Commercial,Commercial Analyst,Male,2026-01-01 00:00:00,5,4,3,1,1,0.8,0.6,0.2,0.2
+France,Commercial,Commercial Analyst,Female,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Commercial,Pricing Manager,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Sales,Sales Executive,Male,2025-04-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Germany,Sales,Account Manager,Female,2025-04-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,People,HR Advisor,Female,2025-11-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+France,Finance,Financial Analyst,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Technology,Data Engineer,Male,2025-06-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Operations,Site Engineer,Male,2026-03-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-10-01 00:00:00,4,3,2,2,2,0.75,0.5,0.5,0.5
+Netherlands,Customer Support,Customer Success Manager,Male,2025-11-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+Netherlands,Sales,Sales Executive,Female,2026-01-01 00:00:00,2,2,2,1,0,1.0,1.0,0.5,0.0
+France,Finance,Financial Analyst,Male,2025-10-01 00:00:00,4,4,3,2,1,1.0,0.75,0.5,0.25
+UK,Finance,Accountant,Female,2026-02-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+France,Operations,Construction Supervisor,Male,2025-07-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Ireland,People,HR Advisor,Male,2025-09-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Ireland,Supply Chain,Warehouse Manager,Male,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Commercial,Pricing Manager,Female,2025-12-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Operations,Construction Supervisor,Female,2025-10-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Male,2025-05-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Finance,Financial Analyst,Male,2025-06-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+UK,People,HR Advisor,Female,2025-06-01 00:00:00,4,3,1,1,1,0.75,0.25,0.25,0.25
+Germany,Sales,Account Manager,Male,2026-01-01 00:00:00,5,3,3,0,0,0.6,0.6,0.0,0.0
+Netherlands,Technology,Software Engineer,Male,2026-01-01 00:00:00,3,1,1,1,1,0.3333,0.3333,0.3333,0.3333
+France,Sales,Account Manager,Male,2025-08-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Germany,Finance,Accountant,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Technology,Software Engineer,Female,2025-10-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Sales,Sales Executive,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Supply Chain,Procurement Specialist,Female,2026-03-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Technology,Software Engineer,Male,2025-05-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Operations,Site Engineer,Male,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Commercial,Pricing Manager,Female,2026-03-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Operations,Construction Supervisor,Male,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Operations,Project Manager,Female,2025-08-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Commercial,Commercial Analyst,Female,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Technology,Data Analyst,Female,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Supply Chain,Procurement Specialist,Male,2025-12-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Technology,Data Analyst,Female,2025-10-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Customer Support,Customer Support Rep,Male,2025-08-01 00:00:00,23,14,9,2,1,0.6087,0.3913,0.087,0.0435
+UK,Commercial,Commercial Analyst,Male,2026-02-01 00:00:00,21,14,7,3,2,0.6667,0.3333,0.1429,0.0952
+Germany,Operations,Project Manager,Male,2025-11-01 00:00:00,5,4,2,0,0,0.8,0.4,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Male,2025-06-01 00:00:00,5,3,0,0,0,0.6,0.0,0.0,0.0
+UK,Customer Support,Customer Support Rep,Male,2025-05-01 00:00:00,26,18,8,3,3,0.6923,0.3077,0.1154,0.1154
+UK,Customer Support,Customer Support Rep,Male,2026-01-01 00:00:00,27,22,11,7,6,0.8148,0.4074,0.2593,0.2222
+Netherlands,Technology,Data Analyst,Male,2026-02-01 00:00:00,2,2,2,0,0,1.0,1.0,0.0,0.0
+Germany,Operations,Construction Supervisor,Male,2026-02-01 00:00:00,7,5,2,1,1,0.7143,0.2857,0.1429,0.1429
+Germany,Operations,Site Engineer,Male,2025-12-01 00:00:00,4,3,3,1,1,0.75,0.75,0.25,0.25
+Germany,Operations,Project Manager,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Sales,Account Manager,Male,2025-04-01 00:00:00,25,21,14,5,4,0.84,0.56,0.2,0.16
+UK,People,HR Advisor,Male,2025-07-01 00:00:00,27,19,15,10,6,0.7037,0.5556,0.3704,0.2222
+Germany,Technology,Data Analyst,Male,2026-02-01 00:00:00,7,6,2,0,0,0.8571,0.2857,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Male,2025-08-01 00:00:00,11,7,5,2,1,0.6364,0.4545,0.1818,0.0909
+UK,Supply Chain,Logistics Coordinator,Male,2025-09-01 00:00:00,10,7,4,1,1,0.7,0.4,0.1,0.1
+Ireland,Technology,Software Engineer,Male,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Operations,Site Engineer,Male,2025-09-01 00:00:00,19,16,11,2,1,0.8421,0.5789,0.1053,0.0526
+UK,Supply Chain,Warehouse Manager,Male,2026-01-01 00:00:00,12,8,4,1,1,0.6667,0.3333,0.0833,0.0833
+Netherlands,Operations,Construction Supervisor,Male,2025-09-01 00:00:00,3,2,2,2,1,0.6667,0.6667,0.6667,0.3333
+France,Supply Chain,Procurement Specialist,Male,2025-04-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+UK,Technology,Data Engineer,Male,2026-03-01 00:00:00,12,11,9,3,2,0.9167,0.75,0.25,0.1667
+UK,Technology,Software Engineer,Female,2025-04-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,People,HR Business Partner,Male,2025-07-01 00:00:00,9,8,6,2,1,0.8889,0.6667,0.2222,0.1111
+Netherlands,Supply Chain,Procurement Specialist,Male,2025-10-01 00:00:00,5,2,2,1,1,0.4,0.4,0.2,0.2
+France,Technology,Data Engineer,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Sales,Sales Executive,Female,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Customer Support,Customer Support Rep,Male,2025-07-01 00:00:00,4,2,2,2,2,0.5,0.5,0.5,0.5
+France,Commercial,Commercial Analyst,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,People,HR Advisor,Male,2025-10-01 00:00:00,5,1,1,0,0,0.2,0.2,0.0,0.0
+Netherlands,Sales,Sales Executive,Male,2025-10-01 00:00:00,3,3,3,2,2,1.0,1.0,0.6667,0.6667
+UK,Supply Chain,Warehouse Manager,Male,2025-05-01 00:00:00,17,13,7,3,3,0.7647,0.4118,0.1765,0.1765
+France,Operations,Project Manager,Male,2025-12-01 00:00:00,5,2,2,1,1,0.4,0.4,0.2,0.2
+Germany,Operations,Site Engineer,Female,2025-11-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Technology,Data Engineer,Male,2025-12-01 00:00:00,8,8,3,3,3,1.0,0.375,0.375,0.375
+Netherlands,Sales,Account Manager,Female,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Finance,Accountant,Female,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Commercial,Pricing Manager,Female,2025-11-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+France,Sales,Sales Executive,Male,2025-06-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+France,Technology,Software Engineer,Female,2025-12-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Sales,Sales Executive,Male,2025-12-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+Netherlands,Customer Support,Customer Success Manager,Female,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,People,HR Advisor,Male,2025-10-01 00:00:00,6,4,2,1,0,0.6667,0.3333,0.1667,0.0
+UK,Supply Chain,Warehouse Manager,Male,2025-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Customer Support,Customer Success Manager,Male,2026-03-01 00:00:00,6,4,4,3,1,0.6667,0.6667,0.5,0.1667
+Netherlands,Customer Support,Customer Support Rep,Female,2025-04-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,People,HR Business Partner,Female,2025-04-01 00:00:00,3,3,2,2,2,1.0,0.6667,0.6667,0.6667
+Germany,Customer Support,Customer Success Manager,Female,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Operations,Project Manager,Female,2025-06-01 00:00:00,2,2,2,1,0,1.0,1.0,0.5,0.0
+Ireland,People,HR Advisor,Male,2026-02-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,People,HR Business Partner,Male,2025-10-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Technology,Data Engineer,Male,2025-12-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Ireland,Technology,Data Analyst,Male,2026-02-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+UK,Supply Chain,Warehouse Manager,Female,2025-06-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+France,Commercial,Pricing Manager,Male,2025-07-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Finance,Accountant,Female,2025-09-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+UK,Operations,Site Engineer,Female,2025-07-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Netherlands,Supply Chain,Warehouse Manager,Male,2026-02-01 00:00:00,2,2,2,0,0,1.0,1.0,0.0,0.0
+Netherlands,Operations,Construction Supervisor,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Operations,Construction Supervisor,Male,2025-06-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Supply Chain,Logistics Coordinator,Female,2025-07-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2025-10-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Germany,Sales,Account Manager,Female,2025-12-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+Ireland,Commercial,Pricing Manager,Male,2025-09-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+France,Operations,Site Engineer,Male,2025-11-01 00:00:00,2,2,2,1,0,1.0,1.0,0.5,0.0
+France,Finance,Financial Analyst,Female,2026-02-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Technology,Software Engineer,Male,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Technology,Data Engineer,Male,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Customer Support,Customer Support Rep,Female,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Technology,Data Analyst,Male,2025-04-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+Netherlands,People,HR Business Partner,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Sales,Sales Executive,Female,2025-09-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Technology,Data Engineer,Female,2026-02-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Customer Support,Customer Success Manager,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Operations,Site Engineer,Female,2025-08-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+France,Commercial,Pricing Manager,Female,2025-04-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Operations,Site Engineer,Female,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Success Manager,Female,2025-09-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Male,2025-09-01 00:00:00,14,11,7,2,1,0.7857,0.5,0.1429,0.0714
+Ireland,Finance,Accountant,Male,2025-12-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,People,HR Advisor,Male,2025-11-01 00:00:00,9,8,4,1,1,0.8889,0.4444,0.1111,0.1111
+UK,People,HR Business Partner,Male,2026-03-01 00:00:00,24,16,10,6,5,0.6667,0.4167,0.25,0.2083
+UK,Operations,Site Engineer,Male,2025-05-01 00:00:00,18,16,12,6,5,0.8889,0.6667,0.3333,0.2778
+UK,Supply Chain,Logistics Coordinator,Male,2025-05-01 00:00:00,19,17,11,4,4,0.8947,0.5789,0.2105,0.2105
+UK,Commercial,Pricing Manager,Male,2025-06-01 00:00:00,24,22,9,4,4,0.9167,0.375,0.1667,0.1667
+Germany,Sales,Account Manager,Male,2026-02-01 00:00:00,7,7,5,2,2,1.0,0.7143,0.2857,0.2857
+Germany,Commercial,Pricing Manager,Male,2025-04-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Female,2025-12-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Finance,Financial Analyst,Male,2026-03-01 00:00:00,21,13,9,2,2,0.619,0.4286,0.0952,0.0952
+France,Commercial,Commercial Analyst,Male,2026-02-01 00:00:00,6,4,3,3,3,0.6667,0.5,0.5,0.5
+UK,Supply Chain,Logistics Coordinator,Male,2026-01-01 00:00:00,19,13,9,5,5,0.6842,0.4737,0.2632,0.2632
+France,Supply Chain,Logistics Coordinator,Male,2025-06-01 00:00:00,4,4,2,0,0,1.0,0.5,0.0,0.0
+Germany,Technology,Data Engineer,Male,2025-07-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+Germany,Operations,Project Manager,Female,2025-09-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Operations,Site Engineer,Female,2025-12-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+UK,Technology,Software Engineer,Male,2025-04-01 00:00:00,15,12,6,3,2,0.8,0.4,0.2,0.1333
+Germany,Customer Support,Customer Support Rep,Male,2025-06-01 00:00:00,10,8,5,3,3,0.8,0.5,0.3,0.3
+France,Sales,Sales Executive,Female,2025-07-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+UK,Supply Chain,Logistics Coordinator,Male,2025-08-01 00:00:00,10,8,5,1,1,0.8,0.5,0.1,0.1
+UK,Supply Chain,Procurement Specialist,Male,2025-06-01 00:00:00,4,2,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Technology,Software Engineer,Male,2026-02-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Customer Support,Customer Success Manager,Male,2025-06-01 00:00:00,21,15,11,4,3,0.7143,0.5238,0.1905,0.1429
+Germany,Supply Chain,Procurement Specialist,Male,2026-03-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+UK,People,HR Advisor,Male,2025-12-01 00:00:00,24,20,12,8,5,0.8333,0.5,0.3333,0.2083
+UK,Operations,Construction Supervisor,Female,2025-11-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Germany,Commercial,Commercial Analyst,Male,2026-03-01 00:00:00,13,11,4,1,1,0.8462,0.3077,0.0769,0.0769
+UK,Operations,Project Manager,Male,2025-06-01 00:00:00,13,12,7,3,3,0.9231,0.5385,0.2308,0.2308
+France,Commercial,Pricing Manager,Male,2025-12-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+UK,Operations,Site Engineer,Male,2026-01-01 00:00:00,14,8,4,2,2,0.5714,0.2857,0.1429,0.1429
+UK,Operations,Site Engineer,Male,2025-08-01 00:00:00,12,8,2,1,0,0.6667,0.1667,0.0833,0.0
+Germany,Finance,Financial Analyst,Male,2026-02-01 00:00:00,8,5,3,1,1,0.625,0.375,0.125,0.125
+UK,Customer Support,Customer Support Rep,Male,2025-09-01 00:00:00,11,9,8,3,2,0.8182,0.7273,0.2727,0.1818
+UK,Finance,Accountant,Male,2025-06-01 00:00:00,17,14,10,7,7,0.8235,0.5882,0.4118,0.4118
+Germany,People,HR Business Partner,Male,2025-12-01 00:00:00,10,8,3,1,1,0.8,0.3,0.1,0.1
+France,Technology,Data Engineer,Male,2025-07-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+Ireland,Sales,Account Manager,Male,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,People,HR Business Partner,Male,2026-03-01 00:00:00,6,6,4,3,3,1.0,0.6667,0.5,0.5
+UK,Operations,Construction Supervisor,Male,2025-04-01 00:00:00,12,7,5,0,0,0.5833,0.4167,0.0,0.0
+France,Technology,Software Engineer,Male,2025-12-01 00:00:00,4,1,0,0,0,0.25,0.0,0.0,0.0
+Netherlands,Supply Chain,Procurement Specialist,Male,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Finance,Financial Analyst,Male,2026-03-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+Germany,Commercial,Pricing Manager,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Customer Support,Customer Success Manager,Male,2026-03-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Ireland,Commercial,Pricing Manager,Male,2025-08-01 00:00:00,2,2,2,1,0,1.0,1.0,0.5,0.0
+France,Finance,Accountant,Male,2025-04-01 00:00:00,5,3,1,1,1,0.6,0.2,0.2,0.2
+France,Sales,Account Manager,Male,2026-02-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+Germany,Supply Chain,Warehouse Manager,Male,2026-02-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+Germany,Operations,Project Manager,Male,2025-10-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+Germany,Technology,Software Engineer,Male,2026-03-01 00:00:00,5,2,1,0,0,0.4,0.2,0.0,0.0
+Ireland,Operations,Site Engineer,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Customer Support,Customer Support Rep,Male,2025-12-01 00:00:00,4,4,2,0,0,1.0,0.5,0.0,0.0
+Netherlands,Supply Chain,Logistics Coordinator,Male,2026-03-01 00:00:00,6,6,4,2,0,1.0,0.6667,0.3333,0.0
+Ireland,Sales,Account Manager,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Operations,Construction Supervisor,Male,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,People,HR Advisor,Male,2025-06-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+Ireland,Operations,Site Engineer,Male,2025-12-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+Germany,Customer Support,Customer Success Manager,Male,2025-06-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+UK,Finance,Accountant,Female,2026-01-01 00:00:00,2,2,2,2,2,1.0,1.0,1.0,1.0
+France,Operations,Project Manager,Male,2025-07-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+France,Sales,Account Manager,Female,2025-05-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+Germany,Technology,Data Analyst,Female,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Sales,Sales Executive,Male,2025-07-01 00:00:00,4,1,1,1,1,0.25,0.25,0.25,0.25
+UK,Customer Support,Customer Support Rep,Female,2025-04-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+UK,Finance,Accountant,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,People,HR Advisor,Male,2025-11-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+Ireland,Technology,Data Engineer,Male,2025-07-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+France,Finance,Accountant,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,People,HR Business Partner,Female,2025-11-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Supply Chain,Procurement Specialist,Female,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Finance,Accountant,Female,2025-05-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Ireland,Operations,Site Engineer,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Operations,Construction Supervisor,Male,2025-08-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Commercial,Pricing Manager,Male,2025-05-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Female,2026-01-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,Supply Chain,Warehouse Manager,Male,2025-11-01 00:00:00,2,2,2,0,0,1.0,1.0,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2025-11-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Finance,Accountant,Female,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Operations,Site Engineer,Male,2025-05-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Female,2025-05-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Germany,Sales,Sales Executive,Female,2026-02-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Ireland,Commercial,Pricing Manager,Male,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Finance,Accountant,Male,2026-03-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+Ireland,Operations,Site Engineer,Female,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Operations,Site Engineer,Male,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Operations,Construction Supervisor,Male,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Finance,Financial Analyst,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,People,HR Business Partner,Male,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Operations,Site Engineer,Male,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Operations,Site Engineer,Male,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Operations,Project Manager,Male,2025-06-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Technology,Software Engineer,Female,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Operations,Site Engineer,Male,2025-08-01 00:00:00,5,2,2,0,0,0.4,0.4,0.0,0.0
+Germany,Commercial,Pricing Manager,Male,2026-02-01 00:00:00,4,2,1,0,0,0.5,0.25,0.0,0.0
+UK,Sales,Sales Executive,Male,2025-10-01 00:00:00,25,20,10,3,2,0.8,0.4,0.12,0.08
+Germany,People,HR Business Partner,Male,2025-09-01 00:00:00,6,4,3,2,1,0.6667,0.5,0.3333,0.1667
+Netherlands,Customer Support,Customer Success Manager,Male,2025-06-01 00:00:00,5,3,2,1,1,0.6,0.4,0.2,0.2
+Germany,Technology,Data Engineer,Male,2026-01-01 00:00:00,10,8,4,0,0,0.8,0.4,0.0,0.0
+UK,Technology,Software Engineer,Male,2026-02-01 00:00:00,16,13,6,0,0,0.8125,0.375,0.0,0.0
+UK,Sales,Account Manager,Female,2026-03-01 00:00:00,5,5,3,0,0,1.0,0.6,0.0,0.0
+France,Operations,Site Engineer,Female,2025-12-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+France,Customer Support,Customer Support Rep,Male,2025-09-01 00:00:00,9,8,3,2,2,0.8889,0.3333,0.2222,0.2222
+UK,Commercial,Pricing Manager,Female,2025-11-01 00:00:00,3,2,1,1,0,0.6667,0.3333,0.3333,0.0
+Germany,People,HR Advisor,Female,2025-09-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Operations,Construction Supervisor,Male,2026-02-01 00:00:00,11,9,6,2,2,0.8182,0.5455,0.1818,0.1818
+UK,Technology,Data Engineer,Male,2025-06-01 00:00:00,14,12,6,2,1,0.8571,0.4286,0.1429,0.0714
+Germany,Technology,Data Engineer,Male,2025-08-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+Ireland,Finance,Accountant,Male,2025-09-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+UK,Technology,Data Analyst,Male,2025-10-01 00:00:00,12,9,5,1,0,0.75,0.4167,0.0833,0.0
+UK,Operations,Site Engineer,Male,2025-07-01 00:00:00,10,7,4,1,0,0.7,0.4,0.1,0.0
+UK,Supply Chain,Logistics Coordinator,Male,2025-07-01 00:00:00,19,13,6,4,4,0.6842,0.3158,0.2105,0.2105
+UK,Operations,Site Engineer,Female,2025-09-01 00:00:00,4,2,2,0,0,0.5,0.5,0.0,0.0
+UK,Customer Support,Customer Support Rep,Female,2026-02-01 00:00:00,4,3,1,1,1,0.75,0.25,0.25,0.25
+Germany,Technology,Data Engineer,Male,2025-05-01 00:00:00,11,9,6,3,2,0.8182,0.5455,0.2727,0.1818
+UK,People,HR Advisor,Male,2025-09-01 00:00:00,27,16,10,5,4,0.5926,0.3704,0.1852,0.1481
+UK,People,HR Advisor,Female,2025-11-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Operations,Project Manager,Male,2025-10-01 00:00:00,4,3,0,0,0,0.75,0.0,0.0,0.0
+Germany,Sales,Sales Executive,Male,2025-10-01 00:00:00,6,4,1,1,1,0.6667,0.1667,0.1667,0.1667
+Ireland,Finance,Financial Analyst,Male,2025-11-01 00:00:00,4,1,1,0,0,0.25,0.25,0.0,0.0
+France,Commercial,Commercial Analyst,Male,2025-04-01 00:00:00,4,4,3,1,1,1.0,0.75,0.25,0.25
+Germany,Finance,Financial Analyst,Male,2025-04-01 00:00:00,9,4,1,0,0,0.4444,0.1111,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Male,2025-12-01 00:00:00,10,6,1,0,0,0.6,0.1,0.0,0.0
+France,Customer Support,Customer Success Manager,Male,2025-11-01 00:00:00,5,4,4,3,2,0.8,0.8,0.6,0.4
+Germany,Sales,Account Manager,Male,2025-04-01 00:00:00,6,6,5,3,3,1.0,0.8333,0.5,0.5
+France,Commercial,Pricing Manager,Male,2025-09-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Netherlands,Commercial,Pricing Manager,Male,2025-11-01 00:00:00,5,3,2,1,1,0.6,0.4,0.2,0.2
+UK,Operations,Project Manager,Female,2026-03-01 00:00:00,6,3,2,2,1,0.5,0.3333,0.3333,0.1667
+Germany,Operations,Site Engineer,Male,2025-05-01 00:00:00,5,4,2,0,0,0.8,0.4,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Male,2026-03-01 00:00:00,5,5,2,1,1,1.0,0.4,0.2,0.2
+France,Sales,Sales Executive,Male,2026-03-01 00:00:00,5,4,2,1,1,0.8,0.4,0.2,0.2
+UK,Technology,Data Engineer,Female,2025-11-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Operations,Project Manager,Male,2026-01-01 00:00:00,4,4,2,1,1,1.0,0.5,0.25,0.25
+Germany,Operations,Site Engineer,Male,2026-01-01 00:00:00,7,3,2,1,1,0.4286,0.2857,0.1429,0.1429
+Ireland,Commercial,Pricing Manager,Male,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Female,2026-03-01 00:00:00,4,2,1,0,0,0.5,0.25,0.0,0.0
+UK,Customer Support,Customer Success Manager,Female,2025-10-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,Finance,Accountant,Male,2026-02-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Germany,Sales,Sales Executive,Female,2025-04-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Ireland,Sales,Account Manager,Male,2026-02-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+France,Technology,Data Engineer,Male,2025-05-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+Netherlands,Operations,Site Engineer,Male,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Operations,Site Engineer,Male,2025-09-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+UK,Customer Support,Customer Support Rep,Male,2025-12-01 00:00:00,17,14,8,2,0,0.8235,0.4706,0.1176,0.0
+Ireland,Sales,Sales Executive,Male,2026-01-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+Ireland,Technology,Data Engineer,Male,2026-01-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Netherlands,Sales,Account Manager,Male,2025-10-01 00:00:00,4,2,1,0,0,0.5,0.25,0.0,0.0
+Netherlands,Finance,Accountant,Male,2025-11-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+France,Technology,Data Engineer,Male,2026-01-01 00:00:00,5,3,1,0,0,0.6,0.2,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Male,2025-04-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+France,Customer Support,Customer Success Manager,Female,2025-06-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Female,2025-10-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Ireland,Sales,Sales Executive,Male,2025-08-01 00:00:00,5,3,2,0,0,0.6,0.4,0.0,0.0
+Netherlands,Technology,Software Engineer,Male,2025-04-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Netherlands,Finance,Financial Analyst,Male,2025-11-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+Germany,Finance,Financial Analyst,Female,2025-10-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+Netherlands,Operations,Construction Supervisor,Female,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Support Rep,Male,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Technology,Data Engineer,Female,2025-06-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+France,People,HR Advisor,Female,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Technology,Data Engineer,Male,2025-08-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Operations,Construction Supervisor,Male,2026-02-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Operations,Construction Supervisor,Male,2025-07-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+France,Technology,Software Engineer,Male,2025-09-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Operations,Project Manager,Male,2025-08-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Ireland,Commercial,Commercial Analyst,Male,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Technology,Data Engineer,Male,2025-08-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+UK,Technology,Data Analyst,Female,2025-10-01 00:00:00,3,3,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Operations,Construction Supervisor,Male,2026-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Sales,Account Manager,Female,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Sales,Sales Executive,Female,2025-11-01 00:00:00,3,3,2,2,1,1.0,0.6667,0.6667,0.3333
+France,Operations,Project Manager,Male,2025-05-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Finance,Accountant,Female,2025-07-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+France,Sales,Sales Executive,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Technology,Data Engineer,Male,2025-11-01 00:00:00,4,4,2,2,0,1.0,0.5,0.5,0.0
+France,Customer Support,Customer Support Rep,Female,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Sales,Account Manager,Male,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Sales,Sales Executive,Female,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Sales,Sales Executive,Female,2025-05-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Supply Chain,Warehouse Manager,Female,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Customer Support,Customer Support Rep,Male,2025-10-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Germany,People,HR Business Partner,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Operations,Project Manager,Female,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Finance,Financial Analyst,Male,2025-06-01 00:00:00,5,2,2,0,0,0.4,0.4,0.0,0.0
+UK,Commercial,Pricing Manager,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Finance,Accountant,Male,2026-03-01 00:00:00,29,24,14,4,3,0.8276,0.4828,0.1379,0.1034
+Germany,Technology,Data Analyst,Male,2025-04-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+Netherlands,Supply Chain,Warehouse Manager,Male,2025-04-01 00:00:00,3,3,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Commercial,Pricing Manager,Male,2025-10-01 00:00:00,5,4,2,2,1,0.8,0.4,0.4,0.2
+France,Supply Chain,Logistics Coordinator,Male,2026-03-01 00:00:00,4,3,2,1,0,0.75,0.5,0.25,0.0
+UK,People,HR Business Partner,Male,2025-06-01 00:00:00,15,12,7,3,2,0.8,0.4667,0.2,0.1333
+Germany,People,HR Advisor,Female,2026-01-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Supply Chain,Logistics Coordinator,Male,2025-12-01 00:00:00,12,6,4,2,2,0.5,0.3333,0.1667,0.1667
+UK,People,HR Advisor,Male,2025-08-01 00:00:00,23,13,7,2,1,0.5652,0.3043,0.087,0.0435
+France,Customer Support,Customer Support Rep,Male,2025-05-01 00:00:00,4,4,3,1,0,1.0,0.75,0.25,0.0
+Germany,Customer Support,Customer Success Manager,Male,2026-03-01 00:00:00,4,4,1,0,0,1.0,0.25,0.0,0.0
+France,Technology,Software Engineer,Male,2025-08-01 00:00:00,4,3,3,2,2,0.75,0.75,0.5,0.5
+UK,People,HR Advisor,Male,2026-01-01 00:00:00,17,11,7,4,3,0.6471,0.4118,0.2353,0.1765
+UK,Operations,Project Manager,Male,2026-03-01 00:00:00,15,13,9,4,4,0.8667,0.6,0.2667,0.2667
+Germany,Supply Chain,Procurement Specialist,Male,2025-06-01 00:00:00,7,3,2,1,1,0.4286,0.2857,0.1429,0.1429
+UK,Sales,Sales Executive,Female,2025-10-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Male,2026-03-01 00:00:00,13,9,3,1,1,0.6923,0.2308,0.0769,0.0769
+UK,Customer Support,Customer Support Rep,Male,2025-07-01 00:00:00,18,12,7,6,4,0.6667,0.3889,0.3333,0.2222
+UK,People,HR Advisor,Male,2025-05-01 00:00:00,20,15,9,4,3,0.75,0.45,0.2,0.15
+Netherlands,Operations,Site Engineer,Male,2025-12-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Germany,Operations,Construction Supervisor,Male,2025-04-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+UK,Commercial,Commercial Analyst,Male,2025-04-01 00:00:00,24,20,8,4,3,0.8333,0.3333,0.1667,0.125
+Germany,Customer Support,Customer Success Manager,Female,2025-07-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Male,2026-03-01 00:00:00,11,9,4,2,2,0.8182,0.3636,0.1818,0.1818
+UK,Finance,Financial Analyst,Male,2025-06-01 00:00:00,21,14,6,3,1,0.6667,0.2857,0.1429,0.0476
+UK,Technology,Data Analyst,Male,2025-11-01 00:00:00,15,10,9,1,1,0.6667,0.6,0.0667,0.0667
+UK,Supply Chain,Warehouse Manager,Male,2025-07-01 00:00:00,12,9,4,2,1,0.75,0.3333,0.1667,0.0833
+UK,Customer Support,Customer Success Manager,Female,2025-11-01 00:00:00,3,2,1,1,0,0.6667,0.3333,0.3333,0.0
+Ireland,Sales,Sales Executive,Male,2025-09-01 00:00:00,4,1,1,0,0,0.25,0.25,0.0,0.0
+UK,Finance,Financial Analyst,Female,2025-04-01 00:00:00,8,4,3,1,0,0.5,0.375,0.125,0.0
+Germany,Sales,Sales Executive,Male,2025-11-01 00:00:00,13,12,3,2,1,0.9231,0.2308,0.1538,0.0769
+France,Finance,Financial Analyst,Female,2025-04-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Sales,Account Manager,Male,2026-02-01 00:00:00,25,19,10,3,2,0.76,0.4,0.12,0.08
+Ireland,Finance,Financial Analyst,Male,2025-10-01 00:00:00,5,4,1,1,1,0.8,0.2,0.2,0.2
+Germany,Finance,Accountant,Male,2025-06-01 00:00:00,14,10,4,1,1,0.7143,0.2857,0.0714,0.0714
+Germany,Commercial,Commercial Analyst,Male,2025-06-01 00:00:00,10,7,5,2,1,0.7,0.5,0.2,0.1
+France,Customer Support,Customer Support Rep,Male,2026-01-01 00:00:00,7,5,4,2,1,0.7143,0.5714,0.2857,0.1429
+France,People,HR Business Partner,Male,2025-06-01 00:00:00,3,3,2,2,1,1.0,0.6667,0.6667,0.3333
+Germany,People,HR Business Partner,Male,2025-05-01 00:00:00,6,4,3,1,1,0.6667,0.5,0.1667,0.1667
+France,Commercial,Pricing Manager,Male,2025-08-01 00:00:00,5,4,2,0,0,0.8,0.4,0.0,0.0
+France,Technology,Data Engineer,Male,2025-09-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+France,Technology,Software Engineer,Male,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Technology,Data Engineer,Male,2025-10-01 00:00:00,4,3,3,1,0,0.75,0.75,0.25,0.0
+Ireland,Operations,Project Manager,Male,2026-03-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Technology,Software Engineer,Male,2025-06-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+Netherlands,Commercial,Commercial Analyst,Male,2026-02-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Operations,Construction Supervisor,Male,2025-12-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+UK,Customer Support,Customer Success Manager,Male,2026-03-01 00:00:00,28,18,13,5,4,0.6429,0.4643,0.1786,0.1429
+UK,Commercial,Pricing Manager,Male,2026-03-01 00:00:00,19,13,9,3,3,0.6842,0.4737,0.1579,0.1579
+Germany,People,HR Business Partner,Male,2026-01-01 00:00:00,8,5,4,3,2,0.625,0.5,0.375,0.25
+France,Operations,Project Manager,Male,2025-09-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+France,Technology,Data Analyst,Female,2025-06-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,Sales,Sales Executive,Male,2025-11-01 00:00:00,10,8,6,1,1,0.8,0.6,0.1,0.1
+UK,Operations,Site Engineer,Male,2025-12-01 00:00:00,17,11,8,4,4,0.6471,0.4706,0.2353,0.2353
+Ireland,Finance,Accountant,Male,2025-05-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Netherlands,Operations,Project Manager,Male,2025-11-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Finance,Accountant,Male,2026-01-01 00:00:00,3,3,3,3,1,1.0,1.0,1.0,0.3333
+Netherlands,Finance,Accountant,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Commercial,Pricing Manager,Male,2025-05-01 00:00:00,4,2,1,1,1,0.5,0.25,0.25,0.25
+Ireland,Customer Support,Customer Support Rep,Male,2025-11-01 00:00:00,4,3,0,0,0,0.75,0.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Female,2025-12-01 00:00:00,3,3,3,2,1,1.0,1.0,0.6667,0.3333
+France,People,HR Advisor,Male,2026-03-01 00:00:00,4,4,3,1,1,1.0,0.75,0.25,0.25
+Ireland,Finance,Accountant,Male,2025-08-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+Netherlands,Finance,Financial Analyst,Male,2025-10-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,Finance,Accountant,Female,2025-12-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+France,Supply Chain,Procurement Specialist,Male,2026-02-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Germany,People,HR Business Partner,Female,2025-05-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+Germany,Technology,Data Engineer,Male,2025-09-01 00:00:00,7,6,4,3,1,0.8571,0.5714,0.4286,0.1429
+France,Technology,Software Engineer,Male,2026-01-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+Germany,People,HR Business Partner,Male,2025-08-01 00:00:00,6,4,1,1,1,0.6667,0.1667,0.1667,0.1667
+Germany,Operations,Site Engineer,Male,2025-09-01 00:00:00,5,3,1,0,0,0.6,0.2,0.0,0.0
+France,Customer Support,Customer Support Rep,Male,2025-08-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Netherlands,Customer Support,Customer Support Rep,Male,2025-11-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Germany,Technology,Software Engineer,Female,2025-06-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,Customer Support,Customer Success Manager,Male,2025-10-01 00:00:00,4,2,2,2,1,0.5,0.5,0.5,0.25
+UK,Technology,Software Engineer,Female,2026-02-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Netherlands,Sales,Account Manager,Male,2025-11-01 00:00:00,3,3,2,2,1,1.0,0.6667,0.6667,0.3333
+UK,People,HR Advisor,Female,2025-10-01 00:00:00,3,3,3,1,1,1.0,1.0,0.3333,0.3333
+Germany,People,HR Business Partner,Female,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Commercial,Pricing Manager,Male,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,People,HR Advisor,Female,2025-05-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,People,HR Business Partner,Female,2026-02-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+France,Commercial,Commercial Analyst,Female,2025-12-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Netherlands,People,HR Business Partner,Male,2026-03-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+UK,Operations,Site Engineer,Female,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Technology,Data Analyst,Female,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Finance,Accountant,Male,2025-10-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+Ireland,Sales,Account Manager,Female,2026-03-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Operations,Site Engineer,Male,2025-05-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Sales,Sales Executive,Female,2025-12-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Finance,Accountant,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Female,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Finance,Accountant,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,People,HR Business Partner,Female,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Supply Chain,Warehouse Manager,Female,2026-03-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Female,2025-08-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Ireland,Operations,Site Engineer,Male,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-06-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Technology,Data Analyst,Male,2025-04-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Operations,Site Engineer,Male,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Female,2025-11-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Technology,Software Engineer,Female,2025-09-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+Netherlands,Finance,Financial Analyst,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Sales,Sales Executive,Male,2025-12-01 00:00:00,10,6,4,1,1,0.6,0.4,0.1,0.1
+UK,Operations,Construction Supervisor,Male,2025-06-01 00:00:00,15,8,2,1,1,0.5333,0.1333,0.0667,0.0667
+UK,Finance,Accountant,Male,2025-04-01 00:00:00,17,14,11,5,4,0.8235,0.6471,0.2941,0.2353
+UK,Technology,Data Engineer,Male,2026-02-01 00:00:00,14,10,6,1,1,0.7143,0.4286,0.0714,0.0714
+UK,Commercial,Commercial Analyst,Male,2026-03-01 00:00:00,19,15,6,2,1,0.7895,0.3158,0.1053,0.0526
+Germany,Customer Support,Customer Support Rep,Male,2025-04-01 00:00:00,12,8,4,0,0,0.6667,0.3333,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Male,2025-04-01 00:00:00,21,14,9,4,3,0.6667,0.4286,0.1905,0.1429
+UK,Supply Chain,Warehouse Manager,Male,2025-10-01 00:00:00,14,11,8,5,5,0.7857,0.5714,0.3571,0.3571
+Netherlands,Customer Support,Customer Support Rep,Male,2025-12-01 00:00:00,6,5,2,0,0,0.8333,0.3333,0.0,0.0
+UK,Customer Support,Customer Success Manager,Male,2025-04-01 00:00:00,18,14,8,3,3,0.7778,0.4444,0.1667,0.1667
+Netherlands,Customer Support,Customer Success Manager,Male,2026-02-01 00:00:00,4,2,2,1,1,0.5,0.5,0.25,0.25
+France,Operations,Construction Supervisor,Male,2025-06-01 00:00:00,4,2,2,0,0,0.5,0.5,0.0,0.0
+Germany,Finance,Financial Analyst,Female,2025-12-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Commercial,Pricing Manager,Male,2025-04-01 00:00:00,23,17,12,5,4,0.7391,0.5217,0.2174,0.1739
+Ireland,Customer Support,Customer Support Rep,Male,2025-12-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+Netherlands,Finance,Financial Analyst,Male,2025-07-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+Netherlands,Sales,Sales Executive,Male,2025-05-01 00:00:00,4,4,2,0,0,1.0,0.5,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2026-01-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,Finance,Accountant,Male,2025-06-01 00:00:00,4,4,3,2,2,1.0,0.75,0.5,0.5
+UK,Sales,Sales Executive,Male,2025-12-01 00:00:00,13,10,10,6,6,0.7692,0.7692,0.4615,0.4615
+UK,Operations,Site Engineer,Male,2025-11-01 00:00:00,12,9,3,3,3,0.75,0.25,0.25,0.25
+Ireland,Customer Support,Customer Success Manager,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,People,HR Advisor,Male,2025-08-01 00:00:00,7,6,4,1,0,0.8571,0.5714,0.1429,0.0
+UK,Customer Support,Customer Support Rep,Male,2025-10-01 00:00:00,18,15,10,5,4,0.8333,0.5556,0.2778,0.2222
+Germany,Customer Support,Customer Success Manager,Male,2025-04-01 00:00:00,4,4,3,1,0,1.0,0.75,0.25,0.0
+UK,Supply Chain,Logistics Coordinator,Male,2025-11-01 00:00:00,13,13,8,4,4,1.0,0.6154,0.3077,0.3077
+UK,Technology,Data Analyst,Male,2025-12-01 00:00:00,20,14,8,7,5,0.7,0.4,0.35,0.25
+Ireland,Commercial,Pricing Manager,Male,2025-11-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Operations,Project Manager,Female,2025-10-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2025-08-01 00:00:00,6,5,3,1,1,0.8333,0.5,0.1667,0.1667
+UK,Finance,Financial Analyst,Female,2026-03-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Sales,Sales Executive,Female,2025-07-01 00:00:00,5,4,1,1,0,0.8,0.2,0.2,0.0
+France,People,HR Advisor,Male,2025-04-01 00:00:00,7,3,3,2,0,0.4286,0.4286,0.2857,0.0
+Netherlands,People,HR Advisor,Male,2026-01-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+France,Customer Support,Customer Success Manager,Male,2025-07-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+Germany,People,HR Advisor,Male,2025-05-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+UK,Technology,Software Engineer,Male,2025-06-01 00:00:00,12,8,4,2,1,0.6667,0.3333,0.1667,0.0833
+France,Finance,Accountant,Female,2025-09-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Operations,Project Manager,Male,2025-04-01 00:00:00,10,8,5,2,2,0.8,0.5,0.2,0.2
+Germany,People,HR Advisor,Male,2026-01-01 00:00:00,8,8,6,2,1,1.0,0.75,0.25,0.125
+Netherlands,Sales,Account Manager,Male,2025-12-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Customer Support,Customer Success Manager,Female,2025-12-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2025-04-01 00:00:00,4,4,1,0,0,1.0,0.25,0.0,0.0
+Ireland,Technology,Data Analyst,Male,2026-03-01 00:00:00,5,4,1,1,0,0.8,0.2,0.2,0.0
+Netherlands,People,HR Advisor,Male,2025-08-01 00:00:00,4,4,3,1,1,1.0,0.75,0.25,0.25
+Ireland,Commercial,Commercial Analyst,Male,2025-06-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Technology,Data Engineer,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Sales,Sales Executive,Male,2026-01-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Ireland,People,HR Business Partner,Male,2025-08-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Ireland,Sales,Account Manager,Male,2025-06-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Supply Chain,Logistics Coordinator,Male,2026-03-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+Germany,Commercial,Pricing Manager,Male,2025-06-01 00:00:00,8,7,5,2,2,0.875,0.625,0.25,0.25
+Germany,Technology,Data Analyst,Male,2026-03-01 00:00:00,4,4,2,0,0,1.0,0.5,0.0,0.0
+UK,Finance,Accountant,Female,2025-11-01 00:00:00,2,2,2,0,0,1.0,1.0,0.0,0.0
+Netherlands,People,HR Business Partner,Male,2025-04-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+Germany,Operations,Project Manager,Male,2025-09-01 00:00:00,5,4,1,1,1,0.8,0.2,0.2,0.2
+UK,Supply Chain,Logistics Coordinator,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,People,HR Advisor,Male,2026-03-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Germany,Operations,Site Engineer,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Operations,Project Manager,Female,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Finance,Accountant,Female,2025-09-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Female,2025-12-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Sales,Sales Executive,Male,2025-08-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Netherlands,Technology,Data Analyst,Male,2026-03-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,People,HR Advisor,Male,2025-05-01 00:00:00,4,2,0,0,0,0.5,0.0,0.0,0.0
+France,Operations,Site Engineer,Male,2025-09-01 00:00:00,4,2,2,0,0,0.5,0.5,0.0,0.0
+Netherlands,Operations,Site Engineer,Male,2025-11-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Ireland,People,HR Business Partner,Male,2026-01-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Customer Support,Customer Support Rep,Female,2025-06-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Commercial,Pricing Manager,Female,2025-09-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+UK,Operations,Construction Supervisor,Female,2025-05-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+France,Supply Chain,Warehouse Manager,Male,2025-08-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Supply Chain,Procurement Specialist,Male,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Finance,Financial Analyst,Male,2025-07-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,People,HR Advisor,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Supply Chain,Warehouse Manager,Male,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Success Manager,Female,2025-10-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Operations,Construction Supervisor,Male,2026-03-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+France,Customer Support,Customer Support Rep,Female,2025-10-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Commercial,Pricing Manager,Male,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Operations,Project Manager,Male,2025-12-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+Netherlands,People,HR Business Partner,Female,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Operations,Construction Supervisor,Female,2025-08-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2025-05-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,Operations,Construction Supervisor,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,People,HR Business Partner,Male,2025-05-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Supply Chain,Warehouse Manager,Male,2026-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Finance,Accountant,Male,2025-07-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Ireland,Operations,Site Engineer,Female,2025-11-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+France,Commercial,Commercial Analyst,Female,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Female,2025-11-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+UK,Commercial,Pricing Manager,Female,2025-07-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+France,Supply Chain,Warehouse Manager,Male,2026-01-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Ireland,Customer Support,Customer Support Rep,Female,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Operations,Construction Supervisor,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Finance,Financial Analyst,Male,2026-02-01 00:00:00,17,11,8,6,6,0.6471,0.4706,0.3529,0.3529
+UK,Sales,Account Manager,Male,2025-06-01 00:00:00,18,12,6,2,2,0.6667,0.3333,0.1111,0.1111
+Germany,Sales,Account Manager,Male,2026-03-01 00:00:00,17,13,9,3,0,0.7647,0.5294,0.1765,0.0
+Netherlands,Sales,Sales Executive,Male,2025-09-01 00:00:00,3,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Commercial,Pricing Manager,Female,2025-06-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Germany,Sales,Sales Executive,Male,2025-07-01 00:00:00,19,18,9,3,2,0.9474,0.4737,0.1579,0.1053
+UK,Commercial,Commercial Analyst,Female,2025-09-01 00:00:00,2,2,2,0,0,1.0,1.0,0.0,0.0
+Germany,People,HR Advisor,Male,2025-09-01 00:00:00,8,4,4,0,0,0.5,0.5,0.0,0.0
+UK,Technology,Data Analyst,Male,2025-07-01 00:00:00,20,14,4,3,3,0.7,0.2,0.15,0.15
+Germany,Supply Chain,Logistics Coordinator,Male,2025-04-01 00:00:00,9,4,3,1,1,0.4444,0.3333,0.1111,0.1111
+UK,Customer Support,Customer Support Rep,Male,2025-11-01 00:00:00,14,10,8,3,2,0.7143,0.5714,0.2143,0.1429
+France,Commercial,Commercial Analyst,Male,2026-03-01 00:00:00,6,5,3,1,1,0.8333,0.5,0.1667,0.1667
+UK,Sales,Sales Executive,Female,2025-12-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+UK,Finance,Accountant,Female,2025-10-01 00:00:00,5,4,2,0,0,0.8,0.4,0.0,0.0
+France,Sales,Sales Executive,Male,2025-04-01 00:00:00,3,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Male,2025-11-01 00:00:00,8,5,2,0,0,0.625,0.25,0.0,0.0
+UK,Sales,Sales Executive,Male,2025-07-01 00:00:00,20,14,7,3,3,0.7,0.35,0.15,0.15
+UK,People,HR Business Partner,Male,2026-02-01 00:00:00,25,16,4,0,0,0.64,0.16,0.0,0.0
+France,Operations,Site Engineer,Male,2026-01-01 00:00:00,7,4,2,2,1,0.5714,0.2857,0.2857,0.1429
+Ireland,People,HR Business Partner,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Finance,Accountant,Female,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Supply Chain,Logistics Coordinator,Male,2025-10-01 00:00:00,10,6,2,1,0,0.6,0.2,0.1,0.0
+Germany,Operations,Project Manager,Male,2025-08-01 00:00:00,7,3,3,0,0,0.4286,0.4286,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Male,2025-06-01 00:00:00,4,2,0,0,0,0.5,0.0,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Female,2025-07-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Operations,Project Manager,Male,2026-01-01 00:00:00,6,4,2,1,0,0.6667,0.3333,0.1667,0.0
+Netherlands,Customer Support,Customer Support Rep,Male,2025-07-01 00:00:00,6,3,1,0,0,0.5,0.1667,0.0,0.0
+Germany,Supply Chain,Procurement Specialist,Male,2026-02-01 00:00:00,6,2,2,1,1,0.3333,0.3333,0.1667,0.1667
+UK,Technology,Software Engineer,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Supply Chain,Procurement Specialist,Male,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Finance,Financial Analyst,Male,2026-03-01 00:00:00,6,6,6,4,4,1.0,1.0,0.6667,0.6667
+Germany,Finance,Accountant,Male,2026-02-01 00:00:00,5,3,2,0,0,0.6,0.4,0.0,0.0
+Netherlands,Operations,Site Engineer,Male,2025-10-01 00:00:00,2,2,2,1,0,1.0,1.0,0.5,0.0
+Germany,Technology,Software Engineer,Female,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,People,HR Advisor,Female,2025-12-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+France,Finance,Financial Analyst,Male,2026-02-01 00:00:00,5,4,2,1,0,0.8,0.4,0.2,0.0
+Netherlands,Supply Chain,Logistics Coordinator,Male,2026-02-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+France,Commercial,Pricing Manager,Female,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Male,2026-02-01 00:00:00,4,4,2,1,0,1.0,0.5,0.25,0.0
+UK,Operations,Site Engineer,Male,2025-10-01 00:00:00,15,11,7,2,2,0.7333,0.4667,0.1333,0.1333
+France,Commercial,Commercial Analyst,Female,2025-10-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Customer Support,Customer Success Manager,Male,2025-12-01 00:00:00,4,3,0,0,0,0.75,0.0,0.0,0.0
+France,Operations,Site Engineer,Male,2025-08-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Germany,Operations,Project Manager,Male,2025-05-01 00:00:00,4,4,2,1,0,1.0,0.5,0.25,0.0
+France,People,HR Business Partner,Male,2026-02-01 00:00:00,6,3,2,1,1,0.5,0.3333,0.1667,0.1667
+Germany,Customer Support,Customer Success Manager,Female,2025-11-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Operations,Construction Supervisor,Male,2025-10-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+France,Supply Chain,Procurement Specialist,Male,2025-06-01 00:00:00,4,2,2,1,1,0.5,0.5,0.25,0.25
+Germany,Technology,Software Engineer,Male,2026-02-01 00:00:00,5,2,1,0,0,0.4,0.2,0.0,0.0
+Netherlands,Finance,Accountant,Male,2025-12-01 00:00:00,3,3,3,0,0,1.0,1.0,0.0,0.0
+Germany,Finance,Financial Analyst,Female,2025-07-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Germany,Supply Chain,Warehouse Manager,Female,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Sales,Account Manager,Female,2025-04-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Male,2026-03-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Ireland,Technology,Data Analyst,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Female,2025-04-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+France,Sales,Account Manager,Male,2026-03-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Ireland,Customer Support,Customer Success Manager,Male,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Commercial,Pricing Manager,Female,2025-12-01 00:00:00,3,1,1,1,0,0.3333,0.3333,0.3333,0.0
+Germany,Operations,Site Engineer,Female,2025-08-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Operations,Construction Supervisor,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Operations,Project Manager,Female,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Sales,Account Manager,Male,2025-07-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+Netherlands,Operations,Project Manager,Male,2025-07-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Netherlands,Technology,Data Engineer,Male,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,People,HR Business Partner,Female,2025-09-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Finance,Financial Analyst,Male,2025-12-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+Netherlands,Finance,Financial Analyst,Male,2025-12-01 00:00:00,5,1,1,1,1,0.2,0.2,0.2,0.2
+Netherlands,Commercial,Pricing Manager,Male,2025-12-01 00:00:00,2,2,2,2,1,1.0,1.0,1.0,0.5
+France,Technology,Data Analyst,Female,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Technology,Data Engineer,Female,2025-12-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Technology,Data Engineer,Female,2025-09-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Customer Support,Customer Support Rep,Female,2025-09-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Technology,Data Analyst,Male,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Supply Chain,Warehouse Manager,Male,2025-09-01 00:00:00,3,3,3,2,1,1.0,1.0,0.6667,0.3333
+France,Supply Chain,Warehouse Manager,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,People,HR Business Partner,Male,2025-09-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+Germany,Sales,Sales Executive,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Commercial,Pricing Manager,Male,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Commercial,Pricing Manager,Female,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Finance,Accountant,Female,2025-05-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Sales,Account Manager,Male,2025-11-01 00:00:00,21,15,11,4,4,0.7143,0.5238,0.1905,0.1905
+France,Operations,Construction Supervisor,Male,2025-10-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Commercial,Pricing Manager,Male,2025-09-01 00:00:00,23,15,6,4,3,0.6522,0.2609,0.1739,0.1304
+UK,Supply Chain,Warehouse Manager,Male,2025-06-01 00:00:00,17,11,6,3,2,0.6471,0.3529,0.1765,0.1176
+France,Operations,Site Engineer,Male,2025-04-01 00:00:00,5,4,3,2,2,0.8,0.6,0.4,0.4
+UK,Customer Support,Customer Success Manager,Male,2025-09-01 00:00:00,28,21,13,7,5,0.75,0.4643,0.25,0.1786
+UK,Customer Support,Customer Support Rep,Male,2025-06-01 00:00:00,13,10,3,2,2,0.7692,0.2308,0.1538,0.1538
+Germany,Customer Support,Customer Support Rep,Male,2025-09-01 00:00:00,15,10,3,0,0,0.6667,0.2,0.0,0.0
+UK,Sales,Sales Executive,Male,2026-02-01 00:00:00,21,16,12,5,5,0.7619,0.5714,0.2381,0.2381
+France,Finance,Financial Analyst,Male,2025-07-01 00:00:00,8,5,3,1,1,0.625,0.375,0.125,0.125
+Germany,Supply Chain,Logistics Coordinator,Male,2025-08-01 00:00:00,5,5,1,1,1,1.0,0.2,0.2,0.2
+UK,People,HR Business Partner,Male,2025-07-01 00:00:00,23,16,10,5,3,0.6957,0.4348,0.2174,0.1304
+Germany,Technology,Data Engineer,Male,2026-03-01 00:00:00,3,3,2,2,2,1.0,0.6667,0.6667,0.6667
+Germany,Operations,Project Manager,Male,2025-04-01 00:00:00,6,6,3,3,3,1.0,0.5,0.5,0.5
+UK,Finance,Accountant,Male,2025-09-01 00:00:00,28,23,10,5,4,0.8214,0.3571,0.1786,0.1429
+UK,Operations,Project Manager,Female,2025-05-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+UK,Technology,Data Analyst,Male,2026-02-01 00:00:00,12,9,5,1,1,0.75,0.4167,0.0833,0.0833
+Germany,Commercial,Pricing Manager,Male,2025-10-01 00:00:00,9,8,5,2,1,0.8889,0.5556,0.2222,0.1111
+France,Sales,Sales Executive,Male,2025-08-01 00:00:00,5,3,3,0,0,0.6,0.6,0.0,0.0
+Netherlands,People,HR Business Partner,Male,2025-09-01 00:00:00,6,5,4,3,2,0.8333,0.6667,0.5,0.3333
+France,People,HR Advisor,Male,2025-09-01 00:00:00,6,4,3,1,1,0.6667,0.5,0.1667,0.1667
+UK,Operations,Project Manager,Male,2025-09-01 00:00:00,18,12,7,3,2,0.6667,0.3889,0.1667,0.1111
+Netherlands,Operations,Project Manager,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Male,2025-11-01 00:00:00,4,2,2,0,0,0.5,0.5,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Male,2026-01-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+Germany,Finance,Financial Analyst,Female,2026-02-01 00:00:00,4,4,2,2,1,1.0,0.5,0.5,0.25
+Germany,Finance,Accountant,Female,2025-04-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Finance,Financial Analyst,Male,2025-07-01 00:00:00,16,8,4,1,1,0.5,0.25,0.0625,0.0625
+UK,Technology,Data Engineer,Male,2025-12-01 00:00:00,15,9,6,3,0,0.6,0.4,0.2,0.0
+Germany,Operations,Site Engineer,Male,2026-03-01 00:00:00,4,3,1,1,0,0.75,0.25,0.25,0.0
+UK,Technology,Software Engineer,Male,2025-10-01 00:00:00,12,10,6,2,2,0.8333,0.5,0.1667,0.1667
+Germany,Supply Chain,Procurement Specialist,Male,2025-07-01 00:00:00,8,6,3,0,0,0.75,0.375,0.0,0.0
+Germany,Finance,Accountant,Male,2025-07-01 00:00:00,8,7,0,0,0,0.875,0.0,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2025-09-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+UK,Customer Support,Customer Success Manager,Female,2026-02-01 00:00:00,3,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-07-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+France,Sales,Sales Executive,Male,2025-05-01 00:00:00,4,4,3,2,2,1.0,0.75,0.5,0.5
+Netherlands,Customer Support,Customer Success Manager,Male,2025-12-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Supply Chain,Procurement Specialist,Male,2025-09-01 00:00:00,13,9,6,3,3,0.6923,0.4615,0.2308,0.2308
+Germany,Customer Support,Customer Success Manager,Male,2025-09-01 00:00:00,6,4,3,1,0,0.6667,0.5,0.1667,0.0
+UK,Operations,Construction Supervisor,Male,2025-10-01 00:00:00,9,8,3,2,2,0.8889,0.3333,0.2222,0.2222
+France,Technology,Data Analyst,Male,2025-11-01 00:00:00,7,4,1,1,1,0.5714,0.1429,0.1429,0.1429
+UK,Sales,Account Manager,Female,2025-08-01 00:00:00,4,3,1,1,1,0.75,0.25,0.25,0.25
+Ireland,People,HR Advisor,Female,2025-04-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Customer Support,Customer Support Rep,Female,2025-10-01 00:00:00,6,3,3,1,1,0.5,0.5,0.1667,0.1667
+Germany,Sales,Sales Executive,Male,2026-02-01 00:00:00,5,2,0,0,0,0.4,0.0,0.0,0.0
+France,Operations,Project Manager,Male,2026-03-01 00:00:00,4,2,2,1,1,0.5,0.5,0.25,0.25
+Germany,Technology,Software Engineer,Female,2025-07-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Ireland,Operations,Construction Supervisor,Male,2026-01-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Female,2026-02-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Supply Chain,Procurement Specialist,Female,2025-09-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+UK,People,HR Business Partner,Female,2025-11-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Germany,Technology,Software Engineer,Male,2025-07-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Male,2025-05-01 00:00:00,7,5,4,1,1,0.7143,0.5714,0.1429,0.1429
+Netherlands,Operations,Project Manager,Male,2026-02-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Commercial,Pricing Manager,Female,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,People,HR Business Partner,Male,2025-07-01 00:00:00,5,4,2,1,0,0.8,0.4,0.2,0.0
+Germany,Supply Chain,Warehouse Manager,Female,2026-01-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+France,Supply Chain,Procurement Specialist,Male,2025-11-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Female,2025-08-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Operations,Project Manager,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Sales,Account Manager,Male,2026-02-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Support Rep,Male,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Sales,Sales Executive,Male,2025-03-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Technology,Data Analyst,Female,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Male,2025-07-01 00:00:00,7,7,5,1,1,1.0,0.7143,0.1429,0.1429
+Ireland,Customer Support,Customer Success Manager,Male,2025-07-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+UK,Sales,Account Manager,Female,2025-05-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+France,Finance,Accountant,Male,2025-10-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,People,HR Advisor,Female,2025-06-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Technology,Software Engineer,Female,2025-11-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Netherlands,Finance,Financial Analyst,Female,2025-07-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Operations,Site Engineer,Female,2025-04-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Supply Chain,Warehouse Manager,Female,2026-01-01 00:00:00,3,3,2,2,2,1.0,0.6667,0.6667,0.6667
+Ireland,Sales,Sales Executive,Male,2026-03-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+France,Customer Support,Customer Success Manager,Female,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Sales,Sales Executive,Male,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Supply Chain,Logistics Coordinator,Female,2025-10-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Operations,Construction Supervisor,Female,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Technology,Data Engineer,Female,2025-12-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Commercial,Commercial Analyst,Male,2025-10-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+UK,Sales,Account Manager,Female,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Customer Support,Customer Support Rep,Male,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Customer Support,Customer Support Rep,Male,2026-03-01 00:00:00,24,17,12,2,1,0.7083,0.5,0.0833,0.0417
+UK,Customer Support,Customer Success Manager,Male,2025-07-01 00:00:00,17,13,5,1,1,0.7647,0.2941,0.0588,0.0588
+UK,People,HR Business Partner,Male,2025-09-01 00:00:00,25,19,11,7,7,0.76,0.44,0.28,0.28
+France,Supply Chain,Warehouse Manager,Male,2026-02-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+UK,Commercial,Pricing Manager,Male,2025-07-01 00:00:00,19,10,7,3,3,0.5263,0.3684,0.1579,0.1579
+Germany,Customer Support,Customer Success Manager,Male,2025-07-01 00:00:00,5,2,1,0,0,0.4,0.2,0.0,0.0
+France,People,HR Advisor,Male,2025-07-01 00:00:00,7,5,3,1,1,0.7143,0.4286,0.1429,0.1429
+UK,Operations,Project Manager,Male,2025-07-01 00:00:00,11,10,4,1,1,0.9091,0.3636,0.0909,0.0909
+Netherlands,Customer Support,Customer Success Manager,Male,2026-01-01 00:00:00,4,1,1,1,1,0.25,0.25,0.25,0.25
+UK,Sales,Account Manager,Female,2025-12-01 00:00:00,4,4,2,1,1,1.0,0.5,0.25,0.25
+UK,Finance,Financial Analyst,Male,2025-09-01 00:00:00,24,18,12,4,3,0.75,0.5,0.1667,0.125
+Germany,Operations,Construction Supervisor,Male,2025-10-01 00:00:00,6,3,1,1,1,0.5,0.1667,0.1667,0.1667
+UK,Commercial,Commercial Analyst,Male,2025-10-01 00:00:00,17,13,7,5,2,0.7647,0.4118,0.2941,0.1176
+UK,Technology,Data Engineer,Male,2026-01-01 00:00:00,18,12,7,6,6,0.6667,0.3889,0.3333,0.3333
+Ireland,Supply Chain,Warehouse Manager,Male,2025-10-01 00:00:00,3,3,1,1,0,1.0,0.3333,0.3333,0.0
+Germany,Finance,Accountant,Male,2025-09-01 00:00:00,4,2,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Technology,Data Analyst,Male,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Operations,Construction Supervisor,Female,2026-02-01 00:00:00,5,4,3,1,0,0.8,0.6,0.2,0.0
+Germany,Customer Support,Customer Support Rep,Male,2025-07-01 00:00:00,9,8,5,3,3,0.8889,0.5556,0.3333,0.3333
+Ireland,Technology,Data Analyst,Male,2025-10-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+UK,Technology,Data Engineer,Male,2025-08-01 00:00:00,12,8,3,0,0,0.6667,0.25,0.0,0.0
+UK,Finance,Accountant,Male,2025-07-01 00:00:00,17,13,6,2,2,0.7647,0.3529,0.1176,0.1176
+UK,Finance,Financial Analyst,Female,2025-10-01 00:00:00,4,2,1,1,1,0.5,0.25,0.25,0.25
+Netherlands,Sales,Sales Executive,Female,2025-11-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,People,HR Business Partner,Male,2025-09-01 00:00:00,7,4,2,0,0,0.5714,0.2857,0.0,0.0
+Netherlands,People,HR Business Partner,Male,2025-07-01 00:00:00,3,2,2,1,0,0.6667,0.6667,0.3333,0.0
+France,Customer Support,Customer Success Manager,Male,2025-04-01 00:00:00,7,4,2,1,1,0.5714,0.2857,0.1429,0.1429
+Netherlands,Customer Support,Customer Success Manager,Male,2025-05-01 00:00:00,4,2,1,0,0,0.5,0.25,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Male,2025-12-01 00:00:00,12,6,3,1,1,0.5,0.25,0.0833,0.0833
+France,Technology,Software Engineer,Female,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Technology,Data Analyst,Male,2025-10-01 00:00:00,3,3,2,1,0,1.0,0.6667,0.3333,0.0
+UK,Supply Chain,Procurement Specialist,Male,2025-07-01 00:00:00,13,9,6,3,2,0.6923,0.4615,0.2308,0.1538
+Germany,Operations,Site Engineer,Male,2025-06-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-09-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+France,Technology,Data Engineer,Male,2025-06-01 00:00:00,5,4,3,2,1,0.8,0.6,0.4,0.2
+Germany,People,HR Advisor,Male,2026-02-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Germany,Supply Chain,Warehouse Manager,Male,2025-11-01 00:00:00,11,7,4,1,1,0.6364,0.3636,0.0909,0.0909
+Germany,Commercial,Commercial Analyst,Male,2025-09-01 00:00:00,7,6,6,2,1,0.8571,0.8571,0.2857,0.1429
+UK,Supply Chain,Warehouse Manager,Male,2026-03-01 00:00:00,12,10,10,7,5,0.8333,0.8333,0.5833,0.4167
+Netherlands,Supply Chain,Warehouse Manager,Male,2025-10-01 00:00:00,9,5,4,4,3,0.5556,0.4444,0.4444,0.3333
+Ireland,Customer Support,Customer Success Manager,Male,2025-09-01 00:00:00,4,3,1,1,0,0.75,0.25,0.25,0.0
+France,Finance,Financial Analyst,Male,2025-09-01 00:00:00,9,6,5,1,0,0.6667,0.5556,0.1111,0.0
+Netherlands,Commercial,Pricing Manager,Male,2025-04-01 00:00:00,4,2,2,1,1,0.5,0.5,0.25,0.25
+Netherlands,People,HR Advisor,Male,2026-02-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Netherlands,Operations,Site Engineer,Female,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Sales,Sales Executive,Female,2025-11-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,People,HR Advisor,Female,2025-04-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+France,Sales,Account Manager,Male,2025-11-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2025-07-01 00:00:00,5,4,3,3,2,0.8,0.6,0.6,0.4
+Netherlands,Finance,Accountant,Male,2025-04-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,Sales,Sales Executive,Male,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Technology,Data Engineer,Male,2025-05-01 00:00:00,10,6,2,0,0,0.6,0.2,0.0,0.0
+Ireland,Technology,Data Engineer,Female,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Sales,Account Manager,Male,2025-11-01 00:00:00,4,3,1,1,1,0.75,0.25,0.25,0.25
+Ireland,Finance,Financial Analyst,Male,2025-04-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Technology,Software Engineer,Male,2025-09-01 00:00:00,8,6,5,2,1,0.75,0.625,0.25,0.125
+Ireland,People,HR Business Partner,Male,2026-02-01 00:00:00,2,2,2,2,0,1.0,1.0,1.0,0.0
+Ireland,Technology,Software Engineer,Male,2025-10-01 00:00:00,3,1,1,1,1,0.3333,0.3333,0.3333,0.3333
+Germany,Operations,Construction Supervisor,Female,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Success Manager,Male,2025-08-01 00:00:00,4,1,0,0,0,0.25,0.0,0.0,0.0
+Netherlands,Technology,Data Engineer,Male,2025-04-01 00:00:00,3,3,2,2,1,1.0,0.6667,0.6667,0.3333
+UK,Operations,Project Manager,Female,2025-12-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Technology,Data Engineer,Male,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Finance,Financial Analyst,Male,2025-11-01 00:00:00,4,1,1,0,0,0.25,0.25,0.0,0.0
+Ireland,Supply Chain,Procurement Specialist,Female,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Operations,Project Manager,Male,2025-06-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Ireland,Finance,Financial Analyst,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Sales,Sales Executive,Male,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,People,HR Advisor,Female,2025-05-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Customer Support,Customer Success Manager,Female,2025-08-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Sales,Sales Executive,Male,2026-02-01 00:00:00,3,3,0,0,0,1.0,0.0,0.0,0.0
+UK,Technology,Data Engineer,Female,2025-04-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Supply Chain,Procurement Specialist,Male,2025-09-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Ireland,Operations,Construction Supervisor,Male,2025-12-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+France,Technology,Data Engineer,Female,2026-01-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Technology,Data Engineer,Male,2025-06-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+Ireland,Commercial,Commercial Analyst,Female,2025-09-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+Ireland,Sales,Account Manager,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Sales,Sales Executive,Female,2025-04-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Female,2025-12-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Commercial,Commercial Analyst,Male,2025-11-01 00:00:00,2,2,2,1,0,1.0,1.0,0.5,0.0
+Ireland,Customer Support,Customer Success Manager,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Technology,Software Engineer,Male,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Commercial,Pricing Manager,Female,2025-04-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,People,HR Advisor,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Technology,Data Analyst,Female,2025-09-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Ireland,Supply Chain,Warehouse Manager,Female,2025-04-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Customer Support,Customer Support Rep,Male,2026-02-01 00:00:00,22,17,10,4,2,0.7727,0.4545,0.1818,0.0909
+UK,Finance,Financial Analyst,Male,2025-11-01 00:00:00,16,9,5,2,0,0.5625,0.3125,0.125,0.0
+Netherlands,Technology,Software Engineer,Male,2025-09-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+Germany,Supply Chain,Procurement Specialist,Male,2025-11-01 00:00:00,6,4,2,1,1,0.6667,0.3333,0.1667,0.1667
+UK,Sales,Account Manager,Male,2025-07-01 00:00:00,22,15,8,2,1,0.6818,0.3636,0.0909,0.0455
+Netherlands,Supply Chain,Warehouse Manager,Male,2025-05-01 00:00:00,5,5,3,1,1,1.0,0.6,0.2,0.2
+UK,People,HR Advisor,Male,2025-04-01 00:00:00,26,16,8,4,4,0.6154,0.3077,0.1538,0.1538
+France,Commercial,Commercial Analyst,Male,2025-09-01 00:00:00,8,5,3,1,1,0.625,0.375,0.125,0.125
+UK,Finance,Financial Analyst,Female,2026-01-01 00:00:00,2,2,2,0,0,1.0,1.0,0.0,0.0
+UK,Finance,Financial Analyst,Female,2025-05-01 00:00:00,5,4,3,2,2,0.8,0.6,0.4,0.4
+UK,Sales,Sales Executive,Male,2025-06-01 00:00:00,26,16,6,0,0,0.6154,0.2308,0.0,0.0
+France,Finance,Financial Analyst,Male,2025-11-01 00:00:00,5,3,3,2,1,0.6,0.6,0.4,0.2
+UK,Technology,Software Engineer,Male,2025-12-01 00:00:00,9,9,5,1,1,1.0,0.5556,0.1111,0.1111
+Netherlands,Customer Support,Customer Support Rep,Male,2025-06-01 00:00:00,4,3,2,2,1,0.75,0.5,0.5,0.25
+Germany,People,HR Advisor,Male,2026-03-01 00:00:00,9,4,2,2,2,0.4444,0.2222,0.2222,0.2222
+Netherlands,Sales,Account Manager,Male,2025-06-01 00:00:00,6,4,3,0,0,0.6667,0.5,0.0,0.0
+UK,Supply Chain,Logistics Coordinator,Female,2025-12-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Commercial,Commercial Analyst,Male,2025-05-01 00:00:00,25,18,10,7,3,0.72,0.4,0.28,0.12
+Germany,Finance,Accountant,Male,2025-11-01 00:00:00,15,8,4,1,1,0.5333,0.2667,0.0667,0.0667
+Ireland,People,HR Business Partner,Male,2026-03-01 00:00:00,4,4,3,2,1,1.0,0.75,0.5,0.25
+UK,People,HR Business Partner,Male,2025-11-01 00:00:00,30,20,12,4,3,0.6667,0.4,0.1333,0.1
+Netherlands,People,HR Advisor,Female,2026-02-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Customer Support,Customer Support Rep,Male,2025-04-01 00:00:00,6,6,6,4,3,1.0,1.0,0.6667,0.5
+Ireland,Technology,Software Engineer,Male,2025-08-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Technology,Data Analyst,Male,2026-01-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+Germany,Technology,Data Analyst,Male,2025-05-01 00:00:00,4,3,2,1,0,0.75,0.5,0.25,0.0
+Germany,Finance,Financial Analyst,Male,2025-09-01 00:00:00,9,7,4,2,2,0.7778,0.4444,0.2222,0.2222
+UK,Technology,Data Engineer,Male,2025-10-01 00:00:00,11,9,4,3,2,0.8182,0.3636,0.2727,0.1818
+Germany,Operations,Construction Supervisor,Male,2025-08-01 00:00:00,6,3,1,1,1,0.5,0.1667,0.1667,0.1667
+UK,Technology,Software Engineer,Female,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Technology,Data Analyst,Male,2025-08-01 00:00:00,11,6,2,0,0,0.5455,0.1818,0.0,0.0
+UK,Operations,Construction Supervisor,Male,2025-12-01 00:00:00,17,15,8,3,3,0.8824,0.4706,0.1765,0.1765
+Germany,Sales,Account Manager,Male,2025-09-01 00:00:00,6,5,3,2,1,0.8333,0.5,0.3333,0.1667
+Netherlands,Supply Chain,Warehouse Manager,Male,2026-01-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Ireland,Customer Support,Customer Support Rep,Male,2025-06-01 00:00:00,2,2,2,2,1,1.0,1.0,1.0,0.5
+France,Supply Chain,Warehouse Manager,Male,2026-03-01 00:00:00,5,4,2,1,1,0.8,0.4,0.2,0.2
+UK,Finance,Financial Analyst,Female,2025-08-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+Germany,Technology,Software Engineer,Male,2025-11-01 00:00:00,5,5,5,1,1,1.0,1.0,0.2,0.2
+Ireland,Customer Support,Customer Success Manager,Male,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Sales,Account Manager,Male,2025-09-01 00:00:00,5,3,2,0,0,0.6,0.4,0.0,0.0
+UK,Technology,Data Analyst,Male,2025-06-01 00:00:00,11,6,4,1,1,0.5455,0.3636,0.0909,0.0909
+Germany,Operations,Construction Supervisor,Male,2026-01-01 00:00:00,5,5,3,2,2,1.0,0.6,0.4,0.4
+Germany,Supply Chain,Warehouse Manager,Male,2025-09-01 00:00:00,4,2,2,1,1,0.5,0.5,0.25,0.25
+UK,Supply Chain,Warehouse Manager,Male,2026-02-01 00:00:00,8,7,4,2,2,0.875,0.5,0.25,0.25
+Germany,People,HR Business Partner,Male,2025-04-01 00:00:00,9,6,4,3,2,0.6667,0.4444,0.3333,0.2222
+Germany,Commercial,Commercial Analyst,Male,2025-11-01 00:00:00,9,6,3,1,1,0.6667,0.3333,0.1111,0.1111
+Netherlands,Customer Support,Customer Success Manager,Male,2025-10-01 00:00:00,4,3,3,3,3,0.75,0.75,0.75,0.75
+UK,Customer Support,Customer Support Rep,Female,2025-12-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+UK,Commercial,Commercial Analyst,Male,2026-01-01 00:00:00,12,9,6,2,2,0.75,0.5,0.1667,0.1667
+Germany,Customer Support,Customer Support Rep,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Sales,Sales Executive,Female,2025-09-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,Commercial,Commercial Analyst,Male,2025-08-01 00:00:00,15,10,8,2,2,0.6667,0.5333,0.1333,0.1333
+Germany,Sales,Sales Executive,Male,2025-06-01 00:00:00,12,10,5,1,1,0.8333,0.4167,0.0833,0.0833
+UK,Operations,Site Engineer,Female,2025-04-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Netherlands,Technology,Data Analyst,Male,2025-08-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2026-03-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Germany,Technology,Data Engineer,Female,2026-01-01 00:00:00,4,2,1,1,0,0.5,0.25,0.25,0.0
+Ireland,Technology,Software Engineer,Male,2025-05-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,People,HR Advisor,Male,2026-03-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+Netherlands,Technology,Data Analyst,Male,2025-05-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+France,People,HR Business Partner,Male,2025-11-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+France,Technology,Software Engineer,Male,2025-04-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Ireland,People,HR Advisor,Male,2025-08-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-11-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Ireland,Finance,Accountant,Male,2025-04-01 00:00:00,5,4,3,1,1,0.8,0.6,0.2,0.2
+France,Finance,Accountant,Male,2025-12-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+Ireland,People,HR Advisor,Male,2025-05-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+France,Technology,Data Analyst,Male,2025-07-01 00:00:00,4,2,2,0,0,0.5,0.5,0.0,0.0
+Netherlands,Technology,Data Analyst,Male,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Customer Support,Customer Success Manager,Female,2026-02-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Commercial,Pricing Manager,Male,2025-12-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+Ireland,Technology,Data Analyst,Male,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Operations,Construction Supervisor,Male,2025-05-01 00:00:00,6,4,1,1,1,0.6667,0.1667,0.1667,0.1667
+Netherlands,Commercial,Commercial Analyst,Male,2025-07-01 00:00:00,6,4,2,1,1,0.6667,0.3333,0.1667,0.1667
+Netherlands,Supply Chain,Procurement Specialist,Male,2026-03-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+Netherlands,Finance,Financial Analyst,Female,2025-11-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Operations,Construction Supervisor,Male,2025-12-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Supply Chain,Logistics Coordinator,Male,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Technology,Data Analyst,Male,2025-05-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Ireland,Supply Chain,Warehouse Manager,Male,2025-05-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+France,Commercial,Pricing Manager,Male,2025-04-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Female,2025-04-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Technology,Data Engineer,Female,2025-05-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Operations,Construction Supervisor,Female,2026-03-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,People,HR Advisor,Male,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Commercial,Commercial Analyst,Female,2025-11-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Operations,Project Manager,Female,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Sales,Sales Executive,Male,2026-03-01 00:00:00,3,2,2,1,0,0.6667,0.6667,0.3333,0.0
+UK,Customer Support,Customer Success Manager,Female,2025-06-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Female,2025-04-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Supply Chain,Procurement Specialist,Male,2025-07-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Technology,Data Analyst,Male,2026-01-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Customer Support,Customer Support Rep,Female,2026-02-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Supply Chain,Procurement Specialist,Male,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Operations,Project Manager,Male,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Support Rep,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Supply Chain,Logistics Coordinator,Male,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Sales,Account Manager,Male,2025-08-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+Ireland,Commercial,Pricing Manager,Male,2025-04-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+Germany,Customer Support,Customer Success Manager,Male,2025-11-01 00:00:00,9,5,2,1,1,0.5556,0.2222,0.1111,0.1111
+France,Operations,Construction Supervisor,Male,2026-01-01 00:00:00,3,1,1,1,0,0.3333,0.3333,0.3333,0.0
+UK,Sales,Sales Executive,Male,2026-03-01 00:00:00,24,17,14,9,9,0.7083,0.5833,0.375,0.375
+Germany,Commercial,Pricing Manager,Male,2025-08-01 00:00:00,10,7,4,4,4,0.7,0.4,0.4,0.4
+UK,Operations,Construction Supervisor,Male,2025-05-01 00:00:00,13,10,6,1,1,0.7692,0.4615,0.0769,0.0769
+Germany,Commercial,Pricing Manager,Male,2026-01-01 00:00:00,7,5,4,2,2,0.7143,0.5714,0.2857,0.2857
+France,Operations,Construction Supervisor,Male,2025-05-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Germany,Finance,Financial Analyst,Female,2026-03-01 00:00:00,3,3,2,2,2,1.0,0.6667,0.6667,0.6667
+UK,Commercial,Pricing Manager,Male,2025-11-01 00:00:00,16,12,5,3,2,0.75,0.3125,0.1875,0.125
+UK,Operations,Site Engineer,Male,2025-04-01 00:00:00,16,8,3,0,0,0.5,0.1875,0.0,0.0
+UK,Customer Support,Customer Success Manager,Male,2025-11-01 00:00:00,16,15,8,6,4,0.9375,0.5,0.375,0.25
+UK,Sales,Account Manager,Male,2025-09-01 00:00:00,20,17,10,8,5,0.85,0.5,0.4,0.25
+UK,Commercial,Commercial Analyst,Male,2025-12-01 00:00:00,12,9,5,2,1,0.75,0.4167,0.1667,0.0833
+Germany,Operations,Construction Supervisor,Male,2025-12-01 00:00:00,6,3,2,1,1,0.5,0.3333,0.1667,0.1667
+UK,Technology,Data Analyst,Male,2026-03-01 00:00:00,9,7,2,1,1,0.7778,0.2222,0.1111,0.1111
+UK,Operations,Construction Supervisor,Male,2026-01-01 00:00:00,11,6,1,1,1,0.5455,0.0909,0.0909,0.0909
+UK,Operations,Project Manager,Male,2025-11-01 00:00:00,9,8,3,1,1,0.8889,0.3333,0.1111,0.1111
+UK,Supply Chain,Logistics Coordinator,Male,2025-04-01 00:00:00,13,8,6,2,2,0.6154,0.4615,0.1538,0.1538
+UK,Operations,Construction Supervisor,Male,2025-08-01 00:00:00,19,12,6,1,0,0.6316,0.3158,0.0526,0.0
+France,Finance,Accountant,Male,2026-01-01 00:00:00,4,3,2,2,2,0.75,0.5,0.5,0.5
+France,Operations,Construction Supervisor,Male,2025-08-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+UK,Supply Chain,Logistics Coordinator,Female,2026-01-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Finance,Accountant,Male,2025-11-01 00:00:00,16,13,7,5,3,0.8125,0.4375,0.3125,0.1875
+Netherlands,People,HR Business Partner,Male,2025-11-01 00:00:00,5,5,5,3,1,1.0,1.0,0.6,0.2
+UK,Technology,Software Engineer,Male,2025-08-01 00:00:00,10,6,3,1,1,0.6,0.3,0.1,0.1
+Ireland,Customer Support,Customer Support Rep,Male,2026-03-01 00:00:00,3,3,2,2,1,1.0,0.6667,0.6667,0.3333
+UK,People,HR Business Partner,Female,2025-09-01 00:00:00,4,4,2,0,0,1.0,0.5,0.0,0.0
+UK,Technology,Software Engineer,Male,2026-01-01 00:00:00,17,12,9,6,5,0.7059,0.5294,0.3529,0.2941
+Germany,Finance,Financial Analyst,Male,2025-07-01 00:00:00,8,7,3,1,1,0.875,0.375,0.125,0.125
+Germany,Supply Chain,Logistics Coordinator,Male,2025-10-01 00:00:00,5,3,2,1,1,0.6,0.4,0.2,0.2
+UK,Supply Chain,Procurement Specialist,Female,2025-11-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+France,Sales,Account Manager,Female,2025-04-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Commercial,Pricing Manager,Male,2025-05-01 00:00:00,7,3,1,0,0,0.4286,0.1429,0.0,0.0
+Ireland,Sales,Sales Executive,Male,2026-02-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+UK,Technology,Software Engineer,Male,2025-05-01 00:00:00,14,10,6,1,0,0.7143,0.4286,0.0714,0.0
+Germany,Sales,Account Manager,Male,2025-07-01 00:00:00,14,10,5,1,1,0.7143,0.3571,0.0714,0.0714
+France,Technology,Data Analyst,Male,2025-09-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Male,2025-09-01 00:00:00,7,6,3,1,1,0.8571,0.4286,0.1429,0.1429
+Germany,Technology,Data Analyst,Male,2025-12-01 00:00:00,8,6,2,1,0,0.75,0.25,0.125,0.0
+Netherlands,Supply Chain,Procurement Specialist,Male,2025-06-01 00:00:00,3,2,2,2,2,0.6667,0.6667,0.6667,0.6667
+France,Sales,Account Manager,Male,2025-07-01 00:00:00,7,6,4,2,1,0.8571,0.5714,0.2857,0.1429
+Germany,Customer Support,Customer Support Rep,Male,2025-11-01 00:00:00,6,5,3,2,2,0.8333,0.5,0.3333,0.3333
+France,Supply Chain,Procurement Specialist,Male,2025-09-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,Finance,Accountant,Male,2025-08-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Ireland,Sales,Account Manager,Male,2025-05-01 00:00:00,3,3,3,3,2,1.0,1.0,1.0,0.6667
+Ireland,Commercial,Commercial Analyst,Male,2025-08-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Germany,Sales,Sales Executive,Male,2026-03-01 00:00:00,10,7,4,3,2,0.7,0.4,0.3,0.2
+France,Commercial,Commercial Analyst,Male,2025-07-01 00:00:00,4,4,2,1,0,1.0,0.5,0.25,0.0
+Germany,Technology,Data Engineer,Male,2026-02-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Ireland,People,HR Advisor,Male,2025-12-01 00:00:00,4,2,2,1,1,0.5,0.5,0.25,0.25
+Germany,Supply Chain,Warehouse Manager,Male,2025-07-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+France,People,HR Advisor,Male,2025-11-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Male,2025-11-01 00:00:00,13,10,5,3,3,0.7692,0.3846,0.2308,0.2308
+UK,Operations,Project Manager,Female,2025-10-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Customer Support,Customer Support Rep,Female,2025-08-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Commercial,Commercial Analyst,Male,2026-01-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2025-11-01 00:00:00,4,4,1,1,1,1.0,0.25,0.25,0.25
+UK,Technology,Software Engineer,Female,2025-09-01 00:00:00,8,7,4,2,2,0.875,0.5,0.25,0.25
+UK,Technology,Data Analyst,Female,2026-03-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Customer Support,Customer Support Rep,Female,2026-01-01 00:00:00,4,2,1,0,0,0.5,0.25,0.0,0.0
+France,Technology,Data Engineer,Male,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Operations,Project Manager,Male,2026-02-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Technology,Data Analyst,Male,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Support Rep,Male,2026-03-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Germany,Sales,Sales Executive,Female,2025-07-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Sales,Account Manager,Male,2026-01-01 00:00:00,5,3,2,2,1,0.6,0.4,0.4,0.2
+Ireland,Commercial,Commercial Analyst,Male,2025-05-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+UK,Operations,Construction Supervisor,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Supply Chain,Warehouse Manager,Male,2025-06-01 00:00:00,6,3,1,0,0,0.5,0.1667,0.0,0.0
+UK,Finance,Accountant,Female,2025-04-01 00:00:00,5,5,1,1,1,1.0,0.2,0.2,0.2
+Germany,People,HR Advisor,Male,2025-06-01 00:00:00,5,5,4,2,1,1.0,0.8,0.4,0.2
+Germany,Operations,Site Engineer,Male,2026-02-01 00:00:00,4,2,0,0,0,0.5,0.0,0.0,0.0
+Ireland,People,HR Business Partner,Male,2025-06-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+France,Finance,Accountant,Male,2025-05-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+Ireland,Operations,Project Manager,Male,2025-11-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Sales,Sales Executive,Male,2025-06-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+France,Sales,Sales Executive,Female,2026-02-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Ireland,Operations,Construction Supervisor,Male,2025-10-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Operations,Construction Supervisor,Male,2025-04-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+Netherlands,Technology,Data Analyst,Male,2025-12-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Technology,Data Engineer,Female,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Operations,Project Manager,Male,2026-03-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+Netherlands,Operations,Site Engineer,Male,2025-04-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Sales,Sales Executive,Male,2025-10-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Female,2025-10-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Customer Support,Customer Success Manager,Female,2026-03-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Netherlands,Technology,Data Engineer,Female,2025-11-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,People,HR Advisor,Male,2025-06-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+France,Operations,Project Manager,Female,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2025-06-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+UK,Customer Support,Customer Support Rep,Female,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Sales,Account Manager,Male,2026-03-01 00:00:00,3,3,1,1,0,1.0,0.3333,0.3333,0.0
+UK,Finance,Financial Analyst,Female,2025-12-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Operations,Project Manager,Female,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Sales,Account Manager,Female,2025-10-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Supply Chain,Warehouse Manager,Male,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Supply Chain,Logistics Coordinator,Female,2025-08-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+France,Commercial,Commercial Analyst,Female,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Male,2026-01-01 00:00:00,19,8,3,2,1,0.4211,0.1579,0.1053,0.0526
+France,Technology,Software Engineer,Male,2026-03-01 00:00:00,3,1,1,1,1,0.3333,0.3333,0.3333,0.3333
+UK,Finance,Accountant,Male,2025-05-01 00:00:00,18,12,6,4,3,0.6667,0.3333,0.2222,0.1667
+UK,People,HR Advisor,Male,2026-03-01 00:00:00,28,25,12,6,6,0.8929,0.4286,0.2143,0.2143
+UK,Supply Chain,Procurement Specialist,Male,2025-08-01 00:00:00,21,17,5,3,2,0.8095,0.2381,0.1429,0.0952
+UK,Supply Chain,Logistics Coordinator,Male,2025-06-01 00:00:00,14,9,3,1,1,0.6429,0.2143,0.0714,0.0714
+Netherlands,Operations,Construction Supervisor,Male,2025-06-01 00:00:00,3,1,1,1,1,0.3333,0.3333,0.3333,0.3333
+France,Commercial,Pricing Manager,Male,2026-03-01 00:00:00,6,4,2,1,0,0.6667,0.3333,0.1667,0.0
+UK,Customer Support,Customer Success Manager,Male,2025-05-01 00:00:00,23,18,13,4,3,0.7826,0.5652,0.1739,0.1304
+UK,Technology,Data Engineer,Male,2025-07-01 00:00:00,12,11,6,4,3,0.9167,0.5,0.3333,0.25
+UK,Customer Support,Customer Success Manager,Male,2026-01-01 00:00:00,23,18,13,7,6,0.7826,0.5652,0.3043,0.2609
+France,Finance,Financial Analyst,Male,2025-12-01 00:00:00,6,5,3,3,1,0.8333,0.5,0.5,0.1667
+France,Supply Chain,Procurement Specialist,Male,2025-10-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Customer Support,Customer Success Manager,Male,2025-08-01 00:00:00,15,9,5,0,0,0.6,0.3333,0.0,0.0
+Germany,Finance,Accountant,Male,2025-12-01 00:00:00,7,6,3,1,1,0.8571,0.4286,0.1429,0.1429
+UK,Supply Chain,Procurement Specialist,Female,2026-01-01 00:00:00,2,2,2,0,0,1.0,1.0,0.0,0.0
+UK,Operations,Project Manager,Female,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Sales,Sales Executive,Male,2025-09-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+Netherlands,Commercial,Pricing Manager,Male,2026-02-01 00:00:00,4,4,3,0,0,1.0,0.75,0.0,0.0
+UK,People,HR Business Partner,Male,2025-12-01 00:00:00,21,17,10,6,6,0.8095,0.4762,0.2857,0.2857
+Germany,Customer Support,Customer Support Rep,Male,2025-08-01 00:00:00,14,8,6,2,2,0.5714,0.4286,0.1429,0.1429
+UK,Operations,Site Engineer,Male,2025-06-01 00:00:00,7,6,4,1,1,0.8571,0.5714,0.1429,0.1429
+UK,Commercial,Pricing Manager,Male,2026-01-01 00:00:00,22,18,13,3,1,0.8182,0.5909,0.1364,0.0455
+Germany,Customer Support,Customer Success Manager,Male,2025-08-01 00:00:00,6,4,1,0,0,0.6667,0.1667,0.0,0.0
+UK,Finance,Financial Analyst,Male,2025-12-01 00:00:00,21,17,13,6,5,0.8095,0.619,0.2857,0.2381
+France,Technology,Data Analyst,Male,2025-10-01 00:00:00,4,4,3,3,3,1.0,0.75,0.75,0.75
+UK,Sales,Account Manager,Male,2025-10-01 00:00:00,20,15,12,6,6,0.75,0.6,0.3,0.3
+UK,Finance,Accountant,Male,2026-01-01 00:00:00,17,11,5,3,1,0.6471,0.2941,0.1765,0.0588
+Ireland,Operations,Construction Supervisor,Male,2025-09-01 00:00:00,2,2,2,2,2,1.0,1.0,1.0,1.0
+France,People,HR Advisor,Male,2026-01-01 00:00:00,8,6,3,2,0,0.75,0.375,0.25,0.0
+Ireland,Supply Chain,Warehouse Manager,Female,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Male,2026-01-01 00:00:00,8,7,5,2,1,0.875,0.625,0.25,0.125
+Netherlands,Sales,Sales Executive,Male,2025-04-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,People,HR Business Partner,Male,2026-01-01 00:00:00,4,4,1,0,0,1.0,0.25,0.0,0.0
+UK,Commercial,Pricing Manager,Male,2025-05-01 00:00:00,18,15,10,2,1,0.8333,0.5556,0.1111,0.0556
+Netherlands,Supply Chain,Logistics Coordinator,Female,2025-11-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Commercial,Commercial Analyst,Male,2025-10-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Operations,Project Manager,Male,2025-08-01 00:00:00,15,6,2,2,2,0.4,0.1333,0.1333,0.1333
+Netherlands,Finance,Accountant,Male,2026-02-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+UK,Sales,Account Manager,Female,2025-09-01 00:00:00,3,3,1,1,0,1.0,0.3333,0.3333,0.0
+UK,Operations,Construction Supervisor,Male,2025-11-01 00:00:00,13,9,6,2,1,0.6923,0.4615,0.1538,0.0769
+UK,Operations,Project Manager,Male,2026-01-01 00:00:00,11,6,3,2,2,0.5455,0.2727,0.1818,0.1818
+France,Finance,Accountant,Male,2025-11-01 00:00:00,5,4,1,1,0,0.8,0.2,0.2,0.0
+Ireland,Operations,Project Manager,Male,2026-01-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+Ireland,Commercial,Pricing Manager,Male,2025-06-01 00:00:00,3,3,3,0,0,1.0,1.0,0.0,0.0
+UK,Finance,Accountant,Male,2025-08-01 00:00:00,17,12,9,4,2,0.7059,0.5294,0.2353,0.1176
+UK,Commercial,Pricing Manager,Male,2025-08-01 00:00:00,17,11,6,1,1,0.6471,0.3529,0.0588,0.0588
+UK,Operations,Project Manager,Male,2025-05-01 00:00:00,13,10,4,2,1,0.7692,0.3077,0.1538,0.0769
+France,Supply Chain,Warehouse Manager,Male,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,People,HR Advisor,Male,2025-08-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2025-05-01 00:00:00,3,3,1,1,0,1.0,0.3333,0.3333,0.0
+France,People,HR Advisor,Male,2025-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,People,HR Advisor,Male,2025-04-01 00:00:00,7,4,2,1,1,0.5714,0.2857,0.1429,0.1429
+France,Customer Support,Customer Success Manager,Male,2026-02-01 00:00:00,4,4,4,2,2,1.0,1.0,0.5,0.5
+Netherlands,People,HR Business Partner,Male,2025-05-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,People,HR Business Partner,Male,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Operations,Construction Supervisor,Female,2025-12-01 00:00:00,3,3,2,2,2,1.0,0.6667,0.6667,0.6667
+Ireland,Sales,Account Manager,Male,2025-11-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+Germany,Supply Chain,Procurement Specialist,Male,2025-12-01 00:00:00,6,3,1,1,1,0.5,0.1667,0.1667,0.1667
+France,People,HR Business Partner,Male,2025-12-01 00:00:00,5,4,4,1,1,0.8,0.8,0.2,0.2
+Germany,Customer Support,Customer Success Manager,Male,2026-01-01 00:00:00,6,4,2,0,0,0.6667,0.3333,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2025-08-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Male,2025-09-01 00:00:00,4,3,0,0,0,0.75,0.0,0.0,0.0
+Netherlands,Supply Chain,Warehouse Manager,Female,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Finance,Accountant,Female,2025-06-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2025-04-01 00:00:00,5,2,0,0,0,0.4,0.0,0.0,0.0
+UK,Technology,Software Engineer,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Technology,Data Engineer,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Operations,Site Engineer,Male,2026-03-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+UK,Supply Chain,Logistics Coordinator,Female,2025-11-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Technology,Software Engineer,Male,2025-11-01 00:00:00,7,4,2,1,1,0.5714,0.2857,0.1429,0.1429
+Netherlands,Operations,Site Engineer,Male,2025-06-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+Germany,Customer Support,Customer Success Manager,Male,2025-05-01 00:00:00,8,7,3,2,1,0.875,0.375,0.25,0.125
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-12-01 00:00:00,4,3,1,1,1,0.75,0.25,0.25,0.25
+Ireland,Sales,Account Manager,Female,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Male,2025-12-01 00:00:00,6,2,1,0,0,0.3333,0.1667,0.0,0.0
+UK,People,HR Business Partner,Female,2025-10-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Germany,People,HR Business Partner,Male,2026-03-01 00:00:00,6,5,2,2,2,0.8333,0.3333,0.3333,0.3333
+UK,Supply Chain,Procurement Specialist,Male,2025-05-01 00:00:00,9,8,4,2,2,0.8889,0.4444,0.2222,0.2222
+Germany,Customer Support,Customer Support Rep,Male,2025-05-01 00:00:00,9,7,4,2,2,0.7778,0.4444,0.2222,0.2222
+Germany,Commercial,Pricing Manager,Male,2025-11-01 00:00:00,9,5,3,2,1,0.5556,0.3333,0.2222,0.1111
+Ireland,Operations,Project Manager,Male,2025-05-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+UK,People,HR Advisor,Female,2026-02-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,People,HR Business Partner,Male,2025-08-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,People,HR Business Partner,Female,2026-02-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Customer Support,Customer Support Rep,Male,2026-03-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Female,2025-05-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Sales,Sales Executive,Female,2026-02-01 00:00:00,4,4,2,1,1,1.0,0.5,0.25,0.25
+UK,Operations,Site Engineer,Female,2026-03-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Technology,Data Engineer,Male,2026-02-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Finance,Financial Analyst,Male,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Technology,Software Engineer,Female,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,People,HR Advisor,Male,2025-05-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+Germany,Technology,Software Engineer,Male,2025-12-01 00:00:00,7,6,4,4,3,0.8571,0.5714,0.5714,0.4286
+Netherlands,People,HR Advisor,Male,2025-04-01 00:00:00,3,3,3,0,0,1.0,1.0,0.0,0.0
+Netherlands,Customer Support,Customer Success Manager,Male,2025-07-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,People,HR Business Partner,Female,2026-03-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Germany,Commercial,Commercial Analyst,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,People,HR Advisor,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Supply Chain,Warehouse Manager,Female,2025-08-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Finance,Financial Analyst,Male,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Male,2025-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Operations,Construction Supervisor,Female,2025-04-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Technology,Data Analyst,Female,2025-12-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Supply Chain,Logistics Coordinator,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Female,2026-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Customer Support,Customer Success Manager,Male,2025-03-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Netherlands,Operations,Project Manager,Female,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Finance,Accountant,Female,2026-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Technology,Software Engineer,Male,2025-08-01 00:00:00,7,7,5,3,2,1.0,0.7143,0.4286,0.2857
+France,Commercial,Commercial Analyst,Male,2025-10-01 00:00:00,5,5,4,1,0,1.0,0.8,0.2,0.0
+UK,People,HR Advisor,Male,2025-06-01 00:00:00,24,17,6,4,4,0.7083,0.25,0.1667,0.1667
+UK,Technology,Data Engineer,Male,2025-09-01 00:00:00,16,11,6,2,2,0.6875,0.375,0.125,0.125
+UK,People,HR Business Partner,Male,2025-05-01 00:00:00,16,10,5,2,2,0.625,0.3125,0.125,0.125
+Germany,Supply Chain,Procurement Specialist,Male,2025-05-01 00:00:00,8,6,3,0,0,0.75,0.375,0.0,0.0
+France,People,HR Advisor,Male,2025-12-01 00:00:00,4,2,1,1,1,0.5,0.25,0.25,0.25
+Germany,Supply Chain,Logistics Coordinator,Male,2025-07-01 00:00:00,10,8,2,1,1,0.8,0.2,0.1,0.1
+UK,Operations,Project Manager,Male,2025-12-01 00:00:00,17,14,7,3,2,0.8235,0.4118,0.1765,0.1176
+Netherlands,Customer Support,Customer Support Rep,Male,2025-04-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Customer Support,Customer Success Manager,Male,2025-12-01 00:00:00,20,17,8,3,1,0.85,0.4,0.15,0.05
+Netherlands,Operations,Site Engineer,Male,2026-03-01 00:00:00,3,3,2,1,0,1.0,0.6667,0.3333,0.0
+Germany,Supply Chain,Logistics Coordinator,Female,2025-06-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+Germany,People,HR Business Partner,Male,2025-06-01 00:00:00,9,5,2,0,0,0.5556,0.2222,0.0,0.0
+Germany,Finance,Accountant,Male,2025-05-01 00:00:00,10,6,3,1,1,0.6,0.3,0.1,0.1
+Germany,Supply Chain,Warehouse Manager,Male,2025-10-01 00:00:00,4,4,1,1,1,1.0,0.25,0.25,0.25
+UK,People,HR Business Partner,Male,2025-08-01 00:00:00,25,18,8,3,2,0.72,0.32,0.12,0.08
+UK,Supply Chain,Logistics Coordinator,Male,2026-03-01 00:00:00,23,16,11,3,2,0.6957,0.4783,0.1304,0.087
+UK,Finance,Financial Analyst,Male,2026-01-01 00:00:00,13,10,6,4,3,0.7692,0.4615,0.3077,0.2308
+Ireland,Customer Support,Customer Success Manager,Male,2025-05-01 00:00:00,3,3,2,2,1,1.0,0.6667,0.6667,0.3333
+France,People,HR Business Partner,Male,2025-08-01 00:00:00,6,3,0,0,0,0.5,0.0,0.0,0.0
+UK,Technology,Data Analyst,Female,2025-04-01 00:00:00,5,4,3,2,1,0.8,0.6,0.4,0.2
+Netherlands,Supply Chain,Warehouse Manager,Male,2025-11-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+UK,Finance,Accountant,Male,2025-12-01 00:00:00,19,13,7,4,3,0.6842,0.3684,0.2105,0.1579
+Ireland,Finance,Accountant,Male,2025-06-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+UK,Operations,Site Engineer,Male,2026-03-01 00:00:00,8,6,2,2,1,0.75,0.25,0.25,0.125
+Netherlands,People,HR Business Partner,Male,2025-12-01 00:00:00,3,1,1,1,1,0.3333,0.3333,0.3333,0.3333
+Ireland,Customer Support,Customer Success Manager,Male,2025-08-01 00:00:00,3,2,2,2,2,0.6667,0.6667,0.6667,0.6667
+UK,Commercial,Commercial Analyst,Male,2025-11-01 00:00:00,18,13,8,3,2,0.7222,0.4444,0.1667,0.1111
+UK,Technology,Data Analyst,Male,2025-04-01 00:00:00,14,7,4,0,0,0.5,0.2857,0.0,0.0
+UK,Finance,Financial Analyst,Male,2025-08-01 00:00:00,22,16,10,3,2,0.7273,0.4545,0.1364,0.0909
+France,Customer Support,Customer Success Manager,Female,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Supply Chain,Procurement Specialist,Male,2025-08-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Finance,Financial Analyst,Female,2025-08-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Finance,Financial Analyst,Male,2025-08-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+UK,Finance,Accountant,Female,2026-03-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+Germany,Customer Support,Customer Success Manager,Male,2025-12-01 00:00:00,6,4,2,1,1,0.6667,0.3333,0.1667,0.1667
+Germany,Finance,Accountant,Male,2025-08-01 00:00:00,10,6,3,0,0,0.6,0.3,0.0,0.0
+Netherlands,Operations,Project Manager,Male,2025-04-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Sales,Sales Executive,Male,2025-04-01 00:00:00,19,15,9,4,3,0.7895,0.4737,0.2105,0.1579
+Germany,Technology,Software Engineer,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Sales,Sales Executive,Female,2025-10-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+France,Sales,Sales Executive,Male,2025-07-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+Ireland,Operations,Construction Supervisor,Male,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Sales,Account Manager,Male,2025-10-01 00:00:00,11,9,3,3,2,0.8182,0.2727,0.2727,0.1818
+UK,People,HR Business Partner,Male,2025-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Finance,Financial Analyst,Male,2025-05-01 00:00:00,15,9,3,2,1,0.6,0.2,0.1333,0.0667
+France,Finance,Financial Analyst,Male,2026-01-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+Germany,Operations,Construction Supervisor,Male,2025-11-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+France,Commercial,Pricing Manager,Male,2025-06-01 00:00:00,4,3,3,1,1,0.75,0.75,0.25,0.25
+UK,People,HR Business Partner,Male,2026-01-01 00:00:00,19,16,12,5,4,0.8421,0.6316,0.2632,0.2105
+Germany,Finance,Financial Analyst,Male,2025-10-01 00:00:00,8,6,1,1,1,0.75,0.125,0.125,0.125
+Netherlands,Finance,Financial Analyst,Female,2025-05-01 00:00:00,2,2,2,1,0,1.0,1.0,0.5,0.0
+Germany,Customer Support,Customer Support Rep,Male,2025-12-01 00:00:00,9,7,4,2,2,0.7778,0.4444,0.2222,0.2222
+UK,Supply Chain,Procurement Specialist,Male,2025-12-01 00:00:00,21,11,4,1,1,0.5238,0.1905,0.0476,0.0476
+UK,Commercial,Pricing Manager,Male,2025-12-01 00:00:00,18,12,8,4,3,0.6667,0.4444,0.2222,0.1667
+Netherlands,Supply Chain,Logistics Coordinator,Male,2026-01-01 00:00:00,7,5,2,2,1,0.7143,0.2857,0.2857,0.1429
+Ireland,Operations,Project Manager,Male,2025-12-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+Germany,Supply Chain,Procurement Specialist,Male,2026-01-01 00:00:00,5,3,3,1,1,0.6,0.6,0.2,0.2
+Germany,Commercial,Commercial Analyst,Male,2025-08-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+Germany,Technology,Software Engineer,Male,2025-05-01 00:00:00,5,5,3,2,1,1.0,0.6,0.4,0.2
+Germany,Sales,Sales Executive,Male,2025-04-01 00:00:00,5,4,4,1,1,0.8,0.8,0.2,0.2
+Germany,Operations,Project Manager,Male,2026-02-01 00:00:00,6,4,2,0,0,0.6667,0.3333,0.0,0.0
+France,People,HR Business Partner,Male,2025-05-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Germany,Finance,Accountant,Male,2026-01-01 00:00:00,7,5,3,3,1,0.7143,0.4286,0.4286,0.1429
+Germany,Commercial,Commercial Analyst,Female,2026-03-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2025-12-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+France,Commercial,Commercial Analyst,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Finance,Financial Analyst,Male,2025-05-01 00:00:00,5,5,4,3,3,1.0,0.8,0.6,0.6
+UK,Customer Support,Customer Success Manager,Female,2025-04-01 00:00:00,4,2,2,1,0,0.5,0.5,0.25,0.0
+UK,Sales,Account Manager,Female,2025-07-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+Germany,Technology,Data Engineer,Female,2025-11-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Female,2025-12-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+Germany,Technology,Data Analyst,Male,2025-11-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Ireland,Operations,Site Engineer,Male,2025-06-01 00:00:00,3,2,1,1,0,0.6667,0.3333,0.3333,0.0
+Germany,Finance,Accountant,Male,2025-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Operations,Site Engineer,Female,2025-06-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Success Manager,Male,2025-09-01 00:00:00,4,2,1,1,1,0.5,0.25,0.25,0.25
+Germany,Technology,Data Analyst,Female,2025-05-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Finance,Financial Analyst,Female,2025-11-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Germany,Commercial,Commercial Analyst,Male,2026-01-01 00:00:00,7,6,5,1,0,0.8571,0.7143,0.1429,0.0
+UK,Supply Chain,Warehouse Manager,Female,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Technology,Software Engineer,Male,2026-01-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-05-01 00:00:00,4,4,3,2,1,1.0,0.75,0.5,0.25
+Germany,Commercial,Commercial Analyst,Male,2025-05-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+Ireland,Commercial,Commercial Analyst,Female,2025-05-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,People,HR Business Partner,Male,2026-01-01 00:00:00,6,2,1,0,0,0.3333,0.1667,0.0,0.0
+Ireland,Commercial,Pricing Manager,Female,2025-07-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Customer Support,Customer Support Rep,Male,2025-06-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+Ireland,Customer Support,Customer Support Rep,Male,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Commercial,Pricing Manager,Male,2026-03-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Sales,Account Manager,Female,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Commercial,Commercial Analyst,Male,2025-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Female,2025-07-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Female,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Technology,Software Engineer,Male,2025-10-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Technology,Data Analyst,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,People,HR Advisor,Male,2025-11-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+France,Sales,Account Manager,Male,2025-10-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+France,Technology,Data Analyst,Female,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Finance,Financial Analyst,Male,2025-03-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+Germany,Technology,Software Engineer,Female,2025-05-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Sales,Account Manager,Male,2025-04-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Ireland,Customer Support,Customer Success Manager,Male,2026-01-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Technology,Data Analyst,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Operations,Site Engineer,Male,2026-02-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Sales,Account Manager,Female,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,People,HR Advisor,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Finance,Financial Analyst,Female,2025-04-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,People,HR Business Partner,Male,2025-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Technology,Data Analyst,Male,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Female,2025-05-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Technology,Software Engineer,Male,2025-06-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+France,Operations,Site Engineer,Male,2025-07-01 00:00:00,6,5,1,1,1,0.8333,0.1667,0.1667,0.1667
+Germany,Technology,Data Engineer,Male,2025-10-01 00:00:00,4,4,3,1,0,1.0,0.75,0.25,0.0
+UK,Commercial,Commercial Analyst,Female,2025-12-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Ireland,People,HR Advisor,Male,2025-06-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+UK,Sales,Sales Executive,Male,2025-05-01 00:00:00,28,23,10,3,3,0.8214,0.3571,0.1071,0.1071
+Germany,Supply Chain,Procurement Specialist,Male,2025-04-01 00:00:00,10,8,3,1,1,0.8,0.3,0.1,0.1
+UK,Commercial,Commercial Analyst,Male,2025-06-01 00:00:00,25,18,12,7,5,0.72,0.48,0.28,0.2
+UK,Sales,Sales Executive,Male,2026-01-01 00:00:00,24,18,12,8,6,0.75,0.5,0.3333,0.25
+UK,Technology,Data Analyst,Male,2026-01-01 00:00:00,22,15,7,1,1,0.6818,0.3182,0.0455,0.0455
+UK,Finance,Financial Analyst,Male,2025-04-01 00:00:00,19,11,9,2,0,0.5789,0.4737,0.1053,0.0
+UK,Technology,Data Analyst,Male,2025-08-01 00:00:00,14,11,5,1,1,0.7857,0.3571,0.0714,0.0714
+Germany,Technology,Data Analyst,Male,2025-06-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+UK,Technology,Data Analyst,Male,2025-05-01 00:00:00,17,12,7,2,1,0.7059,0.4118,0.1176,0.0588
+Germany,Operations,Project Manager,Male,2025-07-01 00:00:00,8,4,3,0,0,0.5,0.375,0.0,0.0
+Germany,Technology,Software Engineer,Male,2025-04-01 00:00:00,6,2,1,0,0,0.3333,0.1667,0.0,0.0
+UK,Sales,Sales Executive,Female,2025-09-01 00:00:00,3,3,0,0,0,1.0,0.0,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Female,2025-05-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+UK,People,HR Business Partner,Male,2025-04-01 00:00:00,23,15,5,1,0,0.6522,0.2174,0.0435,0.0
+UK,People,HR Advisor,Female,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Technology,Data Analyst,Female,2026-01-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,People,HR Business Partner,Male,2025-12-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+UK,Commercial,Pricing Manager,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Technology,Software Engineer,Male,2026-03-01 00:00:00,17,9,6,3,2,0.5294,0.3529,0.1765,0.1176
+France,People,HR Business Partner,Male,2025-04-01 00:00:00,5,3,2,1,1,0.6,0.4,0.2,0.2
+Germany,Sales,Sales Executive,Male,2025-08-01 00:00:00,16,14,9,5,4,0.875,0.5625,0.3125,0.25
+UK,People,HR Advisor,Male,2025-11-01 00:00:00,20,16,9,3,0,0.8,0.45,0.15,0.0
+France,Operations,Construction Supervisor,Male,2026-03-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,People,HR Advisor,Male,2025-12-01 00:00:00,4,3,3,1,0,0.75,0.75,0.25,0.0
+Germany,Sales,Sales Executive,Male,2025-05-01 00:00:00,9,4,2,1,1,0.4444,0.2222,0.1111,0.1111
+Germany,Sales,Sales Executive,Male,2026-01-01 00:00:00,7,5,4,2,2,0.7143,0.5714,0.2857,0.2857
+UK,Sales,Sales Executive,Male,2025-08-01 00:00:00,28,24,15,5,3,0.8571,0.5357,0.1786,0.1071
+Ireland,Customer Support,Customer Support Rep,Male,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Customer Support,Customer Success Manager,Male,2025-09-01 00:00:00,6,4,2,0,0,0.6667,0.3333,0.0,0.0
+France,Commercial,Pricing Manager,Male,2025-11-01 00:00:00,6,5,3,1,0,0.8333,0.5,0.1667,0.0
+Netherlands,Customer Support,Customer Support Rep,Male,2025-05-01 00:00:00,4,3,1,1,0,0.75,0.25,0.25,0.0
+UK,Customer Support,Customer Success Manager,Female,2025-08-01 00:00:00,4,3,3,1,1,0.75,0.75,0.25,0.25
+UK,Operations,Construction Supervisor,Male,2026-03-01 00:00:00,7,3,1,1,1,0.4286,0.1429,0.1429,0.1429
+Netherlands,Operations,Project Manager,Male,2026-01-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Netherlands,Supply Chain,Warehouse Manager,Male,2025-06-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Netherlands,Supply Chain,Logistics Coordinator,Male,2025-04-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+France,Technology,Software Engineer,Male,2025-11-01 00:00:00,9,8,5,0,0,0.8889,0.5556,0.0,0.0
+France,Sales,Sales Executive,Male,2026-02-01 00:00:00,3,2,2,1,1,0.6667,0.6667,0.3333,0.3333
+Netherlands,Technology,Data Engineer,Male,2025-09-01 00:00:00,4,2,1,0,0,0.5,0.25,0.0,0.0
+UK,Operations,Project Manager,Female,2026-02-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Netherlands,Sales,Account Manager,Male,2025-08-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+France,Customer Support,Customer Support Rep,Male,2025-11-01 00:00:00,3,2,1,1,0,0.6667,0.3333,0.3333,0.0
+UK,Technology,Data Analyst,Female,2025-05-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+Netherlands,Sales,Account Manager,Male,2025-05-01 00:00:00,5,5,3,3,3,1.0,0.6,0.6,0.6
+Ireland,Customer Support,Customer Support Rep,Male,2025-05-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+Germany,Commercial,Commercial Analyst,Male,2025-04-01 00:00:00,9,4,3,3,2,0.4444,0.3333,0.3333,0.2222
+Netherlands,Sales,Account Manager,Male,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Female,2025-11-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Finance,Accountant,Female,2025-07-01 00:00:00,1,1,1,1,0,1.0,1.0,1.0,0.0
+France,Operations,Project Manager,Male,2025-10-01 00:00:00,5,2,1,0,0,0.4,0.2,0.0,0.0
+Netherlands,Technology,Data Analyst,Male,2025-06-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Netherlands,Customer Support,Customer Support Rep,Male,2025-08-01 00:00:00,3,1,1,1,1,0.3333,0.3333,0.3333,0.3333
+Netherlands,Commercial,Pricing Manager,Male,2025-09-01 00:00:00,5,3,2,1,1,0.6,0.4,0.2,0.2
+Ireland,Finance,Financial Analyst,Male,2025-09-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Operations,Construction Supervisor,Male,2025-06-01 00:00:00,5,4,2,0,0,0.8,0.4,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Female,2026-02-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+Ireland,Supply Chain,Logistics Coordinator,Male,2025-06-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,People,HR Business Partner,Male,2025-11-01 00:00:00,9,6,4,2,2,0.6667,0.4444,0.2222,0.2222
+Netherlands,Sales,Sales Executive,Male,2025-12-01 00:00:00,4,1,0,0,0,0.25,0.0,0.0,0.0
+UK,Technology,Data Analyst,Female,2025-08-01 00:00:00,3,2,2,2,1,0.6667,0.6667,0.6667,0.3333
+Germany,Commercial,Pricing Manager,Male,2026-03-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+Germany,Sales,Account Manager,Female,2025-10-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Finance,Accountant,Male,2025-04-01 00:00:00,6,4,2,1,1,0.6667,0.3333,0.1667,0.1667
+Netherlands,Operations,Project Manager,Female,2026-03-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Ireland,Customer Support,Customer Support Rep,Male,2025-08-01 00:00:00,3,2,1,1,0,0.6667,0.3333,0.3333,0.0
+Netherlands,People,HR Advisor,Male,2025-12-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Sales,Account Manager,Female,2026-02-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Operations,Site Engineer,Male,2025-11-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Sales,Sales Executive,Male,2025-10-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Germany,Finance,Financial Analyst,Female,2026-01-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Technology,Data Engineer,Male,2025-10-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Operations,Construction Supervisor,Male,2026-02-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Netherlands,Supply Chain,Procurement Specialist,Male,2025-12-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Netherlands,Operations,Project Manager,Male,2025-05-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+France,Operations,Project Manager,Female,2025-12-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Operations,Site Engineer,Female,2025-07-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Female,2025-08-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Finance,Accountant,Female,2025-07-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Germany,Technology,Data Analyst,Female,2025-04-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Technology,Data Analyst,Male,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,People,HR Business Partner,Female,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Technology,Data Engineer,Female,2025-09-01 00:00:00,3,3,2,2,2,1.0,0.6667,0.6667,0.6667
+Netherlands,Operations,Project Manager,Male,2025-08-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Finance,Accountant,Male,2026-03-01 00:00:00,5,4,1,0,0,0.8,0.2,0.0,0.0
+Netherlands,Finance,Accountant,Male,2025-09-01 00:00:00,5,2,2,1,1,0.4,0.4,0.2,0.2
+Netherlands,Finance,Financial Analyst,Male,2025-09-01 00:00:00,4,4,2,1,1,1.0,0.5,0.25,0.25
+Netherlands,Customer Support,Customer Support Rep,Male,2026-01-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+France,Finance,Financial Analyst,Male,2025-04-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Customer Support,Customer Support Rep,Female,2026-03-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Supply Chain,Warehouse Manager,Male,2025-06-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Male,2026-02-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Female,2025-04-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+France,Finance,Financial Analyst,Female,2025-06-01 00:00:00,3,3,1,1,0,1.0,0.3333,0.3333,0.0
+UK,Customer Support,Customer Success Manager,Female,2026-01-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Germany,Operations,Site Engineer,Male,2025-10-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Female,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,People,HR Advisor,Female,2025-11-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Customer Support,Customer Success Manager,Female,2025-05-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Finance,Accountant,Male,2025-11-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Ireland,Customer Support,Customer Success Manager,Female,2025-06-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Operations,Site Engineer,Female,2025-11-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Sales,Account Manager,Male,2026-03-01 00:00:00,3,3,1,1,1,1.0,0.3333,0.3333,0.3333
+France,Supply Chain,Warehouse Manager,Male,2025-12-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Ireland,Commercial,Commercial Analyst,Male,2026-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Finance,Financial Analyst,Female,2025-06-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Germany,Commercial,Pricing Manager,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Technology,Data Engineer,Male,2025-10-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Commercial,Commercial Analyst,Female,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Operations,Construction Supervisor,Female,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Supply Chain,Logistics Coordinator,Female,2026-03-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Ireland,Sales,Sales Executive,Male,2025-11-01 00:00:00,5,4,2,0,0,0.8,0.4,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Male,2026-03-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+UK,Sales,Account Manager,Male,2026-03-01 00:00:00,21,14,8,2,2,0.6667,0.381,0.0952,0.0952
+Germany,Operations,Site Engineer,Male,2025-11-01 00:00:00,6,4,1,0,0,0.6667,0.1667,0.0,0.0
+France,Sales,Account Manager,Male,2025-06-01 00:00:00,3,3,2,0,0,1.0,0.6667,0.0,0.0
+UK,Supply Chain,Procurement Specialist,Male,2026-02-01 00:00:00,10,7,2,1,1,0.7,0.2,0.1,0.1
+UK,Sales,Sales Executive,Male,2025-09-01 00:00:00,27,18,10,3,2,0.6667,0.3704,0.1111,0.0741
+UK,Customer Support,Customer Success Manager,Male,2026-02-01 00:00:00,16,13,6,3,1,0.8125,0.375,0.1875,0.0625
+France,Customer Support,Customer Success Manager,Male,2026-01-01 00:00:00,6,5,2,1,1,0.8333,0.3333,0.1667,0.1667
+UK,People,HR Advisor,Male,2025-10-01 00:00:00,16,13,7,3,3,0.8125,0.4375,0.1875,0.1875
+UK,Sales,Sales Executive,Female,2026-01-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Netherlands,Commercial,Pricing Manager,Male,2025-08-01 00:00:00,5,3,0,0,0,0.6,0.0,0.0,0.0
+UK,Commercial,Pricing Manager,Male,2026-02-01 00:00:00,19,11,7,4,3,0.5789,0.3684,0.2105,0.1579
+Germany,Supply Chain,Warehouse Manager,Male,2025-06-01 00:00:00,7,4,1,0,0,0.5714,0.1429,0.0,0.0
+UK,People,HR Advisor,Female,2025-05-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+Germany,Sales,Sales Executive,Male,2025-09-01 00:00:00,9,8,6,2,2,0.8889,0.6667,0.2222,0.2222
+Netherlands,Finance,Accountant,Male,2026-01-01 00:00:00,3,1,0,0,0,0.3333,0.0,0.0,0.0
+Germany,Customer Support,Customer Support Rep,Male,2026-02-01 00:00:00,7,7,1,0,0,1.0,0.1429,0.0,0.0
+France,Technology,Data Engineer,Male,2025-11-01 00:00:00,4,2,0,0,0,0.5,0.0,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2026-02-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Netherlands,Commercial,Pricing Manager,Male,2025-05-01 00:00:00,3,3,2,1,0,1.0,0.6667,0.3333,0.0
+Germany,Finance,Financial Analyst,Male,2025-06-01 00:00:00,7,6,4,1,0,0.8571,0.5714,0.1429,0.0
+France,Technology,Data Analyst,Male,2026-03-01 00:00:00,6,4,3,2,1,0.6667,0.5,0.3333,0.1667
+UK,Customer Support,Customer Success Manager,Female,2025-09-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+Netherlands,Finance,Accountant,Male,2025-05-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+Netherlands,People,HR Advisor,Male,2025-07-01 00:00:00,4,2,2,2,1,0.5,0.5,0.5,0.25
+UK,Commercial,Pricing Manager,Female,2025-05-01 00:00:00,3,1,1,0,0,0.3333,0.3333,0.0,0.0
+Germany,Sales,Account Manager,Male,2025-06-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Finance,Accountant,Male,2026-02-01 00:00:00,12,7,4,2,2,0.5833,0.3333,0.1667,0.1667
+France,Commercial,Pricing Manager,Male,2025-10-01 00:00:00,5,4,3,1,0,0.8,0.6,0.2,0.0
+UK,Supply Chain,Procurement Specialist,Female,2026-02-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+Ireland,Finance,Financial Analyst,Male,2026-01-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+UK,People,HR Advisor,Female,2025-08-01 00:00:00,4,4,1,0,0,1.0,0.25,0.0,0.0
+UK,Technology,Data Analyst,Male,2025-09-01 00:00:00,9,9,6,1,0,1.0,0.6667,0.1111,0.0
+Ireland,Finance,Financial Analyst,Male,2025-08-01 00:00:00,4,3,2,2,2,0.75,0.5,0.5,0.5
+Germany,Operations,Project Manager,Male,2025-12-01 00:00:00,5,2,0,0,0,0.4,0.0,0.0,0.0
+UK,Technology,Software Engineer,Female,2026-03-01 00:00:00,2,2,2,1,1,1.0,1.0,0.5,0.5
+UK,Operations,Project Manager,Male,2026-02-01 00:00:00,13,12,3,1,1,0.9231,0.2308,0.0769,0.0769
+Germany,Technology,Data Engineer,Male,2025-11-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+UK,Technology,Data Engineer,Male,2025-04-01 00:00:00,10,4,2,0,0,0.4,0.2,0.0,0.0
+France,Supply Chain,Procurement Specialist,Male,2026-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Technology,Data Engineer,Male,2026-01-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+France,Operations,Site Engineer,Male,2025-12-01 00:00:00,5,4,2,1,1,0.8,0.4,0.2,0.2
+France,Commercial,Commercial Analyst,Male,2025-06-01 00:00:00,5,3,2,2,1,0.6,0.4,0.4,0.2
+Germany,People,HR Advisor,Male,2025-07-01 00:00:00,5,5,4,3,3,1.0,0.8,0.6,0.6
+Germany,People,HR Business Partner,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Customer Support,Customer Success Manager,Male,2026-02-01 00:00:00,12,8,6,4,3,0.6667,0.5,0.3333,0.25
+France,People,HR Business Partner,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Customer Support,Customer Success Manager,Male,2025-05-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Ireland,Finance,Accountant,Male,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Finance,Financial Analyst,Male,2025-08-01 00:00:00,5,1,0,0,0,0.2,0.0,0.0,0.0
+Ireland,Supply Chain,Logistics Coordinator,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Customer Support,Customer Support Rep,Male,2025-09-01 00:00:00,3,1,1,1,0,0.3333,0.3333,0.3333,0.0
+Germany,People,HR Business Partner,Male,2025-10-01 00:00:00,7,3,2,2,2,0.4286,0.2857,0.2857,0.2857
+Netherlands,Sales,Account Manager,Male,2025-09-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Sales,Sales Executive,Male,2025-07-01 00:00:00,3,0,0,0,0,0.0,0.0,0.0,0.0
+France,Customer Support,Customer Success Manager,Male,2025-08-01 00:00:00,4,1,0,0,0,0.25,0.0,0.0,0.0
+Ireland,Finance,Financial Analyst,Male,2025-05-01 00:00:00,5,4,1,1,0,0.8,0.2,0.2,0.0
+UK,Commercial,Pricing Manager,Female,2025-08-01 00:00:00,4,4,3,1,1,1.0,0.75,0.25,0.25
+UK,Sales,Sales Executive,Female,2025-05-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Netherlands,Finance,Financial Analyst,Male,2025-05-01 00:00:00,4,4,2,1,0,1.0,0.5,0.25,0.0
+Germany,Supply Chain,Procurement Specialist,Female,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Supply Chain,Procurement Specialist,Male,2026-03-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,People,HR Business Partner,Male,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Technology,Data Engineer,Male,2025-08-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+France,Finance,Accountant,Female,2025-12-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Success Manager,Male,2025-04-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,People,HR Business Partner,Female,2026-03-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Technology,Software Engineer,Male,2025-06-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Germany,Finance,Financial Analyst,Female,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Customer Support,Customer Support Rep,Male,2025-10-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+UK,Sales,Sales Executive,Female,2025-08-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+UK,Commercial,Pricing Manager,Female,2026-01-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Commercial,Pricing Manager,Female,2026-03-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+UK,People,HR Advisor,Female,2026-01-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+Netherlands,Supply Chain,Procurement Specialist,Male,2025-07-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Netherlands,Commercial,Pricing Manager,Male,2026-01-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Support Rep,Female,2026-03-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+France,Supply Chain,Warehouse Manager,Male,2025-07-01 00:00:00,3,2,1,1,0,0.6667,0.3333,0.3333,0.0
+Ireland,Operations,Site Engineer,Male,2025-10-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+Germany,Customer Support,Customer Support Rep,Female,2025-09-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+UK,Commercial,Commercial Analyst,Female,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Finance,Financial Analyst,Male,2026-01-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+Ireland,Operations,Project Manager,Male,2026-02-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+France,Technology,Software Engineer,Male,2025-10-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+UK,Technology,Data Analyst,Female,2025-09-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Commercial,Pricing Manager,Male,2025-10-01 00:00:00,25,16,8,1,1,0.64,0.32,0.04,0.04
+UK,Supply Chain,Procurement Specialist,Female,2025-10-01 00:00:00,3,2,2,0,0,0.6667,0.6667,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Male,2025-04-01 00:00:00,15,11,4,1,1,0.7333,0.2667,0.0667,0.0667
+Germany,Operations,Project Manager,Male,2025-06-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+France,People,HR Advisor,Male,2025-10-01 00:00:00,5,4,2,2,0,0.8,0.4,0.4,0.0
+Germany,Finance,Financial Analyst,Male,2025-12-01 00:00:00,6,4,1,1,1,0.6667,0.1667,0.1667,0.1667
+Germany,Customer Support,Customer Support Rep,Male,2025-10-01 00:00:00,7,2,1,1,1,0.2857,0.1429,0.1429,0.1429
+UK,People,HR Advisor,Female,2026-03-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,Finance,Accountant,Male,2025-10-01 00:00:00,26,20,12,6,5,0.7692,0.4615,0.2308,0.1923
+France,Sales,Account Manager,Male,2025-12-01 00:00:00,6,4,2,1,1,0.6667,0.3333,0.1667,0.1667
+France,Finance,Accountant,Male,2025-09-01 00:00:00,2,1,1,1,0,0.5,0.5,0.5,0.0
+UK,Supply Chain,Procurement Specialist,Male,2025-10-01 00:00:00,17,8,4,0,0,0.4706,0.2353,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Male,2025-08-01 00:00:00,5,3,3,2,2,0.6,0.6,0.4,0.4
+UK,Sales,Account Manager,Male,2025-08-01 00:00:00,20,17,12,6,4,0.85,0.6,0.3,0.2
+UK,Operations,Construction Supervisor,Male,2025-09-01 00:00:00,17,13,7,5,5,0.7647,0.4118,0.2941,0.2941
+France,Technology,Data Analyst,Male,2026-01-01 00:00:00,6,4,2,0,0,0.6667,0.3333,0.0,0.0
+UK,Sales,Account Manager,Male,2026-01-01 00:00:00,28,21,17,6,3,0.75,0.6071,0.2143,0.1071
+UK,Operations,Project Manager,Male,2025-10-01 00:00:00,13,9,6,4,4,0.6923,0.4615,0.3077,0.3077
+France,Operations,Site Engineer,Male,2025-06-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Customer Support,Customer Success Manager,Male,2025-10-01 00:00:00,22,14,7,2,2,0.6364,0.3182,0.0909,0.0909
+France,Customer Support,Customer Success Manager,Male,2026-03-01 00:00:00,6,5,2,1,1,0.8333,0.3333,0.1667,0.1667
+France,Commercial,Pricing Manager,Male,2026-02-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+UK,Commercial,Commercial Analyst,Male,2025-07-01 00:00:00,19,14,9,6,3,0.7368,0.4737,0.3158,0.1579
+France,Supply Chain,Procurement Specialist,Male,2026-01-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+Germany,Supply Chain,Procurement Specialist,Female,2025-05-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Finance,Financial Analyst,Male,2026-03-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+Germany,Customer Support,Customer Success Manager,Male,2025-10-01 00:00:00,6,5,1,1,1,0.8333,0.1667,0.1667,0.1667
+UK,Technology,Software Engineer,Female,2025-05-01 00:00:00,4,4,2,0,0,1.0,0.5,0.0,0.0
+Ireland,Supply Chain,Procurement Specialist,Male,2025-08-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+France,Supply Chain,Logistics Coordinator,Male,2025-10-01 00:00:00,7,5,3,2,2,0.7143,0.4286,0.2857,0.2857
+France,Commercial,Commercial Analyst,Male,2025-12-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Customer Support,Customer Support Rep,Female,2025-05-01 00:00:00,2,2,1,1,1,1.0,0.5,0.5,0.5
+Netherlands,Finance,Accountant,Male,2026-03-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Netherlands,Technology,Software Engineer,Male,2025-12-01 00:00:00,2,2,2,2,2,1.0,1.0,1.0,1.0
+Ireland,People,HR Advisor,Male,2025-07-01 00:00:00,5,5,3,2,2,1.0,0.6,0.4,0.4
+France,Customer Support,Customer Support Rep,Male,2026-02-01 00:00:00,4,3,2,0,0,0.75,0.5,0.0,0.0
+UK,Sales,Account Manager,Male,2025-05-01 00:00:00,18,13,8,7,6,0.7222,0.4444,0.3889,0.3333
+Ireland,Technology,Software Engineer,Male,2025-07-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Male,2026-01-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+Ireland,Operations,Site Engineer,Male,2026-02-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Commercial,Pricing Manager,Male,2026-03-01 00:00:00,3,2,1,1,1,0.6667,0.3333,0.3333,0.3333
+Netherlands,Supply Chain,Warehouse Manager,Male,2025-07-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0
+Germany,People,HR Business Partner,Female,2026-02-01 00:00:00,2,2,1,0,0,1.0,0.5,0.0,0.0
+UK,People,HR Advisor,Male,2026-02-01 00:00:00,14,10,4,2,2,0.7143,0.2857,0.1429,0.1429
+France,Sales,Sales Executive,Male,2025-11-01 00:00:00,6,6,4,2,2,1.0,0.6667,0.3333,0.3333
+UK,Customer Support,Customer Support Rep,Male,2025-04-01 00:00:00,15,12,7,2,2,0.8,0.4667,0.1333,0.1333
+Germany,People,HR Business Partner,Male,2026-02-01 00:00:00,7,6,5,1,1,0.8571,0.7143,0.1429,0.1429
+Germany,Operations,Construction Supervisor,Male,2025-07-01 00:00:00,6,4,2,0,0,0.6667,0.3333,0.0,0.0
+France,Commercial,Pricing Manager,Female,2025-08-01 00:00:00,3,1,1,1,1,0.3333,0.3333,0.3333,0.3333
+Germany,Commercial,Pricing Manager,Male,2025-09-01 00:00:00,4,3,3,2,2,0.75,0.75,0.5,0.5
+France,Supply Chain,Procurement Specialist,Male,2025-05-01 00:00:00,3,2,2,2,2,0.6667,0.6667,0.6667,0.6667
+Netherlands,Technology,Data Analyst,Male,2025-07-01 00:00:00,3,3,3,0,0,1.0,1.0,0.0,0.0
+UK,Technology,Software Engineer,Male,2025-09-01 00:00:00,19,15,7,5,4,0.7895,0.3684,0.2632,0.2105
+UK,Technology,Data Engineer,Female,2026-03-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+France,Supply Chain,Procurement Specialist,Male,2025-08-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+Netherlands,Technology,Data Engineer,Male,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Supply Chain,Warehouse Manager,Female,2025-11-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+France,Operations,Construction Supervisor,Male,2025-09-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+Germany,Sales,Sales Executive,Female,2025-12-01 00:00:00,1,1,1,1,1,1.0,1.0,1.0,1.0
+UK,Technology,Software Engineer,Female,2026-01-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+France,Operations,Construction Supervisor,Female,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+France,Technology,Data Analyst,Male,2025-08-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+Netherlands,Commercial,Commercial Analyst,Male,2025-05-01 00:00:00,4,3,3,0,0,0.75,0.75,0.0,0.0
+UK,People,HR Business Partner,Female,2025-08-01 00:00:00,3,2,0,0,0,0.6667,0.0,0.0,0.0
+Germany,Sales,Account Manager,Male,2025-12-01 00:00:00,4,1,1,1,1,0.25,0.25,0.25,0.25
+Ireland,Commercial,Commercial Analyst,Male,2025-09-01 00:00:00,4,3,2,1,1,0.75,0.5,0.25,0.25
+Germany,Technology,Data Analyst,Male,2025-07-01 00:00:00,2,0,0,0,0,0.0,0.0,0.0,0.0
+UK,Finance,Financial Analyst,Female,2025-07-01 00:00:00,3,3,2,1,1,1.0,0.6667,0.3333,0.3333
+Germany,Supply Chain,Warehouse Manager,Male,2025-12-01 00:00:00,3,3,1,0,0,1.0,0.3333,0.0,0.0
+Ireland,Technology,Data Analyst,Male,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,People,HR Business Partner,Female,2025-05-01 00:00:00,4,4,3,1,1,1.0,0.75,0.25,0.25
+France,Supply Chain,Warehouse Manager,Female,2025-06-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Sales,Account Manager,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+UK,Commercial,Pricing Manager,Female,2026-03-01 00:00:00,5,5,5,3,3,1.0,1.0,0.6,0.6
+France,Technology,Data Analyst,Male,2025-05-01 00:00:00,3,2,1,0,0,0.6667,0.3333,0.0,0.0
+UK,Supply Chain,Warehouse Manager,Female,2025-11-01 00:00:00,2,2,0,0,0,1.0,0.0,0.0,0.0
+Netherlands,Supply Chain,Warehouse Manager,Female,2025-10-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Commercial,Pricing Manager,Female,2025-06-01 00:00:00,2,1,0,0,0,0.5,0.0,0.0,0.0
+UK,Customer Support,Customer Support Rep,Female,2025-09-01 00:00:00,1,0,0,0,0,0.0,0.0,0.0,0.0
+Ireland,Supply Chain,Procurement Specialist,Male,2025-05-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+France,Technology,Software Engineer,Male,2026-02-01 00:00:00,1,1,1,0,0,1.0,1.0,0.0,0.0
+Ireland,Finance,Accountant,Male,2026-02-01 00:00:00,2,2,1,1,0,1.0,0.5,0.5,0.0
+UK,Sales,Account Manager,Female,2025-11-01 00:00:00,2,1,1,1,1,0.5,0.5,0.5,0.5
+Ireland,Finance,Financial Analyst,Male,2026-03-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Supply Chain,Warehouse Manager,Male,2025-07-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Ireland,Operations,Construction Supervisor,Male,2025-11-01 00:00:00,1,1,0,0,0,1.0,0.0,0.0,0.0
+Germany,Supply Chain,Logistics Coordinator,Male,2025-11-01 00:00:00,4,3,1,0,0,0.75,0.25,0.0,0.0
+UK,Technology,Software Engineer,Female,2025-08-01 00:00:00,2,1,1,0,0,0.5,0.5,0.0,0.0

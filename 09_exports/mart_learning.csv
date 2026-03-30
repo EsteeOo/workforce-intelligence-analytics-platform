@@ -1,0 +1,1964 @@
+country,department,course_name,mandatory_flag,assignment_month,learning_record_count,completed_count,overdue_count,completion_rate,overdue_rate,avg_days_to_complete
+Netherlands,Operations,Advanced Analytics,0,2025-04-01 00:00:00,4,2,2,0.5,0.5,12.5
+UK,Technology,Stakeholder Management,0,2025-11-01 00:00:00,4,4,0,1.0,0.0,15.3
+Germany,People,Stakeholder Management,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+UK,Customer Support,Health and Safety,1,2025-11-01 00:00:00,6,3,3,0.5,0.5,18.0
+Ireland,Sales,Leadership Essentials,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+UK,Supply Chain,Code of Conduct,1,2025-09-01 00:00:00,7,6,1,0.8571,0.1429,24.0
+Germany,Operations,Health and Safety,1,2025-07-01 00:00:00,5,4,1,0.8,0.2,34.0
+Germany,Finance,Leadership Essentials,0,2025-02-01 00:00:00,4,1,3,0.25,0.75,5.0
+Germany,Operations,Leadership Essentials,0,2025-12-01 00:00:00,10,2,8,0.2,0.8,64.0
+France,Supply Chain,Data Protection,1,2025-02-01 00:00:00,2,1,1,0.5,0.5,20.0
+UK,Operations,Stakeholder Management,0,2025-09-01 00:00:00,16,6,10,0.375,0.625,40.3
+UK,Sales,Code of Conduct,1,2025-12-01 00:00:00,5,4,1,0.8,0.2,13.0
+UK,Operations,Advanced Analytics,0,2025-04-01 00:00:00,13,3,10,0.2308,0.7692,39.3
+UK,Finance,Advanced Analytics,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,15.0
+UK,Operations,Code of Conduct,1,2025-04-01 00:00:00,10,5,5,0.5,0.5,27.6
+UK,Finance,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,2.0
+UK,Supply Chain,Data Protection,1,2026-03-01 00:00:00,4,4,0,1.0,0.0,5.0
+UK,Technology,Data Protection,1,2025-11-01 00:00:00,3,2,1,0.6667,0.3333,11.5
+UK,Operations,Leadership Essentials,0,2025-07-01 00:00:00,12,4,8,0.3333,0.6667,38.0
+France,Operations,Leadership Essentials,0,2025-07-01 00:00:00,4,2,2,0.5,0.5,34.0
+UK,Operations,Data Protection,1,2026-03-01 00:00:00,6,2,0,0.3333,0.0,9.0
+Germany,Supply Chain,Health and Safety,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Supply Chain,Stakeholder Management,0,2025-01-01 00:00:00,5,1,4,0.2,0.8,23.0
+UK,Sales,Health and Safety,1,2025-07-01 00:00:00,3,2,1,0.6667,0.3333,10.0
+Germany,Technology,Stakeholder Management,0,2025-10-01 00:00:00,4,2,2,0.5,0.5,5.0
+Netherlands,Commercial,Stakeholder Management,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,21.0
+France,Operations,Stakeholder Management,0,2025-04-01 00:00:00,2,0,2,0.0,1.0,
+France,Supply Chain,Code of Conduct,1,2025-04-01 00:00:00,3,0,3,0.0,1.0,
+Ireland,Finance,Leadership Essentials,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,14.0
+UK,Technology,Stakeholder Management,0,2025-01-01 00:00:00,5,5,0,1.0,0.0,8.4
+UK,Technology,Leadership Essentials,0,2025-12-01 00:00:00,5,4,1,0.8,0.2,16.3
+Germany,Sales,Leadership Essentials,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,31.0
+UK,People,Stakeholder Management,0,2026-02-01 00:00:00,5,3,0,0.6,0.0,13.0
+Germany,Commercial,Leadership Essentials,0,2025-06-01 00:00:00,2,2,0,1.0,0.0,16.5
+Germany,Customer Support,Health and Safety,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,23.0
+Netherlands,Supply Chain,Health and Safety,1,2025-02-01 00:00:00,2,1,1,0.5,0.5,36.0
+Germany,Finance,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Supply Chain,Advanced Analytics,0,2025-07-01 00:00:00,2,0,2,0.0,1.0,
+France,People,Advanced Analytics,0,2025-01-01 00:00:00,2,2,0,1.0,0.0,9.5
+UK,Customer Support,Stakeholder Management,0,2025-10-01 00:00:00,4,0,4,0.0,1.0,
+UK,People,Data Protection,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,6.0
+UK,Commercial,Advanced Analytics,0,2025-10-01 00:00:00,4,2,2,0.5,0.5,26.5
+UK,Commercial,Leadership Essentials,0,2025-04-01 00:00:00,6,3,3,0.5,0.5,16.3
+France,Customer Support,Advanced Analytics,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+France,People,Data Protection,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,6.0
+France,Sales,Code of Conduct,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Stakeholder Management,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,8.0
+France,Supply Chain,Advanced Analytics,0,2026-02-01 00:00:00,4,1,0,0.25,0.0,37.0
+UK,People,Health and Safety,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,4.5
+France,Technology,Stakeholder Management,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,8.0
+Netherlands,Technology,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,13.0
+Netherlands,Technology,Stakeholder Management,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,25.0
+Netherlands,Sales,Health and Safety,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,4.0
+France,Technology,Advanced Analytics,0,2025-09-01 00:00:00,3,1,2,0.3333,0.6667,7.0
+Germany,Supply Chain,Code of Conduct,1,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Supply Chain,Data Protection,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Sales,Leadership Essentials,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Technology,Data Protection,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Technology,Leadership Essentials,0,2026-02-01 00:00:00,2,0,0,0.0,0.0,
+Germany,Operations,Stakeholder Management,0,2025-01-01 00:00:00,5,0,5,0.0,1.0,
+Netherlands,Commercial,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,16.0
+Ireland,Sales,Leadership Essentials,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Stakeholder Management,0,2025-04-01 00:00:00,3,3,0,1.0,0.0,19.0
+France,Customer Support,Advanced Analytics,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Customer Support,Data Protection,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,21.0
+France,Technology,Leadership Essentials,0,2025-05-01 00:00:00,2,1,1,0.5,0.5,9.0
+France,Supply Chain,Leadership Essentials,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+Netherlands,Finance,Leadership Essentials,0,2025-03-01 00:00:00,2,2,0,1.0,0.0,5.0
+UK,Commercial,Stakeholder Management,0,2026-03-01 00:00:00,3,2,0,0.6667,0.0,9.5
+UK,Customer Support,Health and Safety,1,2025-01-01 00:00:00,3,3,0,1.0,0.0,18.7
+Germany,People,Leadership Essentials,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,3.0
+Germany,Supply Chain,Code of Conduct,1,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,32.5
+Germany,Customer Support,Leadership Essentials,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,34.0
+UK,Customer Support,Data Protection,1,2025-02-01 00:00:00,6,6,0,1.0,0.0,17.5
+Netherlands,Finance,Leadership Essentials,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,18.0
+Germany,Operations,Data Protection,1,2025-09-01 00:00:00,4,2,2,0.5,0.5,44.0
+Netherlands,Commercial,Code of Conduct,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,18.0
+Netherlands,Finance,Code of Conduct,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,9.0
+France,Customer Support,Advanced Analytics,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,20.0
+Ireland,Supply Chain,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,41.0
+Germany,Sales,Health and Safety,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Data Protection,1,2025-07-01 00:00:00,2,2,0,1.0,0.0,9.5
+UK,People,Code of Conduct,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,6.0
+Ireland,Operations,Advanced Analytics,0,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Sales,Leadership Essentials,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,25.0
+Germany,Supply Chain,Code of Conduct,1,2025-03-01 00:00:00,2,1,1,0.5,0.5,41.0
+France,People,Stakeholder Management,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,14.0
+Germany,Commercial,Code of Conduct,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,12.0
+Ireland,Commercial,Health and Safety,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Commercial,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,33.0
+Germany,People,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,8.0
+France,Operations,Data Protection,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,44.0
+France,Supply Chain,Health and Safety,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Sales,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,31.0
+Netherlands,Sales,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,6.0
+Germany,Supply Chain,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,16.0
+France,People,Leadership Essentials,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,6.0
+France,Operations,Advanced Analytics,0,2025-12-01 00:00:00,2,0,2,0.0,1.0,
+Germany,People,Code of Conduct,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,7.0
+Netherlands,Supply Chain,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,6.0
+Germany,Operations,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,29.0
+France,Sales,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Operations,Code of Conduct,1,2025-10-01 00:00:00,2,1,1,0.5,0.5,45.0
+Netherlands,Supply Chain,Stakeholder Management,0,2025-11-01 00:00:00,2,1,1,0.5,0.5,32.0
+Germany,Sales,Advanced Analytics,0,2026-03-01 00:00:00,2,1,0,0.5,0.0,6.0
+UK,Finance,Code of Conduct,1,2025-09-01 00:00:00,2,2,0,1.0,0.0,6.0
+Ireland,Customer Support,Advanced Analytics,0,2026-03-01 00:00:00,3,1,0,0.3333,0.0,5.0
+Netherlands,Finance,Leadership Essentials,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,9.0
+Germany,People,Stakeholder Management,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,9.0
+Germany,Supply Chain,Code of Conduct,1,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Health and Safety,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,Commercial,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,32.0
+France,Finance,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,2.0
+Germany,Technology,Data Protection,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,7.0
+France,People,Health and Safety,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,2.0
+UK,Supply Chain,Data Protection,1,2025-01-01 00:00:00,2,1,1,0.5,0.5,8.0
+UK,Operations,Stakeholder Management,0,2026-02-01 00:00:00,21,11,0,0.5238,0.0,37.5
+UK,Operations,Advanced Analytics,0,2025-12-01 00:00:00,11,7,4,0.6364,0.3636,38.1
+UK,Technology,Data Protection,1,2026-03-01 00:00:00,4,4,0,1.0,0.0,8.0
+UK,Sales,Advanced Analytics,0,2025-08-01 00:00:00,5,4,1,0.8,0.2,20.3
+UK,Customer Support,Health and Safety,1,2026-03-01 00:00:00,3,1,0,0.3333,0.0,10.0
+Germany,Customer Support,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,Supply Chain,Health and Safety,1,2025-02-01 00:00:00,6,4,2,0.6667,0.3333,26.5
+Germany,Operations,Advanced Analytics,0,2025-03-01 00:00:00,4,0,4,0.0,1.0,
+Netherlands,Operations,Stakeholder Management,0,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+UK,Sales,Stakeholder Management,0,2025-12-01 00:00:00,3,3,0,1.0,0.0,19.3
+UK,Sales,Advanced Analytics,0,2025-03-01 00:00:00,8,3,5,0.375,0.625,15.7
+UK,Customer Support,Advanced Analytics,0,2025-03-01 00:00:00,6,3,3,0.5,0.5,21.0
+UK,Operations,Health and Safety,1,2025-07-01 00:00:00,6,5,1,0.8333,0.1667,29.6
+UK,Sales,Advanced Analytics,0,2026-01-01 00:00:00,7,5,0,0.7143,0.0,22.0
+UK,Sales,Leadership Essentials,0,2025-02-01 00:00:00,3,2,1,0.6667,0.3333,16.5
+UK,Supply Chain,Stakeholder Management,0,2025-05-01 00:00:00,8,4,4,0.5,0.5,17.5
+France,Sales,Leadership Essentials,0,2025-06-01 00:00:00,3,2,1,0.6667,0.3333,25.0
+Germany,Sales,Leadership Essentials,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,16.0
+UK,Finance,Health and Safety,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,6.5
+France,Supply Chain,Leadership Essentials,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Supply Chain,Leadership Essentials,0,2025-02-01 00:00:00,3,0,3,0.0,1.0,
+UK,Supply Chain,Advanced Analytics,0,2025-06-01 00:00:00,8,3,5,0.375,0.625,22.3
+UK,Technology,Leadership Essentials,0,2025-04-01 00:00:00,4,4,0,1.0,0.0,10.5
+UK,Supply Chain,Stakeholder Management,0,2025-08-01 00:00:00,7,3,4,0.4286,0.5714,33.7
+UK,Customer Support,Advanced Analytics,0,2025-05-01 00:00:00,5,3,2,0.6,0.4,19.3
+UK,People,Code of Conduct,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,3.5
+UK,Technology,Code of Conduct,1,2026-01-01 00:00:00,3,2,1,0.6667,0.3333,5.0
+France,Operations,Health and Safety,1,2025-10-01 00:00:00,2,2,0,1.0,0.0,29.5
+Germany,Operations,Data Protection,1,2026-02-01 00:00:00,2,1,1,0.5,0.5,15.0
+UK,Commercial,Leadership Essentials,0,2025-12-01 00:00:00,3,2,1,0.6667,0.3333,8.5
+France,Customer Support,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,7.0
+UK,Supply Chain,Data Protection,1,2025-11-01 00:00:00,5,4,1,0.8,0.2,26.0
+UK,People,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,14.0
+UK,Customer Support,Advanced Analytics,0,2025-08-01 00:00:00,4,2,2,0.5,0.5,13.5
+Germany,Finance,Advanced Analytics,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Operations,Stakeholder Management,0,2026-03-01 00:00:00,5,0,0,0.0,0.0,
+Netherlands,Operations,Advanced Analytics,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,60.0
+Netherlands,Operations,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,23.0
+UK,Customer Support,Advanced Analytics,0,2026-01-01 00:00:00,3,2,0,0.6667,0.0,25.5
+France,Supply Chain,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,23.0
+UK,Customer Support,Code of Conduct,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,26.0
+Netherlands,Technology,Stakeholder Management,0,2026-02-01 00:00:00,4,2,0,0.5,0.0,15.5
+Germany,Technology,Leadership Essentials,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,10.0
+Germany,Commercial,Health and Safety,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,18.0
+UK,Commercial,Stakeholder Management,0,2025-11-01 00:00:00,2,1,1,0.5,0.5,18.0
+UK,Supply Chain,Stakeholder Management,0,2026-01-01 00:00:00,8,2,2,0.25,0.25,27.0
+UK,Supply Chain,Code of Conduct,1,2026-02-01 00:00:00,5,5,0,1.0,0.0,21.2
+Germany,Operations,Leadership Essentials,0,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,18.0
+UK,Customer Support,Leadership Essentials,0,2025-10-01 00:00:00,7,4,3,0.5714,0.4286,14.3
+Germany,Operations,Advanced Analytics,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,27.0
+UK,Finance,Stakeholder Management,0,2025-10-01 00:00:00,3,3,0,1.0,0.0,7.0
+UK,Supply Chain,Stakeholder Management,0,2025-03-01 00:00:00,4,1,3,0.25,0.75,40.0
+UK,Operations,Data Protection,1,2025-01-01 00:00:00,6,4,2,0.6667,0.3333,22.0
+Germany,Operations,Advanced Analytics,0,2025-05-01 00:00:00,3,0,3,0.0,1.0,
+UK,Technology,Advanced Analytics,0,2025-10-01 00:00:00,3,3,0,1.0,0.0,13.3
+France,Supply Chain,Advanced Analytics,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Advanced Analytics,0,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,20.0
+UK,Supply Chain,Leadership Essentials,0,2025-07-01 00:00:00,5,2,3,0.4,0.6,32.0
+France,Sales,Advanced Analytics,0,2025-10-01 00:00:00,2,0,2,0.0,1.0,
+UK,Operations,Code of Conduct,1,2025-12-01 00:00:00,6,3,3,0.5,0.5,32.3
+UK,Technology,Stakeholder Management,0,2026-03-01 00:00:00,4,2,0,0.5,0.0,11.0
+Germany,People,Leadership Essentials,0,2025-04-01 00:00:00,3,2,1,0.6667,0.3333,13.0
+France,People,Leadership Essentials,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,18.0
+UK,Operations,Data Protection,1,2025-11-01 00:00:00,6,3,3,0.5,0.5,34.0
+Germany,Sales,Advanced Analytics,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,39.0
+Netherlands,Supply Chain,Advanced Analytics,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,49.0
+Germany,Customer Support,Advanced Analytics,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,17.0
+France,Technology,Data Protection,1,2025-12-01 00:00:00,2,1,1,0.5,0.5,18.0
+France,Finance,Leadership Essentials,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,9.0
+UK,Technology,Code of Conduct,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Supply Chain,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,27.0
+France,Commercial,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Customer Support,Leadership Essentials,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,28.0
+Netherlands,Customer Support,Data Protection,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,17.0
+France,Commercial,Data Protection,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,Sales,Advanced Analytics,0,2025-11-01 00:00:00,2,1,1,0.5,0.5,36.0
+France,Operations,Stakeholder Management,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,19.0
+France,Customer Support,Data Protection,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,20.0
+UK,People,Stakeholder Management,0,2025-09-01 00:00:00,2,2,0,1.0,0.0,12.0
+Germany,Customer Support,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,6.0
+Ireland,Operations,Leadership Essentials,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,13.0
+Ireland,Operations,Stakeholder Management,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+France,Commercial,Data Protection,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,21.0
+Germany,Supply Chain,Data Protection,1,2025-12-01 00:00:00,3,0,3,0.0,1.0,
+UK,Technology,Health and Safety,1,2025-07-01 00:00:00,3,3,0,1.0,0.0,11.7
+UK,Technology,Code of Conduct,1,2025-03-01 00:00:00,4,4,0,1.0,0.0,6.8
+France,Commercial,Data Protection,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,9.0
+Netherlands,Operations,Stakeholder Management,0,2026-01-01 00:00:00,2,1,0,0.5,0.0,41.0
+France,Finance,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,7.0
+UK,Finance,Code of Conduct,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,5.5
+Germany,Customer Support,Advanced Analytics,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Commercial,Health and Safety,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,11.0
+Ireland,Commercial,Advanced Analytics,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Operations,Advanced Analytics,0,2026-01-01 00:00:00,3,0,1,0.0,0.3333,
+France,Operations,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,38.0
+France,Operations,Advanced Analytics,0,2025-04-01 00:00:00,2,2,0,1.0,0.0,32.5
+UK,Commercial,Stakeholder Management,0,2025-01-01 00:00:00,2,2,0,1.0,0.0,16.0
+Netherlands,Operations,Stakeholder Management,0,2025-05-01 00:00:00,3,1,2,0.3333,0.6667,59.0
+Ireland,Supply Chain,Stakeholder Management,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Data Protection,1,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Supply Chain,Stakeholder Management,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+Ireland,Supply Chain,Advanced Analytics,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,42.0
+Netherlands,People,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,5.0
+Netherlands,Operations,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,33.0
+Netherlands,Operations,Code of Conduct,1,2025-10-01 00:00:00,2,1,1,0.5,0.5,30.0
+UK,Commercial,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,7.0
+Netherlands,Operations,Data Protection,1,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Operations,Health and Safety,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,22.0
+Netherlands,Commercial,Stakeholder Management,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Finance,Stakeholder Management,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Data Protection,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Customer Support,Stakeholder Management,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,32.0
+Ireland,Commercial,Stakeholder Management,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,4.0
+France,Commercial,Stakeholder Management,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+UK,Finance,Health and Safety,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,3.0
+Ireland,Finance,Advanced Analytics,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,7.0
+Ireland,Operations,Health and Safety,1,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Operations,Advanced Analytics,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,62.0
+UK,Sales,Data Protection,1,2025-04-01 00:00:00,3,2,1,0.6667,0.3333,14.5
+UK,Operations,Data Protection,1,2025-10-01 00:00:00,7,4,3,0.5714,0.4286,29.8
+UK,Operations,Leadership Essentials,0,2025-04-01 00:00:00,12,6,6,0.5,0.5,22.7
+Netherlands,Operations,Stakeholder Management,0,2025-09-01 00:00:00,4,3,1,0.75,0.25,38.7
+UK,Supply Chain,Data Protection,1,2025-10-01 00:00:00,8,8,0,1.0,0.0,26.0
+Ireland,Sales,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,10.0
+Germany,Technology,Stakeholder Management,0,2026-03-01 00:00:00,2,0,0,0.0,0.0,
+Germany,Finance,Advanced Analytics,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Technology,Code of Conduct,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,Customer Support,Leadership Essentials,0,2025-01-01 00:00:00,6,2,4,0.3333,0.6667,17.0
+Netherlands,Operations,Data Protection,1,2026-01-01 00:00:00,2,2,0,1.0,0.0,12.5
+Germany,Finance,Data Protection,1,2025-11-01 00:00:00,2,1,1,0.5,0.5,10.0
+France,Supply Chain,Leadership Essentials,0,2025-05-01 00:00:00,5,3,2,0.6,0.4,28.3
+UK,Sales,Stakeholder Management,0,2025-07-01 00:00:00,5,4,1,0.8,0.2,19.3
+France,Supply Chain,Stakeholder Management,0,2025-06-01 00:00:00,4,2,2,0.5,0.5,40.5
+UK,Commercial,Advanced Analytics,0,2026-03-01 00:00:00,3,1,0,0.3333,0.0,15.0
+UK,Operations,Advanced Analytics,0,2025-07-01 00:00:00,12,1,11,0.0833,0.9167,37.0
+Germany,Sales,Leadership Essentials,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Technology,Advanced Analytics,0,2025-11-01 00:00:00,4,3,1,0.75,0.25,17.3
+Germany,Supply Chain,Health and Safety,1,2025-04-01 00:00:00,4,2,2,0.5,0.5,26.0
+UK,People,Stakeholder Management,0,2025-05-01 00:00:00,2,2,0,1.0,0.0,6.5
+UK,Commercial,Stakeholder Management,0,2025-10-01 00:00:00,3,3,0,1.0,0.0,14.7
+Netherlands,Technology,Code of Conduct,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,6.0
+Germany,Operations,Code of Conduct,1,2026-03-01 00:00:00,3,2,0,0.6667,0.0,7.0
+UK,Supply Chain,Stakeholder Management,0,2025-09-01 00:00:00,5,3,2,0.6,0.4,30.7
+UK,Operations,Health and Safety,1,2025-12-01 00:00:00,8,3,5,0.375,0.625,18.3
+France,Supply Chain,Data Protection,1,2025-06-01 00:00:00,4,2,2,0.5,0.5,25.0
+Germany,Sales,Leadership Essentials,0,2026-01-01 00:00:00,3,1,1,0.3333,0.3333,24.0
+UK,Finance,Advanced Analytics,0,2025-02-01 00:00:00,3,3,0,1.0,0.0,9.7
+Germany,Operations,Advanced Analytics,0,2025-09-01 00:00:00,3,0,3,0.0,1.0,
+UK,Finance,Stakeholder Management,0,2025-11-01 00:00:00,3,2,1,0.6667,0.3333,9.5
+France,Supply Chain,Advanced Analytics,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Technology,Advanced Analytics,0,2025-01-01 00:00:00,4,3,1,0.75,0.25,16.3
+UK,Customer Support,Advanced Analytics,0,2025-09-01 00:00:00,7,4,3,0.5714,0.4286,17.5
+UK,Finance,Stakeholder Management,0,2025-01-01 00:00:00,4,4,0,1.0,0.0,14.8
+France,Operations,Health and Safety,1,2025-11-01 00:00:00,2,1,1,0.5,0.5,17.0
+Germany,Operations,Health and Safety,1,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,33.0
+UK,Customer Support,Stakeholder Management,0,2026-03-01 00:00:00,6,4,0,0.6667,0.0,12.3
+Germany,Finance,Code of Conduct,1,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Leadership Essentials,0,2025-05-01 00:00:00,3,1,2,0.3333,0.6667,10.0
+UK,Customer Support,Leadership Essentials,0,2025-11-01 00:00:00,6,1,5,0.1667,0.8333,14.0
+France,Customer Support,Stakeholder Management,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,9.0
+France,Supply Chain,Advanced Analytics,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Commercial,Code of Conduct,1,2025-02-01 00:00:00,2,2,0,1.0,0.0,18.0
+UK,Finance,Data Protection,1,2025-05-01 00:00:00,3,3,0,1.0,0.0,3.3
+Germany,Supply Chain,Advanced Analytics,0,2025-04-01 00:00:00,3,0,3,0.0,1.0,
+Ireland,Operations,Health and Safety,1,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Advanced Analytics,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+Netherlands,Customer Support,Advanced Analytics,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,34.0
+UK,People,Advanced Analytics,0,2026-03-01 00:00:00,4,4,0,1.0,0.0,6.0
+UK,People,Stakeholder Management,0,2025-03-01 00:00:00,3,3,0,1.0,0.0,12.0
+Germany,Customer Support,Code of Conduct,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,22.0
+Germany,Supply Chain,Data Protection,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,15.0
+France,Customer Support,Leadership Essentials,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+UK,Supply Chain,Leadership Essentials,0,2025-12-01 00:00:00,6,3,3,0.5,0.5,37.0
+France,Commercial,Advanced Analytics,0,2026-01-01 00:00:00,2,2,0,1.0,0.0,27.5
+UK,People,Leadership Essentials,0,2025-11-01 00:00:00,5,5,0,1.0,0.0,5.6
+UK,Operations,Code of Conduct,1,2025-07-01 00:00:00,6,5,1,0.8333,0.1667,32.8
+Germany,Customer Support,Leadership Essentials,0,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,17.0
+Germany,Customer Support,Leadership Essentials,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,42.0
+UK,Sales,Advanced Analytics,0,2025-09-01 00:00:00,5,4,1,0.8,0.2,16.0
+France,Supply Chain,Leadership Essentials,0,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Technology,Leadership Essentials,0,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+France,Supply Chain,Leadership Essentials,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+Netherlands,Finance,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,1.0
+Netherlands,Finance,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,16.0
+Germany,Customer Support,Leadership Essentials,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,29.0
+Netherlands,Operations,Code of Conduct,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,28.5
+Germany,People,Code of Conduct,1,2025-06-01 00:00:00,2,2,0,1.0,0.0,7.5
+Germany,Supply Chain,Code of Conduct,1,2026-02-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Sales,Health and Safety,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,17.5
+Ireland,Operations,Data Protection,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+UK,Customer Support,Data Protection,1,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Supply Chain,Data Protection,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,26.0
+France,Commercial,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,23.0
+France,Supply Chain,Advanced Analytics,0,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+Ireland,Operations,Health and Safety,1,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+France,Operations,Data Protection,1,2025-06-01 00:00:00,2,2,0,1.0,0.0,16.0
+France,People,Leadership Essentials,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Finance,Leadership Essentials,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,7.0
+Netherlands,Commercial,Stakeholder Management,0,2025-08-01 00:00:00,2,2,0,1.0,0.0,17.0
+France,Operations,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,People,Leadership Essentials,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,12.0
+Germany,Sales,Data Protection,1,2025-06-01 00:00:00,3,2,1,0.6667,0.3333,22.0
+France,Customer Support,Code of Conduct,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Health and Safety,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,Technology,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,14.0
+Germany,People,Stakeholder Management,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,4.0
+UK,Finance,Data Protection,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,8.0
+Netherlands,Supply Chain,Advanced Analytics,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,7.0
+Germany,Commercial,Advanced Analytics,0,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Code of Conduct,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Commercial,Data Protection,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,24.0
+Netherlands,Customer Support,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,2.0
+France,Supply Chain,Leadership Essentials,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Sales,Leadership Essentials,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Operations,Code of Conduct,1,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Customer Support,Data Protection,1,2025-10-01 00:00:00,3,3,0,1.0,0.0,14.3
+UK,People,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,10.0
+Netherlands,Operations,Data Protection,1,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+UK,Finance,Health and Safety,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,8.0
+Ireland,Sales,Leadership Essentials,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+Germany,Commercial,Data Protection,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,22.0
+Germany,Technology,Leadership Essentials,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,19.0
+Germany,Customer Support,Leadership Essentials,0,2026-01-01 00:00:00,3,1,0,0.3333,0.0,31.0
+UK,Commercial,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,29.0
+France,Technology,Stakeholder Management,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,18.0
+UK,People,Stakeholder Management,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,10.0
+Ireland,Technology,Stakeholder Management,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,29.0
+Germany,Finance,Advanced Analytics,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,3.0
+Germany,Operations,Advanced Analytics,0,2025-12-01 00:00:00,4,1,3,0.25,0.75,47.0
+Netherlands,Operations,Advanced Analytics,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,8.0
+UK,Customer Support,Health and Safety,1,2025-06-01 00:00:00,4,4,0,1.0,0.0,16.0
+UK,Operations,Code of Conduct,1,2026-01-01 00:00:00,11,11,0,1.0,0.0,28.9
+Germany,Supply Chain,Data Protection,1,2025-05-01 00:00:00,3,0,3,0.0,1.0,
+UK,Operations,Code of Conduct,1,2025-03-01 00:00:00,6,2,4,0.3333,0.6667,24.5
+UK,Operations,Advanced Analytics,0,2026-01-01 00:00:00,21,8,0,0.381,0.0,41.9
+UK,People,Stakeholder Management,0,2025-07-01 00:00:00,2,2,0,1.0,0.0,10.5
+UK,Operations,Code of Conduct,1,2025-05-01 00:00:00,12,8,4,0.6667,0.3333,30.6
+UK,Sales,Leadership Essentials,0,2025-10-01 00:00:00,6,5,1,0.8333,0.1667,19.8
+UK,Operations,Advanced Analytics,0,2025-05-01 00:00:00,19,10,9,0.5263,0.4737,26.4
+France,Customer Support,Code of Conduct,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,21.0
+UK,Operations,Health and Safety,1,2025-09-01 00:00:00,9,4,5,0.4444,0.5556,26.8
+UK,Sales,Stakeholder Management,0,2026-01-01 00:00:00,5,4,0,0.8,0.0,10.5
+UK,Supply Chain,Stakeholder Management,0,2025-12-01 00:00:00,4,4,0,1.0,0.0,28.8
+Ireland,Supply Chain,Data Protection,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,11.5
+France,Operations,Health and Safety,1,2025-02-01 00:00:00,2,1,1,0.5,0.5,23.0
+UK,Sales,Stakeholder Management,0,2025-03-01 00:00:00,3,1,2,0.3333,0.6667,10.0
+UK,Sales,Advanced Analytics,0,2025-12-01 00:00:00,6,6,0,1.0,0.0,28.0
+UK,Operations,Advanced Analytics,0,2025-03-01 00:00:00,14,7,7,0.5,0.5,31.7
+UK,Operations,Advanced Analytics,0,2025-08-01 00:00:00,11,5,6,0.4545,0.5455,35.0
+France,Supply Chain,Leadership Essentials,0,2025-07-01 00:00:00,4,2,2,0.5,0.5,47.5
+UK,Operations,Code of Conduct,1,2025-08-01 00:00:00,12,7,5,0.5833,0.4167,34.1
+UK,Operations,Leadership Essentials,0,2026-02-01 00:00:00,11,7,0,0.6364,0.0,34.4
+France,Supply Chain,Advanced Analytics,0,2025-07-01 00:00:00,3,1,2,0.3333,0.6667,41.0
+Germany,Commercial,Leadership Essentials,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,8.0
+Germany,Technology,Data Protection,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,8.0
+Netherlands,Commercial,Advanced Analytics,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,2.0
+UK,Finance,Advanced Analytics,0,2025-01-01 00:00:00,10,9,1,0.9,0.1,10.2
+UK,Supply Chain,Leadership Essentials,0,2025-09-01 00:00:00,8,2,6,0.25,0.75,40.5
+Netherlands,Operations,Data Protection,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Sales,Health and Safety,1,2026-02-01 00:00:00,3,1,2,0.3333,0.6667,18.0
+UK,Supply Chain,Advanced Analytics,0,2026-03-01 00:00:00,11,5,0,0.4545,0.0,13.2
+France,Commercial,Data Protection,1,2025-12-01 00:00:00,2,1,1,0.5,0.5,7.0
+Germany,Operations,Stakeholder Management,0,2025-06-01 00:00:00,5,0,5,0.0,1.0,
+Germany,Sales,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,11.0
+France,People,Stakeholder Management,0,2025-01-01 00:00:00,2,2,0,1.0,0.0,5.5
+Netherlands,Supply Chain,Advanced Analytics,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Finance,Data Protection,1,2025-07-01 00:00:00,3,3,0,1.0,0.0,6.3
+France,Customer Support,Stakeholder Management,0,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+UK,Supply Chain,Health and Safety,1,2025-10-01 00:00:00,7,7,0,1.0,0.0,24.7
+UK,Customer Support,Leadership Essentials,0,2025-02-01 00:00:00,4,1,3,0.25,0.75,18.0
+Netherlands,Operations,Leadership Essentials,0,2025-10-01 00:00:00,2,2,0,1.0,0.0,50.5
+France,Customer Support,Leadership Essentials,0,2025-01-01 00:00:00,3,1,2,0.3333,0.6667,42.0
+France,Operations,Stakeholder Management,0,2026-01-01 00:00:00,3,1,0,0.3333,0.0,56.0
+France,Operations,Stakeholder Management,0,2025-05-01 00:00:00,4,2,2,0.5,0.5,52.5
+Germany,Supply Chain,Leadership Essentials,0,2025-10-01 00:00:00,3,1,2,0.3333,0.6667,17.0
+UK,Technology,Advanced Analytics,0,2025-02-01 00:00:00,3,3,0,1.0,0.0,11.0
+Germany,Technology,Leadership Essentials,0,2025-07-01 00:00:00,4,3,1,0.75,0.25,15.0
+Netherlands,Sales,Stakeholder Management,0,2025-11-01 00:00:00,3,2,1,0.6667,0.3333,22.0
+Netherlands,Operations,Advanced Analytics,0,2025-08-01 00:00:00,3,3,0,1.0,0.0,40.7
+UK,Customer Support,Advanced Analytics,0,2025-12-01 00:00:00,3,1,2,0.3333,0.6667,31.0
+France,Supply Chain,Health and Safety,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,20.5
+Ireland,Operations,Health and Safety,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,11.0
+UK,Customer Support,Code of Conduct,1,2025-10-01 00:00:00,2,1,1,0.5,0.5,15.0
+France,Technology,Data Protection,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,17.0
+France,Technology,Leadership Essentials,0,2025-04-01 00:00:00,2,2,0,1.0,0.0,21.5
+Netherlands,Sales,Advanced Analytics,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,34.0
+UK,Technology,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,8.0
+UK,People,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,7.0
+France,Supply Chain,Health and Safety,1,2026-01-01 00:00:00,3,2,1,0.6667,0.3333,34.5
+Ireland,Customer Support,Leadership Essentials,0,2025-09-01 00:00:00,2,2,0,1.0,0.0,18.5
+France,Operations,Stakeholder Management,0,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Supply Chain,Stakeholder Management,0,2025-06-01 00:00:00,3,1,2,0.3333,0.6667,24.0
+Ireland,Technology,Leadership Essentials,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,13.0
+Netherlands,Supply Chain,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,13.0
+UK,Sales,Data Protection,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,12.5
+Germany,Customer Support,Advanced Analytics,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,9.0
+Ireland,Technology,Advanced Analytics,0,2025-06-01 00:00:00,2,1,1,0.5,0.5,4.0
+Germany,Customer Support,Leadership Essentials,0,2025-07-01 00:00:00,2,1,1,0.5,0.5,17.0
+Germany,Operations,Health and Safety,1,2026-02-01 00:00:00,5,2,3,0.4,0.6,33.0
+France,Technology,Data Protection,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,16.0
+UK,People,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,8.0
+Germany,Customer Support,Stakeholder Management,0,2026-03-01 00:00:00,2,1,0,0.5,0.0,18.0
+Ireland,Operations,Code of Conduct,1,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+UK,People,Leadership Essentials,0,2025-02-01 00:00:00,4,4,0,1.0,0.0,9.5
+France,Customer Support,Leadership Essentials,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,15.0
+UK,Technology,Data Protection,1,2025-06-01 00:00:00,2,2,0,1.0,0.0,9.0
+Netherlands,Finance,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,8.0
+UK,Sales,Stakeholder Management,0,2025-08-01 00:00:00,2,2,0,1.0,0.0,22.0
+Ireland,People,Stakeholder Management,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,6.0
+Germany,Commercial,Data Protection,1,2025-07-01 00:00:00,2,2,0,1.0,0.0,10.5
+France,Customer Support,Advanced Analytics,0,2025-04-01 00:00:00,3,0,3,0.0,1.0,
+UK,Finance,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,4.0
+UK,Commercial,Leadership Essentials,0,2025-05-01 00:00:00,3,3,0,1.0,0.0,17.3
+Ireland,Finance,Advanced Analytics,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,23.0
+France,People,Leadership Essentials,0,2025-07-01 00:00:00,3,3,0,1.0,0.0,9.0
+UK,Finance,Advanced Analytics,0,2025-11-01 00:00:00,2,2,0,1.0,0.0,9.0
+Germany,People,Stakeholder Management,0,2025-04-01 00:00:00,3,2,1,0.6667,0.3333,6.5
+Netherlands,Supply Chain,Advanced Analytics,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,35.0
+Netherlands,Supply Chain,Advanced Analytics,0,2025-03-01 00:00:00,2,2,0,1.0,0.0,12.5
+Germany,Supply Chain,Code of Conduct,1,2025-04-01 00:00:00,3,0,3,0.0,1.0,
+UK,Commercial,Code of Conduct,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,5.0
+UK,Sales,Stakeholder Management,0,2025-05-01 00:00:00,3,3,0,1.0,0.0,21.0
+France,Operations,Leadership Essentials,0,2026-02-01 00:00:00,4,1,0,0.25,0.0,26.0
+France,People,Data Protection,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,3.0
+France,Operations,Code of Conduct,1,2025-09-01 00:00:00,4,3,1,0.75,0.25,19.3
+Germany,People,Advanced Analytics,0,2025-06-01 00:00:00,2,2,0,1.0,0.0,17.0
+Netherlands,Commercial,Stakeholder Management,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,30.0
+Netherlands,Supply Chain,Code of Conduct,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,16.0
+Germany,Supply Chain,Data Protection,1,2025-08-01 00:00:00,4,4,0,1.0,0.0,33.3
+Ireland,Operations,Advanced Analytics,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Advanced Analytics,0,2026-03-01 00:00:00,3,1,0,0.3333,0.0,0.0
+Netherlands,Sales,Health and Safety,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,10.0
+Netherlands,Sales,Advanced Analytics,0,2025-01-01 00:00:00,2,1,1,0.5,0.5,30.0
+Germany,Supply Chain,Data Protection,1,2025-03-01 00:00:00,2,1,1,0.5,0.5,12.0
+Germany,Supply Chain,Data Protection,1,2026-01-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,Operations,Code of Conduct,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,43.0
+Netherlands,Operations,Stakeholder Management,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,46.0
+France,People,Advanced Analytics,0,2025-06-01 00:00:00,2,2,0,1.0,0.0,7.5
+France,Sales,Stakeholder Management,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,6.0
+France,Supply Chain,Code of Conduct,1,2026-01-01 00:00:00,2,2,0,1.0,0.0,27.5
+Netherlands,Supply Chain,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,38.0
+Netherlands,Supply Chain,Advanced Analytics,0,2026-01-01 00:00:00,2,1,0,0.5,0.0,52.0
+Ireland,Finance,Leadership Essentials,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,21.0
+France,People,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,4.0
+UK,Commercial,Data Protection,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,13.0
+France,Finance,Leadership Essentials,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+UK,Technology,Stakeholder Management,0,2025-06-01 00:00:00,2,1,1,0.5,0.5,25.0
+Ireland,Operations,Advanced Analytics,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+France,Commercial,Code of Conduct,1,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Leadership Essentials,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,People,Leadership Essentials,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,7.0
+Netherlands,Finance,Leadership Essentials,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,Commercial,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,19.0
+Ireland,Commercial,Data Protection,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,5.0
+Ireland,Customer Support,Code of Conduct,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,11.0
+France,Commercial,Leadership Essentials,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Leadership Essentials,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Customer Support,Advanced Analytics,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,17.0
+UK,Supply Chain,Stakeholder Management,0,2025-01-01 00:00:00,7,3,4,0.4286,0.5714,38.7
+Netherlands,Operations,Stakeholder Management,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Operations,Health and Safety,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,25.0
+France,Customer Support,Health and Safety,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,30.0
+Germany,Operations,Leadership Essentials,0,2025-06-01 00:00:00,5,2,3,0.4,0.6,38.5
+UK,Customer Support,Advanced Analytics,0,2025-01-01 00:00:00,5,2,3,0.4,0.6,17.5
+Ireland,Operations,Data Protection,1,2025-05-01 00:00:00,3,3,0,1.0,0.0,30.7
+UK,Operations,Data Protection,1,2025-08-01 00:00:00,10,6,4,0.6,0.4,19.2
+Germany,Customer Support,Advanced Analytics,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Stakeholder Management,0,2026-01-01 00:00:00,3,2,1,0.6667,0.3333,20.5
+UK,Supply Chain,Data Protection,1,2025-03-01 00:00:00,7,4,3,0.5714,0.4286,30.5
+France,Operations,Advanced Analytics,0,2025-06-01 00:00:00,2,1,1,0.5,0.5,30.0
+UK,Customer Support,Stakeholder Management,0,2026-02-01 00:00:00,4,1,0,0.25,0.0,5.0
+UK,Operations,Data Protection,1,2026-01-01 00:00:00,11,7,4,0.6364,0.3636,24.0
+Germany,Operations,Advanced Analytics,0,2025-11-01 00:00:00,6,0,6,0.0,1.0,
+UK,Supply Chain,Stakeholder Management,0,2025-11-01 00:00:00,6,3,3,0.5,0.5,39.0
+UK,Finance,Leadership Essentials,0,2026-02-01 00:00:00,5,5,0,1.0,0.0,8.8
+Netherlands,Commercial,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,9.0
+Netherlands,Commercial,Stakeholder Management,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,28.0
+UK,Supply Chain,Data Protection,1,2026-01-01 00:00:00,8,5,3,0.625,0.375,23.6
+Germany,Operations,Advanced Analytics,0,2025-01-01 00:00:00,8,0,8,0.0,1.0,
+UK,Supply Chain,Leadership Essentials,0,2025-02-01 00:00:00,9,6,3,0.6667,0.3333,29.2
+Ireland,Technology,Stakeholder Management,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,9.0
+UK,Supply Chain,Health and Safety,1,2025-07-01 00:00:00,4,2,2,0.5,0.5,26.0
+UK,Technology,Advanced Analytics,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,22.0
+UK,Supply Chain,Advanced Analytics,0,2025-04-01 00:00:00,4,3,1,0.75,0.25,41.3
+UK,Finance,Advanced Analytics,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,8.0
+France,Technology,Stakeholder Management,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,Commercial,Stakeholder Management,0,2025-05-01 00:00:00,3,1,2,0.3333,0.6667,8.0
+UK,Operations,Health and Safety,1,2025-02-01 00:00:00,8,4,4,0.5,0.5,28.5
+France,Technology,Leadership Essentials,0,2026-03-01 00:00:00,2,2,0,1.0,0.0,14.5
+Germany,Finance,Stakeholder Management,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,7.0
+Ireland,Supply Chain,Stakeholder Management,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,40.0
+France,People,Leadership Essentials,0,2025-10-01 00:00:00,2,2,0,1.0,0.0,6.0
+UK,Supply Chain,Data Protection,1,2025-08-01 00:00:00,5,2,3,0.4,0.6,17.0
+UK,Commercial,Advanced Analytics,0,2026-02-01 00:00:00,2,2,0,1.0,0.0,12.0
+UK,Commercial,Stakeholder Management,0,2025-03-01 00:00:00,4,2,2,0.5,0.5,18.0
+France,Customer Support,Leadership Essentials,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,5.0
+Germany,Finance,Stakeholder Management,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Leadership Essentials,0,2025-07-01 00:00:00,5,2,3,0.4,0.6,32.0
+Ireland,Operations,Data Protection,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,34.0
+Netherlands,Sales,Health and Safety,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,Sales,Advanced Analytics,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,6.0
+UK,Commercial,Stakeholder Management,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,22.0
+UK,Sales,Advanced Analytics,0,2025-01-01 00:00:00,4,4,0,1.0,0.0,17.8
+Germany,People,Leadership Essentials,0,2025-06-01 00:00:00,2,2,0,1.0,0.0,13.5
+UK,Operations,Data Protection,1,2025-03-01 00:00:00,5,4,1,0.8,0.2,39.8
+Netherlands,Customer Support,Stakeholder Management,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,20.0
+Netherlands,Supply Chain,Data Protection,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Technology,Health and Safety,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,14.0
+UK,Customer Support,Advanced Analytics,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,15.0
+France,Customer Support,Data Protection,1,2025-09-01 00:00:00,2,1,1,0.5,0.5,11.0
+Ireland,Operations,Code of Conduct,1,2025-12-01 00:00:00,2,1,1,0.5,0.5,30.0
+UK,Operations,Data Protection,1,2025-05-01 00:00:00,9,4,5,0.4444,0.5556,25.0
+Ireland,Operations,Data Protection,1,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,Operations,Leadership Essentials,0,2025-07-01 00:00:00,2,1,1,0.5,0.5,15.0
+Germany,Technology,Stakeholder Management,0,2026-02-01 00:00:00,3,1,0,0.3333,0.0,15.0
+UK,Finance,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,2.0
+Germany,Customer Support,Data Protection,1,2025-03-01 00:00:00,3,2,1,0.6667,0.3333,20.5
+Germany,Sales,Leadership Essentials,0,2025-10-01 00:00:00,3,2,1,0.6667,0.3333,26.0
+Germany,Operations,Code of Conduct,1,2026-02-01 00:00:00,2,1,1,0.5,0.5,18.0
+Germany,Customer Support,Data Protection,1,2025-05-01 00:00:00,2,1,1,0.5,0.5,29.0
+UK,Sales,Code of Conduct,1,2025-06-01 00:00:00,3,3,0,1.0,0.0,14.7
+UK,Customer Support,Code of Conduct,1,2025-07-01 00:00:00,5,3,2,0.6,0.4,24.7
+Germany,Customer Support,Data Protection,1,2026-01-01 00:00:00,3,2,1,0.6667,0.3333,20.5
+UK,Finance,Health and Safety,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,4.5
+UK,Commercial,Code of Conduct,1,2025-04-01 00:00:00,3,3,0,1.0,0.0,15.0
+UK,Sales,Advanced Analytics,0,2025-11-01 00:00:00,2,1,1,0.5,0.5,32.0
+UK,Finance,Data Protection,1,2025-10-01 00:00:00,2,2,0,1.0,0.0,7.5
+Netherlands,Operations,Data Protection,1,2025-10-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Sales,Stakeholder Management,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,15.0
+Netherlands,Operations,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,Customer Support,Leadership Essentials,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,37.0
+France,Commercial,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,26.0
+France,Sales,Leadership Essentials,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,20.0
+Netherlands,Operations,Health and Safety,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,7.0
+Ireland,Operations,Health and Safety,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Health and Safety,1,2025-09-01 00:00:00,3,0,3,0.0,1.0,
+Netherlands,Customer Support,Advanced Analytics,0,2025-02-01 00:00:00,2,1,1,0.5,0.5,32.0
+Netherlands,Sales,Advanced Analytics,0,2025-12-01 00:00:00,2,2,0,1.0,0.0,16.0
+Ireland,Supply Chain,Leadership Essentials,0,2025-04-01 00:00:00,2,1,1,0.5,0.5,12.0
+Netherlands,Commercial,Data Protection,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,15.0
+Netherlands,Commercial,Advanced Analytics,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Commercial,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Customer Support,Stakeholder Management,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Leadership Essentials,0,2025-11-01 00:00:00,2,2,0,1.0,0.0,10.0
+Netherlands,Customer Support,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,Supply Chain,Leadership Essentials,0,2025-07-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,Supply Chain,Leadership Essentials,0,2025-06-01 00:00:00,2,0,2,0.0,1.0,
+France,Technology,Code of Conduct,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,5.0
+Germany,Finance,Data Protection,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,5.0
+Netherlands,Technology,Advanced Analytics,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,18.0
+Ireland,Sales,Advanced Analytics,0,2026-03-01 00:00:00,2,2,0,1.0,0.0,13.0
+Germany,Supply Chain,Code of Conduct,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,21.0
+Germany,Technology,Advanced Analytics,0,2025-04-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,People,Leadership Essentials,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,3.0
+UK,Technology,Leadership Essentials,0,2025-06-01 00:00:00,3,3,0,1.0,0.0,15.0
+Ireland,Operations,Stakeholder Management,0,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,21.0
+Netherlands,People,Leadership Essentials,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,9.0
+Netherlands,Operations,Health and Safety,1,2025-03-01 00:00:00,2,1,1,0.5,0.5,16.0
+UK,Technology,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,3.0
+Germany,Commercial,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,25.0
+Ireland,Customer Support,Advanced Analytics,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Advanced Analytics,0,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Customer Support,Data Protection,1,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+UK,Supply Chain,Data Protection,1,2025-05-01 00:00:00,3,3,0,1.0,0.0,20.7
+Germany,Technology,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,22.0
+UK,Commercial,Data Protection,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,20.0
+Ireland,Supply Chain,Data Protection,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+France,Sales,Health and Safety,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,8.0
+France,Sales,Stakeholder Management,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,31.0
+France,Supply Chain,Leadership Essentials,0,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Commercial,Leadership Essentials,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,32.0
+France,Commercial,Leadership Essentials,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+UK,People,Advanced Analytics,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Finance,Stakeholder Management,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Technology,Stakeholder Management,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Operations,Data Protection,1,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+UK,Supply Chain,Data Protection,1,2026-02-01 00:00:00,3,1,2,0.3333,0.6667,8.0
+UK,Customer Support,Stakeholder Management,0,2026-01-01 00:00:00,8,7,0,0.875,0.0,23.7
+UK,Operations,Health and Safety,1,2025-06-01 00:00:00,10,6,4,0.6,0.4,33.3
+UK,Customer Support,Health and Safety,1,2025-09-01 00:00:00,2,2,0,1.0,0.0,18.5
+Germany,Customer Support,Code of Conduct,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,21.0
+Germany,Technology,Code of Conduct,1,2025-07-01 00:00:00,2,2,0,1.0,0.0,16.0
+France,Finance,Stakeholder Management,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+Germany,Technology,Leadership Essentials,0,2026-03-01 00:00:00,2,1,0,0.5,0.0,1.0
+Netherlands,Finance,Advanced Analytics,0,2025-12-01 00:00:00,2,2,0,1.0,0.0,10.0
+UK,Finance,Leadership Essentials,0,2025-08-01 00:00:00,7,6,1,0.8571,0.1429,12.5
+Germany,Technology,Advanced Analytics,0,2025-07-01 00:00:00,3,3,0,1.0,0.0,19.7
+Germany,Customer Support,Code of Conduct,1,2025-05-01 00:00:00,2,1,1,0.5,0.5,14.0
+UK,Commercial,Advanced Analytics,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,6.0
+UK,Operations,Stakeholder Management,0,2025-01-01 00:00:00,19,11,8,0.5789,0.4211,35.3
+Netherlands,Operations,Health and Safety,1,2026-02-01 00:00:00,2,1,1,0.5,0.5,32.0
+UK,Finance,Leadership Essentials,0,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,15.5
+UK,Supply Chain,Health and Safety,1,2025-04-01 00:00:00,7,6,1,0.8571,0.1429,27.7
+Germany,Supply Chain,Stakeholder Management,0,2025-09-01 00:00:00,3,2,1,0.6667,0.3333,31.5
+France,Operations,Data Protection,1,2025-12-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Customer Support,Code of Conduct,1,2026-01-01 00:00:00,3,1,2,0.3333,0.6667,34.0
+UK,Operations,Stakeholder Management,0,2025-11-01 00:00:00,10,3,7,0.3,0.7,36.0
+Germany,Customer Support,Code of Conduct,1,2025-03-01 00:00:00,2,1,1,0.5,0.5,23.0
+Germany,Sales,Leadership Essentials,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,18.0
+France,Sales,Code of Conduct,1,2025-03-01 00:00:00,2,2,0,1.0,0.0,20.5
+UK,Finance,Leadership Essentials,0,2025-03-01 00:00:00,5,4,1,0.8,0.2,6.8
+France,Finance,Advanced Analytics,0,2025-05-01 00:00:00,3,3,0,1.0,0.0,8.0
+Ireland,People,Advanced Analytics,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Technology,Stakeholder Management,0,2025-01-01 00:00:00,2,2,0,1.0,0.0,13.0
+UK,Supply Chain,Code of Conduct,1,2025-11-01 00:00:00,4,3,1,0.75,0.25,17.0
+UK,People,Advanced Analytics,0,2026-01-01 00:00:00,2,2,0,1.0,0.0,9.0
+UK,Sales,Code of Conduct,1,2025-02-01 00:00:00,2,2,0,1.0,0.0,16.5
+France,Supply Chain,Stakeholder Management,0,2025-12-01 00:00:00,3,2,1,0.6667,0.3333,20.5
+Germany,Operations,Code of Conduct,1,2026-01-01 00:00:00,2,1,1,0.5,0.5,27.0
+Ireland,Finance,Code of Conduct,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,4.0
+UK,Customer Support,Stakeholder Management,0,2025-08-01 00:00:00,5,4,1,0.8,0.2,18.3
+Netherlands,Customer Support,Leadership Essentials,0,2025-11-01 00:00:00,2,2,0,1.0,0.0,25.0
+Ireland,Technology,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,4.0
+UK,People,Stakeholder Management,0,2026-03-01 00:00:00,2,2,0,1.0,0.0,6.5
+UK,Supply Chain,Advanced Analytics,0,2025-07-01 00:00:00,5,3,2,0.6,0.4,30.3
+Netherlands,Technology,Code of Conduct,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,1.0
+Netherlands,Sales,Code of Conduct,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,1.0
+Germany,Supply Chain,Leadership Essentials,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,9.0
+Netherlands,Sales,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Technology,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,5.0
+Netherlands,Sales,Health and Safety,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,11.0
+UK,Customer Support,Data Protection,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,18.5
+Germany,Sales,Data Protection,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,28.0
+Germany,Sales,Stakeholder Management,0,2025-04-01 00:00:00,2,2,0,1.0,0.0,35.5
+Netherlands,Operations,Leadership Essentials,0,2025-04-01 00:00:00,4,1,3,0.25,0.75,38.0
+UK,Technology,Health and Safety,1,2025-06-01 00:00:00,3,3,0,1.0,0.0,11.7
+Ireland,Operations,Leadership Essentials,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+UK,Customer Support,Stakeholder Management,0,2025-05-01 00:00:00,9,4,5,0.4444,0.5556,24.5
+France,Technology,Stakeholder Management,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,25.0
+Netherlands,Technology,Advanced Analytics,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,18.0
+Ireland,Technology,Advanced Analytics,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,28.0
+Ireland,Sales,Data Protection,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,25.0
+Netherlands,People,Code of Conduct,1,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,People,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,1.0
+Netherlands,Sales,Code of Conduct,1,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Commercial,Health and Safety,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Commercial,Leadership Essentials,0,2026-01-01 00:00:00,4,4,0,1.0,0.0,5.8
+UK,Commercial,Stakeholder Management,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,29.0
+UK,Technology,Leadership Essentials,0,2025-02-01 00:00:00,4,3,1,0.75,0.25,17.7
+Germany,Operations,Leadership Essentials,0,2025-02-01 00:00:00,4,0,4,0.0,1.0,
+UK,Customer Support,Code of Conduct,1,2025-04-01 00:00:00,3,2,1,0.6667,0.3333,17.5
+France,Finance,Stakeholder Management,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,7.0
+Germany,Commercial,Data Protection,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,Commercial,Advanced Analytics,0,2026-01-01 00:00:00,3,2,1,0.6667,0.3333,21.5
+Germany,Sales,Advanced Analytics,0,2026-02-01 00:00:00,2,0,0,0.0,0.0,
+Netherlands,Supply Chain,Stakeholder Management,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,29.0
+UK,People,Advanced Analytics,0,2025-08-01 00:00:00,3,2,1,0.6667,0.3333,7.5
+Germany,Customer Support,Data Protection,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,13.5
+France,Technology,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,23.0
+Germany,Operations,Code of Conduct,1,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+UK,Operations,Data Protection,1,2026-02-01 00:00:00,3,1,2,0.3333,0.6667,20.0
+France,Operations,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,48.0
+UK,Supply Chain,Leadership Essentials,0,2025-06-01 00:00:00,3,1,2,0.3333,0.6667,44.0
+Ireland,Commercial,Advanced Analytics,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Leadership Essentials,0,2025-04-01 00:00:00,5,3,2,0.6,0.4,8.7
+Germany,Commercial,Code of Conduct,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,23.0
+UK,Finance,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,Supply Chain,Code of Conduct,1,2025-01-01 00:00:00,3,2,1,0.6667,0.3333,32.5
+France,Finance,Advanced Analytics,0,2025-08-01 00:00:00,2,2,0,1.0,0.0,17.5
+Netherlands,Finance,Health and Safety,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,1.0
+UK,Customer Support,Stakeholder Management,0,2025-03-01 00:00:00,4,3,1,0.75,0.25,29.0
+France,Commercial,Advanced Analytics,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+UK,Commercial,Advanced Analytics,0,2025-03-01 00:00:00,3,2,1,0.6667,0.3333,22.5
+France,Supply Chain,Leadership Essentials,0,2026-03-01 00:00:00,2,0,0,0.0,0.0,
+France,Technology,Stakeholder Management,0,2025-03-01 00:00:00,3,1,2,0.3333,0.6667,8.0
+France,Sales,Code of Conduct,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Commercial,Leadership Essentials,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,5.0
+France,Finance,Stakeholder Management,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,10.0
+Netherlands,Customer Support,Leadership Essentials,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,18.0
+Germany,Supply Chain,Code of Conduct,1,2025-10-01 00:00:00,3,2,1,0.6667,0.3333,31.5
+France,Customer Support,Advanced Analytics,0,2025-10-01 00:00:00,2,2,0,1.0,0.0,17.5
+Germany,Operations,Stakeholder Management,0,2025-09-01 00:00:00,3,2,1,0.6667,0.3333,34.0
+Germany,Operations,Code of Conduct,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,49.0
+Netherlands,Sales,Leadership Essentials,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,32.0
+UK,Technology,Stakeholder Management,0,2025-09-01 00:00:00,3,3,0,1.0,0.0,12.7
+Germany,Customer Support,Leadership Essentials,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Finance,Stakeholder Management,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+Ireland,Supply Chain,Data Protection,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Commercial,Stakeholder Management,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Commercial,Leadership Essentials,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,10.0
+France,People,Advanced Analytics,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,13.0
+Ireland,Sales,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Operations,Code of Conduct,1,2025-05-01 00:00:00,2,1,1,0.5,0.5,14.0
+Germany,People,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,14.0
+Germany,People,Stakeholder Management,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,People,Data Protection,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,10.0
+Netherlands,Finance,Health and Safety,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,8.0
+UK,Commercial,Advanced Analytics,0,2025-08-01 00:00:00,3,2,1,0.6667,0.3333,18.5
+Netherlands,People,Leadership Essentials,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,10.0
+Netherlands,Commercial,Leadership Essentials,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,24.0
+France,Supply Chain,Data Protection,1,2025-12-01 00:00:00,2,1,1,0.5,0.5,17.0
+France,Technology,Stakeholder Management,0,2026-01-01 00:00:00,2,2,0,1.0,0.0,15.0
+Germany,Operations,Data Protection,1,2025-11-01 00:00:00,2,0,2,0.0,1.0,
+France,People,Code of Conduct,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,2.0
+Germany,Technology,Stakeholder Management,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Customer Support,Health and Safety,1,2025-11-01 00:00:00,3,3,0,1.0,0.0,14.3
+Netherlands,People,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Customer Support,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,16.0
+France,Supply Chain,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,17.0
+UK,People,Advanced Analytics,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Data Protection,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,Technology,Stakeholder Management,0,2025-05-01 00:00:00,2,1,1,0.5,0.5,10.0
+France,People,Leadership Essentials,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,5.0
+Ireland,Supply Chain,Advanced Analytics,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,33.0
+Ireland,Commercial,Health and Safety,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,5.0
+Germany,Finance,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Commercial,Code of Conduct,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,Finance,Code of Conduct,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,6.0
+France,Sales,Stakeholder Management,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,20.0
+Germany,Finance,Health and Safety,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,9.0
+Germany,Finance,Leadership Essentials,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,25.0
+Netherlands,Commercial,Data Protection,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Customer Support,Health and Safety,1,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+France,Sales,Code of Conduct,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,9.0
+Ireland,Supply Chain,Leadership Essentials,0,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Stakeholder Management,0,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,21.0
+UK,People,Advanced Analytics,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Germany,People,Advanced Analytics,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,17.0
+France,Finance,Advanced Analytics,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,22.0
+Netherlands,Finance,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,16.0
+UK,Customer Support,Leadership Essentials,0,2025-07-01 00:00:00,5,2,3,0.4,0.6,16.0
+France,Customer Support,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,6.0
+UK,Commercial,Data Protection,1,2025-10-01 00:00:00,2,2,0,1.0,0.0,12.0
+UK,Operations,Data Protection,1,2025-12-01 00:00:00,9,5,4,0.5556,0.4444,25.2
+Netherlands,Operations,Data Protection,1,2025-02-01 00:00:00,2,2,0,1.0,0.0,33.0
+UK,Operations,Advanced Analytics,0,2025-01-01 00:00:00,13,3,10,0.2308,0.7692,40.0
+France,Supply Chain,Advanced Analytics,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,23.0
+UK,Operations,Health and Safety,1,2025-10-01 00:00:00,10,6,4,0.6,0.4,27.3
+France,Operations,Health and Safety,1,2025-07-01 00:00:00,2,1,1,0.5,0.5,31.0
+France,Supply Chain,Health and Safety,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,41.0
+Germany,Supply Chain,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,33.0
+Germany,Supply Chain,Code of Conduct,1,2025-06-01 00:00:00,2,0,2,0.0,1.0,
+UK,People,Leadership Essentials,0,2025-07-01 00:00:00,3,3,0,1.0,0.0,10.0
+Germany,Commercial,Leadership Essentials,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,20.0
+Germany,Commercial,Advanced Analytics,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,10.0
+UK,Supply Chain,Leadership Essentials,0,2025-10-01 00:00:00,4,3,1,0.75,0.25,23.0
+UK,Technology,Leadership Essentials,0,2026-03-01 00:00:00,3,2,0,0.6667,0.0,2.5
+UK,Technology,Advanced Analytics,0,2025-07-01 00:00:00,4,3,1,0.75,0.25,13.3
+France,Supply Chain,Stakeholder Management,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+UK,Operations,Code of Conduct,1,2025-01-01 00:00:00,11,7,4,0.6364,0.3636,19.9
+Germany,Supply Chain,Data Protection,1,2025-11-01 00:00:00,3,1,2,0.3333,0.6667,29.0
+UK,Finance,Stakeholder Management,0,2025-07-01 00:00:00,6,5,1,0.8333,0.1667,10.2
+France,Operations,Stakeholder Management,0,2025-01-01 00:00:00,5,0,5,0.0,1.0,
+France,Technology,Leadership Essentials,0,2025-06-01 00:00:00,2,1,1,0.5,0.5,10.0
+UK,Finance,Advanced Analytics,0,2025-08-01 00:00:00,5,3,2,0.6,0.4,19.3
+France,Supply Chain,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,50.0
+UK,Sales,Leadership Essentials,0,2025-09-01 00:00:00,4,2,2,0.5,0.5,14.5
+Germany,Supply Chain,Leadership Essentials,0,2025-09-01 00:00:00,3,1,2,0.3333,0.6667,25.0
+France,Operations,Advanced Analytics,0,2026-03-01 00:00:00,4,1,0,0.25,0.0,3.0
+Netherlands,Operations,Advanced Analytics,0,2025-11-01 00:00:00,3,2,1,0.6667,0.3333,41.0
+Netherlands,Customer Support,Advanced Analytics,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,40.0
+UK,Operations,Code of Conduct,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,18.0
+UK,Supply Chain,Data Protection,1,2025-12-01 00:00:00,5,4,1,0.8,0.2,28.3
+France,People,Data Protection,1,2025-11-01 00:00:00,2,2,0,1.0,0.0,6.0
+Ireland,Technology,Stakeholder Management,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,16.0
+UK,Technology,Data Protection,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,7.0
+France,Sales,Data Protection,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,25.5
+UK,Operations,Advanced Analytics,0,2025-11-01 00:00:00,17,8,9,0.4706,0.5294,20.3
+Germany,Supply Chain,Stakeholder Management,0,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,53.0
+UK,Commercial,Leadership Essentials,0,2025-01-01 00:00:00,2,2,0,1.0,0.0,11.5
+Germany,Sales,Stakeholder Management,0,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Sales,Leadership Essentials,0,2025-02-01 00:00:00,2,0,2,0.0,1.0,
+Ireland,Operations,Code of Conduct,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,19.0
+Netherlands,Sales,Advanced Analytics,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,14.0
+Germany,Operations,Leadership Essentials,0,2026-03-01 00:00:00,3,2,0,0.6667,0.0,20.5
+France,Technology,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,11.0
+France,Operations,Stakeholder Management,0,2025-11-01 00:00:00,2,1,1,0.5,0.5,46.0
+Netherlands,Supply Chain,Health and Safety,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,27.0
+France,Supply Chain,Code of Conduct,1,2025-11-01 00:00:00,3,1,2,0.3333,0.6667,35.0
+Ireland,Operations,Stakeholder Management,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Sales,Stakeholder Management,0,2026-01-01 00:00:00,3,3,0,1.0,0.0,21.7
+Netherlands,Sales,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,23.0
+UK,People,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,5.0
+Ireland,Technology,Leadership Essentials,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,6.0
+Ireland,Customer Support,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,32.0
+UK,Sales,Stakeholder Management,0,2025-01-01 00:00:00,3,3,0,1.0,0.0,18.7
+France,Customer Support,Leadership Essentials,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Supply Chain,Advanced Analytics,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Operations,Code of Conduct,1,2025-05-01 00:00:00,2,1,1,0.5,0.5,26.0
+UK,Technology,Health and Safety,1,2025-10-01 00:00:00,2,2,0,1.0,0.0,12.0
+UK,Finance,Advanced Analytics,0,2025-03-01 00:00:00,3,3,0,1.0,0.0,9.0
+UK,Supply Chain,Health and Safety,1,2025-09-01 00:00:00,2,1,1,0.5,0.5,28.0
+France,Commercial,Code of Conduct,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,4.0
+Netherlands,Commercial,Advanced Analytics,0,2025-05-01 00:00:00,2,1,1,0.5,0.5,1.0
+France,People,Stakeholder Management,0,2026-01-01 00:00:00,2,1,0,0.5,0.0,17.0
+UK,Finance,Advanced Analytics,0,2026-01-01 00:00:00,4,3,0,0.75,0.0,16.3
+Ireland,Commercial,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,16.0
+Germany,Finance,Leadership Essentials,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,4.0
+UK,Commercial,Stakeholder Management,0,2025-12-01 00:00:00,3,3,0,1.0,0.0,11.0
+France,Supply Chain,Code of Conduct,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,43.0
+Netherlands,Supply Chain,Leadership Essentials,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+Ireland,Operations,Advanced Analytics,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Code of Conduct,1,2025-10-01 00:00:00,2,1,1,0.5,0.5,14.0
+France,Supply Chain,Health and Safety,1,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Stakeholder Management,0,2025-11-01 00:00:00,2,2,0,1.0,0.0,21.5
+Netherlands,Supply Chain,Data Protection,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,40.0
+Netherlands,Operations,Code of Conduct,1,2025-07-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,Operations,Advanced Analytics,0,2025-01-01 00:00:00,4,3,1,0.75,0.25,22.0
+Ireland,Customer Support,Data Protection,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,16.0
+France,People,Advanced Analytics,0,2025-04-01 00:00:00,3,3,0,1.0,0.0,3.7
+Germany,Operations,Stakeholder Management,0,2025-04-01 00:00:00,2,1,1,0.5,0.5,62.0
+UK,Customer Support,Code of Conduct,1,2025-09-01 00:00:00,2,2,0,1.0,0.0,28.0
+UK,Customer Support,Health and Safety,1,2025-04-01 00:00:00,4,2,2,0.5,0.5,21.0
+Germany,Finance,Stakeholder Management,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,16.0
+Ireland,Operations,Data Protection,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,38.0
+Germany,People,Leadership Essentials,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,11.0
+UK,Finance,Advanced Analytics,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,Finance,Data Protection,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,5.0
+France,Finance,Health and Safety,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,9.0
+France,Commercial,Code of Conduct,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,4.0
+Netherlands,Finance,Stakeholder Management,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,4.0
+Netherlands,Operations,Leadership Essentials,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+France,Commercial,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,22.0
+France,Customer Support,Advanced Analytics,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,6.0
+France,Operations,Data Protection,1,2026-02-01 00:00:00,2,1,1,0.5,0.5,27.0
+Ireland,Commercial,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,4.0
+Netherlands,Sales,Stakeholder Management,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,29.0
+France,Commercial,Advanced Analytics,0,2025-02-01 00:00:00,2,1,1,0.5,0.5,24.0
+Ireland,Operations,Advanced Analytics,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,33.0
+UK,Technology,Stakeholder Management,0,2025-04-01 00:00:00,4,3,1,0.75,0.25,9.7
+Germany,People,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Supply Chain,Advanced Analytics,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+France,Customer Support,Stakeholder Management,0,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Supply Chain,Code of Conduct,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,36.0
+UK,People,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Commercial,Leadership Essentials,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,25.0
+Germany,Commercial,Leadership Essentials,0,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+UK,People,Data Protection,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,7.0
+Germany,Commercial,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,15.0
+France,People,Stakeholder Management,0,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Commercial,Stakeholder Management,0,2025-04-01 00:00:00,2,1,1,0.5,0.5,15.0
+Germany,People,Advanced Analytics,0,2025-04-01 00:00:00,2,2,0,1.0,0.0,4.0
+France,Supply Chain,Data Protection,1,2026-02-01 00:00:00,2,1,1,0.5,0.5,20.0
+Ireland,Customer Support,Code of Conduct,1,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Customer Support,Leadership Essentials,0,2025-02-01 00:00:00,2,0,2,0.0,1.0,
+France,People,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,4.0
+Ireland,Technology,Advanced Analytics,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,21.0
+Ireland,Operations,Code of Conduct,1,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Health and Safety,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,Sales,Data Protection,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,24.0
+Ireland,Sales,Advanced Analytics,0,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Leadership Essentials,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,22.0
+Netherlands,Finance,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,Operations,Data Protection,1,2025-02-01 00:00:00,11,8,3,0.7273,0.2727,37.0
+UK,Customer Support,Stakeholder Management,0,2025-06-01 00:00:00,3,2,1,0.6667,0.3333,25.0
+France,Customer Support,Stakeholder Management,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,19.0
+UK,Operations,Health and Safety,1,2025-05-01 00:00:00,6,4,2,0.6667,0.3333,26.8
+UK,Commercial,Advanced Analytics,0,2025-06-01 00:00:00,4,2,2,0.5,0.5,18.5
+UK,Operations,Advanced Analytics,0,2025-09-01 00:00:00,14,6,8,0.4286,0.5714,32.7
+UK,Supply Chain,Health and Safety,1,2025-01-01 00:00:00,3,2,1,0.6667,0.3333,31.5
+France,Operations,Data Protection,1,2026-03-01 00:00:00,2,0,0,0.0,0.0,
+UK,Supply Chain,Leadership Essentials,0,2025-03-01 00:00:00,7,3,4,0.4286,0.5714,23.7
+France,Supply Chain,Advanced Analytics,0,2025-12-01 00:00:00,3,1,2,0.3333,0.6667,36.0
+UK,Operations,Stakeholder Management,0,2025-04-01 00:00:00,16,5,11,0.3125,0.6875,27.2
+France,Supply Chain,Leadership Essentials,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,31.0
+UK,Technology,Health and Safety,1,2025-03-01 00:00:00,5,5,0,1.0,0.0,9.8
+France,Operations,Code of Conduct,1,2026-01-01 00:00:00,3,0,3,0.0,1.0,
+Germany,Operations,Leadership Essentials,0,2026-02-01 00:00:00,3,1,0,0.3333,0.0,38.0
+UK,Supply Chain,Leadership Essentials,0,2025-08-01 00:00:00,6,4,2,0.6667,0.3333,23.8
+UK,Operations,Health and Safety,1,2025-03-01 00:00:00,12,7,5,0.5833,0.4167,23.1
+UK,Operations,Code of Conduct,1,2025-09-01 00:00:00,9,6,3,0.6667,0.3333,24.2
+UK,Finance,Data Protection,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,7.5
+Germany,Commercial,Data Protection,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,Commercial,Health and Safety,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,13.0
+Netherlands,Commercial,Advanced Analytics,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,26.0
+Netherlands,Technology,Advanced Analytics,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,15.0
+France,Operations,Advanced Analytics,0,2026-02-01 00:00:00,3,0,0,0.0,0.0,
+Germany,Operations,Advanced Analytics,0,2025-07-01 00:00:00,6,0,6,0.0,1.0,
+France,Operations,Code of Conduct,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,22.0
+UK,Supply Chain,Stakeholder Management,0,2025-07-01 00:00:00,7,4,3,0.5714,0.4286,32.5
+UK,Finance,Advanced Analytics,0,2025-10-01 00:00:00,4,2,2,0.5,0.5,5.0
+UK,Operations,Health and Safety,1,2026-01-01 00:00:00,9,8,1,0.8889,0.1111,22.5
+France,Operations,Code of Conduct,1,2025-08-01 00:00:00,4,2,2,0.5,0.5,30.0
+Germany,Technology,Leadership Essentials,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,25.0
+UK,Operations,Health and Safety,1,2025-08-01 00:00:00,6,5,1,0.8333,0.1667,31.2
+France,Operations,Stakeholder Management,0,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Commercial,Code of Conduct,1,2025-06-01 00:00:00,2,2,0,1.0,0.0,19.0
+Netherlands,Operations,Advanced Analytics,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,52.0
+UK,Commercial,Data Protection,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,10.0
+Ireland,Technology,Leadership Essentials,0,2025-01-01 00:00:00,2,1,1,0.5,0.5,26.0
+UK,People,Advanced Analytics,0,2025-06-01 00:00:00,7,5,2,0.7143,0.2857,9.6
+UK,Commercial,Leadership Essentials,0,2025-09-01 00:00:00,3,3,0,1.0,0.0,17.7
+Germany,Finance,Advanced Analytics,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,8.0
+UK,Commercial,Data Protection,1,2025-03-01 00:00:00,2,2,0,1.0,0.0,8.0
+UK,Sales,Advanced Analytics,0,2025-07-01 00:00:00,4,2,2,0.5,0.5,16.5
+France,Commercial,Leadership Essentials,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,21.0
+UK,Supply Chain,Data Protection,1,2025-02-01 00:00:00,2,1,1,0.5,0.5,20.0
+UK,Supply Chain,Health and Safety,1,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Operations,Data Protection,1,2025-04-01 00:00:00,3,2,1,0.6667,0.3333,50.5
+UK,Commercial,Health and Safety,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,10.5
+France,Supply Chain,Health and Safety,1,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Customer Support,Leadership Essentials,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+UK,Technology,Leadership Essentials,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,23.0
+UK,Customer Support,Advanced Analytics,0,2025-07-01 00:00:00,3,2,1,0.6667,0.3333,29.0
+Germany,Operations,Code of Conduct,1,2025-06-01 00:00:00,5,1,4,0.2,0.8,22.0
+UK,Customer Support,Code of Conduct,1,2025-01-01 00:00:00,5,5,0,1.0,0.0,20.6
+Germany,Sales,Stakeholder Management,0,2025-01-01 00:00:00,2,0,2,0.0,1.0,
+UK,Supply Chain,Leadership Essentials,0,2026-01-01 00:00:00,7,3,1,0.4286,0.1429,23.3
+UK,People,Stakeholder Management,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,8.0
+Netherlands,Supply Chain,Code of Conduct,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,42.0
+France,Operations,Code of Conduct,1,2025-03-01 00:00:00,5,4,1,0.8,0.2,30.5
+Germany,Supply Chain,Leadership Essentials,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,38.0
+Germany,Supply Chain,Leadership Essentials,0,2025-11-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Sales,Leadership Essentials,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Commercial,Stakeholder Management,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,21.0
+UK,Sales,Leadership Essentials,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,4.0
+France,People,Health and Safety,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Customer Support,Advanced Analytics,0,2025-07-01 00:00:00,2,1,1,0.5,0.5,20.0
+France,Commercial,Health and Safety,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,22.0
+Ireland,Operations,Leadership Essentials,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Operations,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,15.0
+UK,Technology,Health and Safety,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,10.0
+Germany,Sales,Stakeholder Management,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Stakeholder Management,0,2026-03-01 00:00:00,2,2,0,1.0,0.0,27.5
+UK,Sales,Stakeholder Management,0,2025-09-01 00:00:00,3,2,1,0.6667,0.3333,11.5
+Ireland,Operations,Stakeholder Management,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Data Protection,1,2026-01-01 00:00:00,2,2,0,1.0,0.0,17.5
+Netherlands,Technology,Advanced Analytics,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,9.0
+UK,Supply Chain,Leadership Essentials,0,2025-05-01 00:00:00,5,3,2,0.6,0.4,33.3
+France,Finance,Leadership Essentials,0,2025-07-01 00:00:00,2,2,0,1.0,0.0,12.5
+France,Customer Support,Health and Safety,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,5.0
+France,Technology,Advanced Analytics,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,18.0
+UK,Customer Support,Code of Conduct,1,2025-11-01 00:00:00,2,1,1,0.5,0.5,30.0
+Germany,Customer Support,Leadership Essentials,0,2025-12-01 00:00:00,2,0,2,0.0,1.0,
+France,Commercial,Advanced Analytics,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,22.0
+UK,People,Data Protection,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,3.0
+Netherlands,Sales,Stakeholder Management,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,22.0
+UK,Sales,Leadership Essentials,0,2025-01-01 00:00:00,2,2,0,1.0,0.0,22.5
+Netherlands,Operations,Leadership Essentials,0,2025-01-01 00:00:00,3,2,1,0.6667,0.3333,26.0
+UK,Customer Support,Data Protection,1,2026-03-01 00:00:00,2,1,0,0.5,0.0,10.0
+France,Finance,Stakeholder Management,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,20.0
+UK,Supply Chain,Code of Conduct,1,2025-04-01 00:00:00,4,3,1,0.75,0.25,27.7
+Ireland,Supply Chain,Stakeholder Management,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+Ireland,Customer Support,Leadership Essentials,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+France,Customer Support,Leadership Essentials,0,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Operations,Health and Safety,1,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+France,Sales,Code of Conduct,1,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+UK,Technology,Health and Safety,1,2026-01-01 00:00:00,2,1,1,0.5,0.5,5.0
+Germany,People,Leadership Essentials,0,2026-02-01 00:00:00,3,2,0,0.6667,0.0,12.0
+UK,Commercial,Stakeholder Management,0,2025-02-01 00:00:00,2,1,1,0.5,0.5,18.0
+Ireland,Commercial,Code of Conduct,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,13.0
+France,Customer Support,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,People,Code of Conduct,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,8.0
+Ireland,Customer Support,Stakeholder Management,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+UK,Commercial,Data Protection,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,10.0
+Germany,Finance,Code of Conduct,1,2026-01-01 00:00:00,3,3,0,1.0,0.0,5.0
+Netherlands,Supply Chain,Leadership Essentials,0,2026-02-01 00:00:00,2,0,0,0.0,0.0,
+UK,Finance,Leadership Essentials,0,2025-06-01 00:00:00,2,2,0,1.0,0.0,11.5
+Netherlands,Supply Chain,Data Protection,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,7.0
+Netherlands,Supply Chain,Code of Conduct,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,38.0
+Germany,Finance,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,11.0
+France,Customer Support,Stakeholder Management,0,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+France,Customer Support,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,16.0
+Germany,Commercial,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,17.0
+France,Supply Chain,Data Protection,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Sales,Advanced Analytics,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Commercial,Leadership Essentials,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,12.0
+Germany,Customer Support,Data Protection,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,6.0
+Germany,Customer Support,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,17.0
+Ireland,Commercial,Stakeholder Management,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,23.0
+France,Commercial,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,20.0
+Germany,Commercial,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,6.0
+Germany,Supply Chain,Data Protection,1,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Finance,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,7.0
+UK,Finance,Health and Safety,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,5.0
+Ireland,Finance,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,3.0
+UK,Sales,Advanced Analytics,0,2025-10-01 00:00:00,5,3,2,0.6,0.4,22.3
+UK,Supply Chain,Health and Safety,1,2025-12-01 00:00:00,9,8,1,0.8889,0.1111,24.4
+UK,Technology,Advanced Analytics,0,2026-01-01 00:00:00,5,4,1,0.8,0.2,11.5
+UK,People,Leadership Essentials,0,2025-05-01 00:00:00,4,2,2,0.5,0.5,10.0
+Germany,Technology,Leadership Essentials,0,2025-11-01 00:00:00,5,4,1,0.8,0.2,9.3
+Germany,Operations,Health and Safety,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,34.0
+UK,Sales,Health and Safety,1,2025-06-01 00:00:00,2,2,0,1.0,0.0,10.5
+UK,Operations,Code of Conduct,1,2025-02-01 00:00:00,7,6,1,0.8571,0.1429,27.8
+UK,Operations,Stakeholder Management,0,2026-03-01 00:00:00,14,5,0,0.3571,0.0,14.2
+Germany,Technology,Leadership Essentials,0,2025-01-01 00:00:00,2,1,1,0.5,0.5,19.0
+UK,Operations,Leadership Essentials,0,2025-06-01 00:00:00,9,3,6,0.3333,0.6667,37.3
+France,Supply Chain,Data Protection,1,2025-04-01 00:00:00,4,4,0,1.0,0.0,20.8
+Netherlands,Operations,Health and Safety,1,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+France,Operations,Stakeholder Management,0,2025-02-01 00:00:00,3,1,2,0.3333,0.6667,58.0
+UK,Customer Support,Leadership Essentials,0,2025-03-01 00:00:00,6,4,2,0.6667,0.3333,26.5
+Netherlands,Supply Chain,Stakeholder Management,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,13.0
+UK,Customer Support,Code of Conduct,1,2025-12-01 00:00:00,4,3,1,0.75,0.25,17.7
+UK,Customer Support,Leadership Essentials,0,2025-08-01 00:00:00,4,1,3,0.25,0.75,26.0
+UK,Supply Chain,Code of Conduct,1,2026-03-01 00:00:00,4,4,0,1.0,0.0,15.0
+Netherlands,Operations,Code of Conduct,1,2025-03-01 00:00:00,2,2,0,1.0,0.0,20.0
+UK,Finance,Stakeholder Management,0,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,14.5
+UK,Finance,Stakeholder Management,0,2025-03-01 00:00:00,2,2,0,1.0,0.0,11.5
+UK,Finance,Advanced Analytics,0,2025-07-01 00:00:00,7,7,0,1.0,0.0,10.3
+France,Supply Chain,Health and Safety,1,2025-02-01 00:00:00,2,2,0,1.0,0.0,24.5
+UK,Technology,Advanced Analytics,0,2025-03-01 00:00:00,3,2,1,0.6667,0.3333,10.0
+UK,People,Stakeholder Management,0,2025-11-01 00:00:00,2,1,1,0.5,0.5,12.0
+UK,Technology,Stakeholder Management,0,2026-02-01 00:00:00,4,4,0,1.0,0.0,12.8
+UK,Finance,Data Protection,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,3.0
+UK,Commercial,Leadership Essentials,0,2025-02-01 00:00:00,3,2,1,0.6667,0.3333,9.0
+France,Operations,Health and Safety,1,2026-01-01 00:00:00,3,1,2,0.3333,0.6667,23.0
+UK,Technology,Data Protection,1,2026-02-01 00:00:00,4,4,0,1.0,0.0,10.0
+Germany,Customer Support,Leadership Essentials,0,2025-01-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Customer Support,Advanced Analytics,0,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+UK,Supply Chain,Data Protection,1,2025-09-01 00:00:00,6,2,4,0.3333,0.6667,35.0
+UK,Operations,Advanced Analytics,0,2025-02-01 00:00:00,9,3,6,0.3333,0.6667,27.0
+UK,Customer Support,Leadership Essentials,0,2025-05-01 00:00:00,5,1,4,0.2,0.8,35.0
+France,Supply Chain,Leadership Essentials,0,2025-01-01 00:00:00,6,2,4,0.3333,0.6667,29.0
+France,Operations,Health and Safety,1,2025-08-01 00:00:00,4,1,3,0.25,0.75,52.0
+France,Customer Support,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,31.0
+UK,Customer Support,Health and Safety,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,18.5
+Netherlands,Finance,Data Protection,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,5.0
+Netherlands,Finance,Stakeholder Management,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,6.0
+France,Operations,Health and Safety,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,27.5
+France,Supply Chain,Advanced Analytics,0,2025-01-01 00:00:00,2,1,1,0.5,0.5,15.0
+Netherlands,Operations,Code of Conduct,1,2025-05-01 00:00:00,3,3,0,1.0,0.0,40.0
+Germany,Sales,Leadership Essentials,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,8.0
+UK,People,Stakeholder Management,0,2025-01-01 00:00:00,7,6,1,0.8571,0.1429,6.0
+Germany,Commercial,Leadership Essentials,0,2025-07-01 00:00:00,2,1,1,0.5,0.5,34.0
+UK,Customer Support,Advanced Analytics,0,2025-10-01 00:00:00,5,3,2,0.6,0.4,22.3
+Netherlands,Customer Support,Stakeholder Management,0,2026-01-01 00:00:00,2,2,0,1.0,0.0,13.5
+Netherlands,Operations,Code of Conduct,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,40.0
+UK,Commercial,Stakeholder Management,0,2025-09-01 00:00:00,6,4,2,0.6667,0.3333,21.5
+UK,Supply Chain,Stakeholder Management,0,2025-10-01 00:00:00,14,8,6,0.5714,0.4286,24.6
+UK,People,Leadership Essentials,0,2025-08-01 00:00:00,4,4,0,1.0,0.0,9.5
+UK,People,Leadership Essentials,0,2026-01-01 00:00:00,4,4,0,1.0,0.0,8.8
+Ireland,Operations,Leadership Essentials,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,9.0
+Germany,Finance,Data Protection,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Operations,Advanced Analytics,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Sales,Advanced Analytics,0,2025-07-01 00:00:00,3,3,0,1.0,0.0,27.7
+Germany,Sales,Advanced Analytics,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+France,Sales,Advanced Analytics,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Health and Safety,1,2025-03-01 00:00:00,4,4,0,1.0,0.0,44.3
+Ireland,People,Advanced Analytics,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,18.0
+UK,Operations,Data Protection,1,2025-09-01 00:00:00,11,5,6,0.4545,0.5455,31.4
+Ireland,Sales,Health and Safety,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,7.0
+UK,People,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,3.0
+UK,Finance,Stakeholder Management,0,2026-01-01 00:00:00,4,3,0,0.75,0.0,13.7
+UK,Customer Support,Leadership Essentials,0,2026-01-01 00:00:00,3,2,1,0.6667,0.3333,23.0
+France,Customer Support,Data Protection,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,29.0
+UK,People,Leadership Essentials,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Advanced Analytics,0,2025-11-01 00:00:00,3,1,2,0.3333,0.6667,9.0
+UK,Technology,Advanced Analytics,0,2025-08-01 00:00:00,6,3,3,0.5,0.5,8.7
+UK,Finance,Stakeholder Management,0,2025-08-01 00:00:00,3,2,1,0.6667,0.3333,15.5
+Netherlands,Operations,Data Protection,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,30.0
+Germany,Operations,Data Protection,1,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+UK,Technology,Code of Conduct,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,4.0
+France,People,Advanced Analytics,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Customer Support,Leadership Essentials,0,2025-11-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,Supply Chain,Health and Safety,1,2025-04-01 00:00:00,2,1,1,0.5,0.5,14.0
+France,Operations,Leadership Essentials,0,2025-06-01 00:00:00,3,1,2,0.3333,0.6667,58.0
+UK,Finance,Code of Conduct,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,9.0
+France,Supply Chain,Stakeholder Management,0,2025-04-01 00:00:00,4,1,3,0.25,0.75,37.0
+UK,Finance,Data Protection,1,2025-11-01 00:00:00,2,2,0,1.0,0.0,6.0
+Germany,Commercial,Data Protection,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,12.0
+Germany,Supply Chain,Advanced Analytics,0,2025-06-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Sales,Health and Safety,1,2025-06-01 00:00:00,3,1,2,0.3333,0.6667,21.0
+France,Customer Support,Data Protection,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,13.0
+Netherlands,Technology,Stakeholder Management,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,6.0
+UK,Sales,Leadership Essentials,0,2025-12-01 00:00:00,3,3,0,1.0,0.0,13.7
+UK,Sales,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,5.0
+Netherlands,Sales,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,14.0
+France,Operations,Data Protection,1,2025-04-01 00:00:00,2,1,1,0.5,0.5,11.0
+Netherlands,Commercial,Advanced Analytics,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,28.0
+Germany,Supply Chain,Leadership Essentials,0,2025-12-01 00:00:00,3,1,2,0.3333,0.6667,8.0
+Netherlands,Operations,Stakeholder Management,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,14.0
+UK,Technology,Advanced Analytics,0,2025-05-01 00:00:00,3,1,2,0.3333,0.6667,15.0
+Netherlands,Sales,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,16.0
+Germany,Operations,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,30.0
+Ireland,Operations,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,46.0
+Germany,Commercial,Health and Safety,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,6.0
+Ireland,Operations,Data Protection,1,2025-09-01 00:00:00,2,1,1,0.5,0.5,24.0
+Netherlands,Sales,Stakeholder Management,0,2025-07-01 00:00:00,2,2,0,1.0,0.0,12.0
+Germany,Supply Chain,Health and Safety,1,2025-06-01 00:00:00,4,3,1,0.75,0.25,24.0
+Germany,Sales,Leadership Essentials,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+France,Customer Support,Data Protection,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,19.0
+Netherlands,Customer Support,Stakeholder Management,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,23.0
+France,Supply Chain,Leadership Essentials,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+UK,Customer Support,Data Protection,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,21.5
+Ireland,Supply Chain,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,34.0
+UK,Sales,Data Protection,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Operations,Stakeholder Management,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+Netherlands,Supply Chain,Data Protection,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,37.0
+Netherlands,People,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,3.0
+Netherlands,Customer Support,Leadership Essentials,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+France,People,Data Protection,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,8.0
+Germany,Supply Chain,Data Protection,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,42.0
+France,People,Leadership Essentials,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,2.0
+UK,Finance,Health and Safety,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,3.0
+Germany,Finance,Advanced Analytics,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Finance,Data Protection,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Supply Chain,Stakeholder Management,0,2026-02-01 00:00:00,3,0,0,0.0,0.0,
+Ireland,Operations,Advanced Analytics,0,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Data Protection,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,18.0
+France,Sales,Advanced Analytics,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,9.0
+Netherlands,Operations,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,36.0
+France,Finance,Health and Safety,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,9.0
+France,Commercial,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,18.0
+Germany,People,Code of Conduct,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,5.0
+France,Supply Chain,Code of Conduct,1,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Advanced Analytics,0,2025-02-01 00:00:00,2,2,0,1.0,0.0,12.0
+Ireland,Finance,Stakeholder Management,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Code of Conduct,1,2025-07-01 00:00:00,4,4,0,1.0,0.0,13.5
+France,People,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,2.0
+UK,Supply Chain,Stakeholder Management,0,2026-02-01 00:00:00,6,5,0,0.8333,0.0,26.8
+Germany,Operations,Leadership Essentials,0,2025-07-01 00:00:00,5,1,4,0.2,0.8,14.0
+UK,Customer Support,Stakeholder Management,0,2025-01-01 00:00:00,2,2,0,1.0,0.0,22.0
+Ireland,Operations,Leadership Essentials,0,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+UK,Operations,Stakeholder Management,0,2026-01-01 00:00:00,11,5,5,0.4545,0.4545,32.0
+UK,Technology,Advanced Analytics,0,2026-03-01 00:00:00,10,9,0,0.9,0.0,9.1
+UK,Operations,Stakeholder Management,0,2025-08-01 00:00:00,12,4,8,0.3333,0.6667,53.3
+UK,Sales,Advanced Analytics,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,29.0
+UK,Sales,Leadership Essentials,0,2025-06-01 00:00:00,3,2,1,0.6667,0.3333,24.0
+Germany,Supply Chain,Advanced Analytics,0,2025-12-01 00:00:00,3,0,3,0.0,1.0,
+UK,Operations,Leadership Essentials,0,2025-12-01 00:00:00,8,1,7,0.125,0.875,18.0
+UK,Operations,Health and Safety,1,2025-04-01 00:00:00,6,4,2,0.6667,0.3333,15.8
+UK,Supply Chain,Leadership Essentials,0,2025-04-01 00:00:00,12,7,5,0.5833,0.4167,24.0
+Germany,Operations,Code of Conduct,1,2025-01-01 00:00:00,3,0,3,0.0,1.0,
+UK,Commercial,Advanced Analytics,0,2025-01-01 00:00:00,4,2,2,0.5,0.5,13.0
+Germany,Supply Chain,Leadership Essentials,0,2025-06-01 00:00:00,3,2,1,0.6667,0.3333,21.5
+Germany,Operations,Health and Safety,1,2025-12-01 00:00:00,2,0,2,0.0,1.0,
+UK,Operations,Stakeholder Management,0,2025-05-01 00:00:00,16,6,10,0.375,0.625,38.8
+UK,Customer Support,Health and Safety,1,2025-10-01 00:00:00,2,2,0,1.0,0.0,23.0
+UK,Customer Support,Leadership Essentials,0,2026-03-01 00:00:00,4,1,0,0.25,0.0,0.0
+Ireland,Operations,Leadership Essentials,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+UK,Finance,Code of Conduct,1,2025-08-01 00:00:00,3,3,0,1.0,0.0,3.3
+UK,Operations,Stakeholder Management,0,2025-03-01 00:00:00,14,4,10,0.2857,0.7143,44.3
+Germany,Operations,Data Protection,1,2026-01-01 00:00:00,2,0,2,0.0,1.0,
+France,Customer Support,Stakeholder Management,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,9.0
+UK,Finance,Leadership Essentials,0,2025-01-01 00:00:00,3,1,2,0.3333,0.6667,19.0
+Germany,Supply Chain,Code of Conduct,1,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+UK,Supply Chain,Code of Conduct,1,2025-08-01 00:00:00,5,4,1,0.8,0.2,31.3
+Germany,Supply Chain,Stakeholder Management,0,2025-10-01 00:00:00,4,1,3,0.25,0.75,12.0
+UK,Finance,Code of Conduct,1,2025-05-01 00:00:00,3,3,0,1.0,0.0,8.0
+France,Operations,Leadership Essentials,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,24.0
+UK,Technology,Stakeholder Management,0,2025-10-01 00:00:00,3,2,1,0.6667,0.3333,7.5
+UK,Supply Chain,Code of Conduct,1,2025-05-01 00:00:00,6,4,2,0.6667,0.3333,28.0
+UK,Supply Chain,Advanced Analytics,0,2025-02-01 00:00:00,8,1,7,0.125,0.875,48.0
+Ireland,Supply Chain,Stakeholder Management,0,2025-07-01 00:00:00,3,1,2,0.3333,0.6667,18.0
+Germany,People,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,17.0
+France,Commercial,Stakeholder Management,0,2026-01-01 00:00:00,2,1,0,0.5,0.0,28.0
+UK,Finance,Health and Safety,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Operations,Code of Conduct,1,2025-11-01 00:00:00,2,0,2,0.0,1.0,
+UK,Supply Chain,Code of Conduct,1,2025-03-01 00:00:00,6,3,3,0.5,0.5,32.0
+Germany,Finance,Data Protection,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,6.0
+Germany,Operations,Data Protection,1,2025-03-01 00:00:00,4,1,3,0.25,0.75,39.0
+France,Operations,Health and Safety,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Technology,Stakeholder Management,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,8.0
+UK,Finance,Leadership Essentials,0,2025-11-01 00:00:00,4,2,2,0.5,0.5,10.0
+France,Sales,Code of Conduct,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Operations,Stakeholder Management,0,2025-10-01 00:00:00,3,1,2,0.3333,0.6667,22.0
+France,Technology,Advanced Analytics,0,2025-05-01 00:00:00,2,2,0,1.0,0.0,18.5
+Netherlands,Technology,Advanced Analytics,0,2025-06-01 00:00:00,2,2,0,1.0,0.0,22.0
+Netherlands,Sales,Leadership Essentials,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,34.0
+Germany,Operations,Data Protection,1,2025-05-01 00:00:00,5,2,3,0.4,0.6,44.0
+Netherlands,Operations,Stakeholder Management,0,2026-02-01 00:00:00,3,0,0,0.0,0.0,
+France,Technology,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,28.0
+France,Sales,Data Protection,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,4.0
+Ireland,Sales,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,14.0
+Germany,Sales,Stakeholder Management,0,2025-06-01 00:00:00,2,0,2,0.0,1.0,
+UK,Customer Support,Stakeholder Management,0,2025-11-01 00:00:00,3,1,2,0.3333,0.6667,7.0
+UK,People,Data Protection,1,2025-07-01 00:00:00,5,5,0,1.0,0.0,4.8
+UK,Finance,Code of Conduct,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,2.0
+Germany,Customer Support,Code of Conduct,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,21.0
+UK,Technology,Code of Conduct,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,8.0
+Germany,Commercial,Code of Conduct,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,25.0
+UK,People,Advanced Analytics,0,2025-01-01 00:00:00,3,2,1,0.6667,0.3333,13.0
+Germany,Technology,Stakeholder Management,0,2025-01-01 00:00:00,2,1,1,0.5,0.5,25.0
+France,Sales,Leadership Essentials,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Health and Safety,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,16.5
+UK,Supply Chain,Health and Safety,1,2025-06-01 00:00:00,5,4,1,0.8,0.2,37.3
+UK,Sales,Data Protection,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,10.5
+UK,Finance,Stakeholder Management,0,2026-03-01 00:00:00,3,2,0,0.6667,0.0,4.5
+Germany,Customer Support,Health and Safety,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,26.5
+Ireland,Customer Support,Data Protection,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Customer Support,Health and Safety,1,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+UK,People,Leadership Essentials,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Sales,Code of Conduct,1,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Finance,Leadership Essentials,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Supply Chain,Leadership Essentials,0,2025-07-01 00:00:00,2,1,1,0.5,0.5,43.0
+Ireland,People,Advanced Analytics,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,17.0
+Ireland,Supply Chain,Advanced Analytics,0,2025-02-01 00:00:00,2,0,2,0.0,1.0,
+Ireland,Supply Chain,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,20.0
+Netherlands,Technology,Code of Conduct,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,9.0
+France,Finance,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,3.0
+Netherlands,Customer Support,Leadership Essentials,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+Germany,Customer Support,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,6.0
+France,Finance,Advanced Analytics,0,2025-11-01 00:00:00,2,1,1,0.5,0.5,4.0
+Netherlands,Customer Support,Stakeholder Management,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,11.0
+France,Finance,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,Operations,Data Protection,1,2025-08-01 00:00:00,2,1,1,0.5,0.5,14.0
+France,Technology,Health and Safety,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,5.0
+UK,Technology,Leadership Essentials,0,2025-07-01 00:00:00,4,4,0,1.0,0.0,17.8
+UK,Commercial,Code of Conduct,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,9.0
+UK,Customer Support,Advanced Analytics,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,7.0
+France,Technology,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,8.0
+Netherlands,Operations,Leadership Essentials,0,2025-06-01 00:00:00,2,1,1,0.5,0.5,46.0
+UK,Technology,Health and Safety,1,2025-04-01 00:00:00,3,3,0,1.0,0.0,8.0
+France,Technology,Health and Safety,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,15.0
+UK,Supply Chain,Code of Conduct,1,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Commercial,Stakeholder Management,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,14.0
+Netherlands,Customer Support,Data Protection,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,18.0
+UK,Commercial,Advanced Analytics,0,2025-11-01 00:00:00,4,3,1,0.75,0.25,19.7
+UK,Sales,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,19.0
+France,Customer Support,Advanced Analytics,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,29.0
+UK,Technology,Data Protection,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Supply Chain,Stakeholder Management,0,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Commercial,Leadership Essentials,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Technology,Code of Conduct,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,16.0
+Ireland,Commercial,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,15.0
+France,Commercial,Stakeholder Management,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,27.0
+Ireland,Customer Support,Leadership Essentials,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,22.0
+Ireland,People,Stakeholder Management,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,People,Stakeholder Management,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,9.0
+Ireland,Supply Chain,Data Protection,1,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Health and Safety,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,17.0
+France,Operations,Code of Conduct,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+France,Technology,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,21.0
+France,Operations,Advanced Analytics,0,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Customer Support,Health and Safety,1,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+UK,Supply Chain,Leadership Essentials,0,2026-03-01 00:00:00,5,1,0,0.2,0.0,16.0
+Ireland,Customer Support,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,31.0
+Germany,Operations,Stakeholder Management,0,2025-07-01 00:00:00,5,0,5,0.0,1.0,
+Germany,Operations,Health and Safety,1,2025-01-01 00:00:00,8,6,2,0.75,0.25,31.7
+Germany,Operations,Leadership Essentials,0,2025-10-01 00:00:00,3,1,2,0.3333,0.6667,50.0
+Germany,Commercial,Leadership Essentials,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,11.0
+UK,Customer Support,Leadership Essentials,0,2025-04-01 00:00:00,7,3,4,0.4286,0.5714,15.0
+France,Operations,Advanced Analytics,0,2025-10-01 00:00:00,5,3,2,0.6,0.4,28.7
+Germany,Technology,Stakeholder Management,0,2025-12-01 00:00:00,4,2,2,0.5,0.5,20.5
+UK,Sales,Health and Safety,1,2025-11-01 00:00:00,3,2,1,0.6667,0.3333,20.5
+France,Operations,Data Protection,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,37.0
+Netherlands,Supply Chain,Health and Safety,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,38.0
+Netherlands,Supply Chain,Health and Safety,1,2026-01-01 00:00:00,2,2,0,1.0,0.0,20.5
+UK,Sales,Health and Safety,1,2025-01-01 00:00:00,4,3,1,0.75,0.25,14.7
+UK,Operations,Leadership Essentials,0,2025-11-01 00:00:00,18,10,8,0.5556,0.4444,38.2
+UK,Customer Support,Data Protection,1,2026-01-01 00:00:00,3,1,2,0.3333,0.6667,30.0
+France,Supply Chain,Stakeholder Management,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,10.0
+Germany,Operations,Health and Safety,1,2025-11-01 00:00:00,7,2,5,0.2857,0.7143,37.5
+UK,Operations,Leadership Essentials,0,2025-01-01 00:00:00,11,4,7,0.3636,0.6364,40.0
+Ireland,Technology,Data Protection,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,19.0
+UK,Technology,Stakeholder Management,0,2025-07-01 00:00:00,6,5,1,0.8333,0.1667,19.6
+Netherlands,Supply Chain,Health and Safety,1,2025-03-01 00:00:00,5,5,0,1.0,0.0,16.6
+UK,Finance,Advanced Analytics,0,2026-02-01 00:00:00,3,3,0,1.0,0.0,9.3
+UK,Finance,Stakeholder Management,0,2025-04-01 00:00:00,5,4,1,0.8,0.2,13.8
+UK,Commercial,Health and Safety,1,2026-03-01 00:00:00,3,1,0,0.3333,0.0,7.0
+UK,Commercial,Advanced Analytics,0,2025-12-01 00:00:00,5,4,1,0.8,0.2,17.3
+Germany,Operations,Code of Conduct,1,2025-12-01 00:00:00,5,1,4,0.2,0.8,27.0
+UK,People,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,7.0
+UK,Customer Support,Data Protection,1,2025-08-01 00:00:00,5,5,0,1.0,0.0,19.6
+UK,Customer Support,Stakeholder Management,0,2025-12-01 00:00:00,4,0,4,0.0,1.0,
+UK,Finance,Data Protection,1,2025-06-01 00:00:00,4,4,0,1.0,0.0,3.3
+Germany,Finance,Leadership Essentials,0,2025-08-01 00:00:00,2,2,0,1.0,0.0,6.5
+Netherlands,Supply Chain,Leadership Essentials,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,37.0
+Germany,Commercial,Advanced Analytics,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Stakeholder Management,0,2025-03-01 00:00:00,2,2,0,1.0,0.0,34.0
+France,Supply Chain,Stakeholder Management,0,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,27.5
+UK,Technology,Leadership Essentials,0,2025-10-01 00:00:00,3,3,0,1.0,0.0,10.0
+UK,Operations,Health and Safety,1,2026-03-01 00:00:00,8,4,0,0.5,0.0,20.0
+France,Operations,Leadership Essentials,0,2025-01-01 00:00:00,4,3,1,0.75,0.25,38.7
+France,Operations,Health and Safety,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Sales,Stakeholder Management,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,26.0
+UK,Sales,Data Protection,1,2025-01-01 00:00:00,3,2,1,0.6667,0.3333,11.5
+Germany,Finance,Leadership Essentials,0,2025-03-01 00:00:00,2,2,0,1.0,0.0,20.5
+France,Supply Chain,Leadership Essentials,0,2025-06-01 00:00:00,3,0,3,0.0,1.0,
+UK,Finance,Leadership Essentials,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,6.0
+Ireland,Sales,Stakeholder Management,0,2025-04-01 00:00:00,2,1,1,0.5,0.5,17.0
+UK,People,Leadership Essentials,0,2025-04-01 00:00:00,3,2,1,0.6667,0.3333,8.5
+UK,Sales,Code of Conduct,1,2025-10-01 00:00:00,5,4,1,0.8,0.2,8.0
+UK,Customer Support,Data Protection,1,2025-03-01 00:00:00,3,2,1,0.6667,0.3333,18.0
+Netherlands,Sales,Leadership Essentials,0,2025-12-01 00:00:00,3,3,0,1.0,0.0,18.0
+Netherlands,Operations,Code of Conduct,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,41.0
+Netherlands,Technology,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Sales,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,11.0
+France,Supply Chain,Data Protection,1,2025-03-01 00:00:00,3,1,2,0.3333,0.6667,34.0
+Germany,Supply Chain,Advanced Analytics,0,2025-11-01 00:00:00,5,1,4,0.2,0.8,51.0
+UK,Customer Support,Health and Safety,1,2025-07-01 00:00:00,4,3,1,0.75,0.25,24.7
+Netherlands,Commercial,Stakeholder Management,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,26.0
+France,Sales,Data Protection,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,11.0
+France,Sales,Stakeholder Management,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,19.0
+UK,People,Stakeholder Management,0,2025-06-01 00:00:00,5,4,1,0.8,0.2,10.0
+Ireland,Technology,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,26.0
+Ireland,Sales,Data Protection,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,21.5
+France,Operations,Data Protection,1,2026-01-01 00:00:00,2,1,1,0.5,0.5,42.0
+Germany,Sales,Leadership Essentials,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,39.0
+Netherlands,Supply Chain,Code of Conduct,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,3.0
+Germany,People,Data Protection,1,2025-03-01 00:00:00,2,2,0,1.0,0.0,8.0
+France,People,Advanced Analytics,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,4.0
+Ireland,Commercial,Leadership Essentials,0,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Supply Chain,Stakeholder Management,0,2025-07-01 00:00:00,2,1,1,0.5,0.5,30.0
+Germany,Supply Chain,Health and Safety,1,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Technology,Leadership Essentials,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Data Protection,1,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Data Protection,1,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Germany,People,Code of Conduct,1,2025-03-01 00:00:00,2,2,0,1.0,0.0,6.5
+France,Finance,Data Protection,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,10.0
+Germany,Supply Chain,Health and Safety,1,2025-11-01 00:00:00,3,2,1,0.6667,0.3333,17.0
+Ireland,Supply Chain,Data Protection,1,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+UK,Customer Support,Data Protection,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,28.5
+France,Finance,Code of Conduct,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,7.0
+Netherlands,Customer Support,Stakeholder Management,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,11.0
+France,Sales,Health and Safety,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,20.0
+UK,Commercial,Code of Conduct,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,10.0
+Germany,Commercial,Advanced Analytics,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,35.0
+France,Commercial,Leadership Essentials,0,2026-02-01 00:00:00,1,0,0,0.0,0.0,
+Germany,Commercial,Stakeholder Management,0,2025-07-01 00:00:00,2,1,1,0.5,0.5,10.0
+UK,People,Advanced Analytics,0,2025-12-01 00:00:00,3,3,0,1.0,0.0,12.7
+France,Supply Chain,Data Protection,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,29.0
+UK,People,Data Protection,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,5.0
+France,Supply Chain,Advanced Analytics,0,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Stakeholder Management,0,2026-01-01 00:00:00,2,0,0,0.0,0.0,
+UK,Technology,Advanced Analytics,0,2025-04-01 00:00:00,4,4,0,1.0,0.0,18.5
+Netherlands,Supply Chain,Stakeholder Management,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,49.0
+Ireland,Supply Chain,Leadership Essentials,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+UK,Supply Chain,Advanced Analytics,0,2025-09-01 00:00:00,5,3,2,0.6,0.4,13.3
+Netherlands,Operations,Data Protection,1,2025-06-01 00:00:00,2,1,1,0.5,0.5,15.0
+Germany,People,Stakeholder Management,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,16.0
+France,Operations,Leadership Essentials,0,2025-11-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Commercial,Advanced Analytics,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+Ireland,Customer Support,Leadership Essentials,0,2026-03-01 00:00:00,2,1,0,0.5,0.0,10.0
+Germany,Finance,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,14.0
+France,Sales,Advanced Analytics,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,16.0
+France,Supply Chain,Data Protection,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,31.0
+Germany,Technology,Advanced Analytics,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,4.0
+Germany,Supply Chain,Advanced Analytics,0,2025-01-01 00:00:00,2,1,1,0.5,0.5,25.0
+Germany,Sales,Data Protection,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Sales,Data Protection,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,6.0
+Germany,Customer Support,Stakeholder Management,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Customer Support,Data Protection,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,People,Leadership Essentials,0,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Code of Conduct,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,2.0
+France,Commercial,Advanced Analytics,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,21.0
+France,Technology,Code of Conduct,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,9.0
+Germany,Supply Chain,Code of Conduct,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,10.0
+Germany,Operations,Leadership Essentials,0,2025-05-01 00:00:00,3,0,3,0.0,1.0,
+UK,Customer Support,Advanced Analytics,0,2025-04-01 00:00:00,7,2,5,0.2857,0.7143,36.5
+UK,Operations,Stakeholder Management,0,2025-07-01 00:00:00,16,10,6,0.625,0.375,38.2
+UK,Technology,Leadership Essentials,0,2025-08-01 00:00:00,7,4,3,0.5714,0.4286,15.0
+Germany,People,Leadership Essentials,0,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,12.5
+Germany,Technology,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,5.0
+UK,Technology,Leadership Essentials,0,2025-05-01 00:00:00,5,2,3,0.4,0.6,14.5
+Ireland,Supply Chain,Health and Safety,1,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Code of Conduct,1,2025-08-01 00:00:00,3,3,0,1.0,0.0,16.7
+Germany,Commercial,Health and Safety,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,12.0
+Ireland,Supply Chain,Health and Safety,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,41.0
+UK,Supply Chain,Code of Conduct,1,2025-07-01 00:00:00,4,3,1,0.75,0.25,26.0
+Ireland,Supply Chain,Stakeholder Management,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,17.0
+Netherlands,Supply Chain,Leadership Essentials,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+UK,Operations,Data Protection,1,2025-06-01 00:00:00,9,6,3,0.6667,0.3333,35.3
+UK,Supply Chain,Stakeholder Management,0,2025-04-01 00:00:00,9,3,6,0.3333,0.6667,31.7
+UK,Operations,Leadership Essentials,0,2025-09-01 00:00:00,7,2,5,0.2857,0.7143,29.0
+Germany,Operations,Leadership Essentials,0,2025-08-01 00:00:00,7,1,6,0.1429,0.8571,13.0
+UK,Commercial,Health and Safety,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,4.0
+UK,Supply Chain,Advanced Analytics,0,2025-11-01 00:00:00,6,3,3,0.5,0.5,31.3
+UK,Sales,Code of Conduct,1,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,10.0
+UK,Supply Chain,Leadership Essentials,0,2026-02-01 00:00:00,8,5,0,0.625,0.0,26.4
+Netherlands,Supply Chain,Leadership Essentials,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,35.0
+UK,Operations,Health and Safety,1,2026-02-01 00:00:00,9,6,1,0.6667,0.1111,34.7
+Germany,Operations,Advanced Analytics,0,2025-04-01 00:00:00,4,0,4,0.0,1.0,
+Germany,Operations,Code of Conduct,1,2025-02-01 00:00:00,5,1,4,0.2,0.8,54.0
+Germany,Customer Support,Stakeholder Management,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Supply Chain,Health and Safety,1,2025-03-01 00:00:00,3,1,2,0.3333,0.6667,23.0
+Germany,Technology,Advanced Analytics,0,2025-11-01 00:00:00,3,3,0,1.0,0.0,25.0
+Netherlands,Operations,Stakeholder Management,0,2025-04-01 00:00:00,2,1,1,0.5,0.5,19.0
+Germany,Operations,Data Protection,1,2025-07-01 00:00:00,5,1,4,0.2,0.8,17.0
+Germany,Operations,Health and Safety,1,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,Customer Support,Health and Safety,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,7.0
+UK,Sales,Data Protection,1,2025-09-01 00:00:00,3,3,0,1.0,0.0,14.0
+UK,Commercial,Data Protection,1,2026-02-01 00:00:00,3,3,0,1.0,0.0,19.0
+France,Technology,Stakeholder Management,0,2025-02-01 00:00:00,2,1,1,0.5,0.5,22.0
+France,Operations,Advanced Analytics,0,2025-08-01 00:00:00,2,0,2,0.0,1.0,
+UK,Sales,Advanced Analytics,0,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,12.0
+France,Supply Chain,Stakeholder Management,0,2025-10-01 00:00:00,4,4,0,1.0,0.0,29.8
+Ireland,Operations,Code of Conduct,1,2026-03-01 00:00:00,5,2,0,0.4,0.0,8.0
+UK,Supply Chain,Advanced Analytics,0,2025-01-01 00:00:00,6,0,6,0.0,1.0,
+UK,Finance,Health and Safety,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,6.0
+Ireland,Sales,Advanced Analytics,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,25.0
+Germany,Commercial,Leadership Essentials,0,2026-03-01 00:00:00,3,1,0,0.3333,0.0,6.0
+Germany,Supply Chain,Code of Conduct,1,2025-12-01 00:00:00,3,1,2,0.3333,0.6667,24.0
+Netherlands,Operations,Health and Safety,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,28.0
+UK,Finance,Advanced Analytics,0,2026-03-01 00:00:00,3,2,0,0.6667,0.0,4.5
+France,Operations,Advanced Analytics,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+UK,Commercial,Stakeholder Management,0,2025-06-01 00:00:00,2,1,1,0.5,0.5,23.0
+UK,Technology,Leadership Essentials,0,2025-03-01 00:00:00,3,3,0,1.0,0.0,14.3
+France,People,Stakeholder Management,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,18.0
+Ireland,Commercial,Advanced Analytics,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,18.0
+France,Operations,Advanced Analytics,0,2025-03-01 00:00:00,5,2,3,0.4,0.6,53.5
+France,Supply Chain,Data Protection,1,2025-10-01 00:00:00,2,2,0,1.0,0.0,30.5
+Ireland,Supply Chain,Health and Safety,1,2026-01-01 00:00:00,2,0,2,0.0,1.0,
+Ireland,Supply Chain,Stakeholder Management,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,54.0
+France,Sales,Leadership Essentials,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+UK,People,Data Protection,1,2026-01-01 00:00:00,3,3,0,1.0,0.0,5.3
+UK,Technology,Leadership Essentials,0,2026-01-01 00:00:00,2,1,0,0.5,0.0,22.0
+UK,Sales,Health and Safety,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,People,Advanced Analytics,0,2025-02-01 00:00:00,2,2,0,1.0,0.0,8.0
+UK,Finance,Leadership Essentials,0,2025-02-01 00:00:00,4,3,1,0.75,0.25,6.3
+UK,Sales,Code of Conduct,1,2026-01-01 00:00:00,4,4,0,1.0,0.0,8.3
+Netherlands,Supply Chain,Leadership Essentials,0,2025-05-01 00:00:00,2,2,0,1.0,0.0,37.0
+France,Commercial,Data Protection,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Operations,Leadership Essentials,0,2026-01-01 00:00:00,5,0,2,0.0,0.4,
+France,Operations,Advanced Analytics,0,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Supply Chain,Advanced Analytics,0,2025-09-01 00:00:00,4,2,2,0.5,0.5,25.0
+Ireland,Supply Chain,Advanced Analytics,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Data Protection,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Sales,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Customer Support,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,26.0
+Germany,Sales,Advanced Analytics,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,34.0
+Ireland,Customer Support,Stakeholder Management,0,2025-05-01 00:00:00,2,1,1,0.5,0.5,21.0
+Germany,Technology,Advanced Analytics,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Finance,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,3.0
+Ireland,Technology,Data Protection,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,19.0
+France,Finance,Stakeholder Management,0,2025-02-01 00:00:00,3,3,0,1.0,0.0,11.3
+Germany,People,Leadership Essentials,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,People,Stakeholder Management,0,2025-07-01 00:00:00,2,2,0,1.0,0.0,12.5
+Netherlands,Commercial,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,7.0
+Netherlands,Sales,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,4.0
+Germany,Operations,Leadership Essentials,0,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+Ireland,Operations,Advanced Analytics,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+Ireland,Operations,Data Protection,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,53.0
+UK,Commercial,Code of Conduct,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,12.0
+Ireland,Supply Chain,Advanced Analytics,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,8.0
+Ireland,Sales,Code of Conduct,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,19.0
+UK,People,Data Protection,1,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Supply Chain,Leadership Essentials,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Technology,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Supply Chain,Health and Safety,1,2025-09-01 00:00:00,2,1,1,0.5,0.5,44.0
+Ireland,Technology,Stakeholder Management,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Supply Chain,Leadership Essentials,0,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Commercial,Advanced Analytics,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,14.0
+Germany,People,Leadership Essentials,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Sales,Code of Conduct,1,2025-07-01 00:00:00,2,1,1,0.5,0.5,17.0
+Ireland,Supply Chain,Leadership Essentials,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,People,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,10.0
+France,Sales,Code of Conduct,1,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+UK,Customer Support,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,25.0
+UK,Commercial,Advanced Analytics,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,18.0
+Ireland,Customer Support,Stakeholder Management,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+Germany,Technology,Data Protection,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Sales,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Finance,Stakeholder Management,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,0.0
+UK,Customer Support,Data Protection,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Technology,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,18.0
+Ireland,Supply Chain,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,30.0
+France,Commercial,Stakeholder Management,0,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Finance,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,8.0
+France,Technology,Data Protection,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,10.0
+France,Customer Support,Advanced Analytics,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,People,Advanced Analytics,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,4.0
+UK,Customer Support,Leadership Essentials,0,2026-02-01 00:00:00,3,2,0,0.6667,0.0,14.5
+France,Customer Support,Leadership Essentials,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+UK,Customer Support,Stakeholder Management,0,2025-09-01 00:00:00,3,1,2,0.3333,0.6667,8.0
+Netherlands,Finance,Stakeholder Management,0,2025-04-01 00:00:00,2,2,0,1.0,0.0,6.0
+Germany,Technology,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,Operations,Stakeholder Management,0,2025-08-01 00:00:00,4,1,3,0.25,0.75,56.0
+UK,Sales,Advanced Analytics,0,2026-03-01 00:00:00,5,5,0,1.0,0.0,7.4
+UK,Customer Support,Advanced Analytics,0,2026-03-01 00:00:00,4,3,0,0.75,0.0,5.0
+UK,Sales,Data Protection,1,2025-02-01 00:00:00,2,2,0,1.0,0.0,19.0
+UK,Customer Support,Health and Safety,1,2025-08-01 00:00:00,3,3,0,1.0,0.0,14.3
+UK,Operations,Stakeholder Management,0,2025-10-01 00:00:00,13,7,6,0.5385,0.4615,32.3
+Germany,Operations,Advanced Analytics,0,2026-03-01 00:00:00,4,1,0,0.25,0.0,6.0
+UK,Commercial,Leadership Essentials,0,2025-06-01 00:00:00,3,3,0,1.0,0.0,9.7
+UK,Finance,Advanced Analytics,0,2025-04-01 00:00:00,4,4,0,1.0,0.0,12.3
+UK,Operations,Code of Conduct,1,2025-06-01 00:00:00,14,12,2,0.8571,0.1429,28.2
+UK,Finance,Leadership Essentials,0,2025-09-01 00:00:00,5,4,1,0.8,0.2,14.3
+UK,Finance,Stakeholder Management,0,2026-02-01 00:00:00,3,2,0,0.6667,0.0,2.5
+Germany,Operations,Data Protection,1,2025-10-01 00:00:00,4,3,1,0.75,0.25,29.3
+Germany,Commercial,Stakeholder Management,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,35.0
+UK,Supply Chain,Code of Conduct,1,2025-10-01 00:00:00,3,3,0,1.0,0.0,23.7
+Ireland,Technology,Advanced Analytics,0,2026-01-01 00:00:00,2,1,0,0.5,0.0,12.0
+UK,Customer Support,Data Protection,1,2025-07-01 00:00:00,4,3,1,0.75,0.25,16.3
+UK,People,Advanced Analytics,0,2025-09-01 00:00:00,3,2,1,0.6667,0.3333,9.0
+UK,Customer Support,Health and Safety,1,2026-01-01 00:00:00,10,8,2,0.8,0.2,14.5
+UK,Operations,Leadership Essentials,0,2025-02-01 00:00:00,11,6,5,0.5455,0.4545,40.7
+France,Finance,Health and Safety,1,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Data Protection,1,2025-07-01 00:00:00,2,1,1,0.5,0.5,37.0
+France,Finance,Health and Safety,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,3.0
+Netherlands,Commercial,Leadership Essentials,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+UK,Technology,Advanced Analytics,0,2026-02-01 00:00:00,6,4,0,0.6667,0.0,9.3
+Ireland,Finance,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,22.0
+France,Customer Support,Advanced Analytics,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,34.0
+Netherlands,Supply Chain,Health and Safety,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Commercial,Stakeholder Management,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,25.0
+Netherlands,Supply Chain,Stakeholder Management,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,24.0
+Germany,Supply Chain,Code of Conduct,1,2025-01-01 00:00:00,2,1,1,0.5,0.5,43.0
+France,Customer Support,Data Protection,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,19.0
+UK,Supply Chain,Stakeholder Management,0,2026-03-01 00:00:00,5,4,0,0.8,0.0,7.3
+UK,Finance,Health and Safety,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,6.0
+Germany,Operations,Stakeholder Management,0,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,Technology,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,17.0
+Netherlands,Customer Support,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,12.0
+Germany,Commercial,Stakeholder Management,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,14.0
+Ireland,Operations,Leadership Essentials,0,2025-10-01 00:00:00,2,2,0,1.0,0.0,21.0
+UK,Supply Chain,Advanced Analytics,0,2025-12-01 00:00:00,8,4,4,0.5,0.5,26.5
+Netherlands,Sales,Stakeholder Management,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,3.0
+Germany,People,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,People,Advanced Analytics,0,2025-03-01 00:00:00,2,2,0,1.0,0.0,11.5
+France,Finance,Health and Safety,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,7.0
+UK,Commercial,Advanced Analytics,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Operations,Stakeholder Management,0,2025-03-01 00:00:00,3,1,2,0.3333,0.6667,61.0
+UK,People,Leadership Essentials,0,2026-02-01 00:00:00,2,2,0,1.0,0.0,6.5
+UK,Technology,Stakeholder Management,0,2025-05-01 00:00:00,2,2,0,1.0,0.0,9.0
+France,Operations,Data Protection,1,2025-07-01 00:00:00,2,1,1,0.5,0.5,15.0
+Netherlands,Operations,Advanced Analytics,0,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,Technology,Stakeholder Management,0,2025-03-01 00:00:00,5,3,2,0.6,0.4,19.0
+UK,Operations,Advanced Analytics,0,2025-06-01 00:00:00,9,3,6,0.3333,0.6667,45.0
+UK,Sales,Stakeholder Management,0,2025-06-01 00:00:00,3,1,2,0.3333,0.6667,6.0
+France,Supply Chain,Stakeholder Management,0,2025-07-01 00:00:00,2,0,2,0.0,1.0,
+Ireland,Technology,Data Protection,1,2025-01-01 00:00:00,3,3,0,1.0,0.0,11.0
+Ireland,Technology,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Supply Chain,Health and Safety,1,2025-02-01 00:00:00,4,1,3,0.25,0.75,15.0
+Germany,Supply Chain,Advanced Analytics,0,2025-02-01 00:00:00,4,1,3,0.25,0.75,15.0
+Germany,Supply Chain,Stakeholder Management,0,2025-08-01 00:00:00,3,0,3,0.0,1.0,
+Netherlands,Commercial,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,12.0
+France,Commercial,Data Protection,1,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+France,Sales,Stakeholder Management,0,2025-12-01 00:00:00,2,1,1,0.5,0.5,9.0
+Germany,People,Stakeholder Management,0,2025-11-01 00:00:00,5,5,0,1.0,0.0,7.0
+UK,Technology,Stakeholder Management,0,2025-08-01 00:00:00,4,2,2,0.5,0.5,17.0
+Germany,Customer Support,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,11.0
+UK,Customer Support,Health and Safety,1,2025-03-01 00:00:00,3,3,0,1.0,0.0,18.0
+Germany,Customer Support,Stakeholder Management,0,2025-12-01 00:00:00,1,0,0,0.0,0.0,
+France,Technology,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,6.0
+France,Technology,Leadership Essentials,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,10.0
+France,Finance,Leadership Essentials,0,2026-03-01 00:00:00,2,2,0,1.0,0.0,8.0
+France,Finance,Advanced Analytics,0,2025-09-01 00:00:00,2,2,0,1.0,0.0,17.5
+France,Operations,Stakeholder Management,0,2025-06-01 00:00:00,5,1,4,0.2,0.8,34.0
+Ireland,Sales,Leadership Essentials,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,36.0
+Germany,Operations,Stakeholder Management,0,2026-01-01 00:00:00,4,1,0,0.25,0.0,45.0
+UK,Technology,Data Protection,1,2025-03-01 00:00:00,2,2,0,1.0,0.0,12.0
+UK,Technology,Code of Conduct,1,2026-03-01 00:00:00,3,3,0,1.0,0.0,6.3
+UK,Customer Support,Health and Safety,1,2025-05-01 00:00:00,4,4,0,1.0,0.0,12.3
+Netherlands,Supply Chain,Stakeholder Management,0,2026-01-01 00:00:00,2,1,0,0.5,0.0,8.0
+Germany,Supply Chain,Stakeholder Management,0,2025-05-01 00:00:00,3,0,3,0.0,1.0,
+Netherlands,Commercial,Data Protection,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,14.5
+France,Finance,Health and Safety,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,5.0
+Netherlands,Sales,Code of Conduct,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,24.0
+Germany,Supply Chain,Stakeholder Management,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,39.0
+UK,Commercial,Code of Conduct,1,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Operations,Code of Conduct,1,2025-09-01 00:00:00,3,2,1,0.6667,0.3333,31.5
+Netherlands,Operations,Stakeholder Management,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+France,Operations,Health and Safety,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,10.0
+UK,Technology,Data Protection,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,11.5
+UK,Finance,Code of Conduct,1,2025-10-01 00:00:00,3,3,0,1.0,0.0,6.0
+UK,Technology,Stakeholder Management,0,2026-01-01 00:00:00,2,1,0,0.5,0.0,11.0
+Germany,People,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,13.0
+Netherlands,Operations,Code of Conduct,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,17.5
+Germany,People,Advanced Analytics,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,15.0
+Netherlands,Commercial,Advanced Analytics,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+France,Sales,Data Protection,1,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Stakeholder Management,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,13.0
+Netherlands,People,Advanced Analytics,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,2.0
+France,People,Stakeholder Management,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+UK,People,Code of Conduct,1,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Supply Chain,Stakeholder Management,0,2026-01-01 00:00:00,2,0,0,0.0,0.0,
+Netherlands,Customer Support,Stakeholder Management,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,35.0
+Ireland,Sales,Advanced Analytics,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+France,People,Health and Safety,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,3.0
+Germany,Operations,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,32.0
+Germany,People,Advanced Analytics,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,11.0
+Germany,Sales,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,People,Data Protection,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,People,Code of Conduct,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,2.5
+Germany,Technology,Advanced Analytics,0,2025-12-01 00:00:00,3,0,3,0.0,1.0,
+Ireland,Commercial,Data Protection,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,11.0
+Ireland,Supply Chain,Advanced Analytics,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Finance,Code of Conduct,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,8.0
+Ireland,Customer Support,Code of Conduct,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Sales,Leadership Essentials,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,30.0
+Ireland,Sales,Health and Safety,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Supply Chain,Data Protection,1,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,14.0
+France,Technology,Leadership Essentials,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,16.0
+France,Technology,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,12.0
+Ireland,Customer Support,Stakeholder Management,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,18.0
+France,Technology,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,25.0
+UK,Operations,Leadership Essentials,0,2025-05-01 00:00:00,23,12,11,0.5217,0.4783,30.2
+UK,Operations,Leadership Essentials,0,2025-03-01 00:00:00,14,6,8,0.4286,0.5714,27.0
+France,Customer Support,Health and Safety,1,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+UK,Customer Support,Data Protection,1,2025-01-01 00:00:00,5,2,3,0.4,0.6,11.0
+UK,Sales,Code of Conduct,1,2025-09-01 00:00:00,2,2,0,1.0,0.0,10.5
+Netherlands,Finance,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,5.0
+UK,Operations,Leadership Essentials,0,2025-08-01 00:00:00,13,6,7,0.4615,0.5385,34.2
+France,Supply Chain,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,Sales,Health and Safety,1,2025-08-01 00:00:00,4,3,1,0.75,0.25,8.3
+UK,Customer Support,Leadership Essentials,0,2025-06-01 00:00:00,10,8,2,0.8,0.2,23.8
+UK,Sales,Stakeholder Management,0,2026-02-01 00:00:00,5,5,0,1.0,0.0,16.8
+Germany,Supply Chain,Health and Safety,1,2025-08-01 00:00:00,2,1,1,0.5,0.5,23.0
+France,Operations,Advanced Analytics,0,2025-09-01 00:00:00,3,1,2,0.3333,0.6667,10.0
+UK,Sales,Data Protection,1,2025-08-01 00:00:00,2,2,0,1.0,0.0,18.0
+UK,Sales,Health and Safety,1,2025-03-01 00:00:00,5,5,0,1.0,0.0,15.6
+Netherlands,Supply Chain,Leadership Essentials,0,2025-09-01 00:00:00,3,2,1,0.6667,0.3333,41.0
+UK,Operations,Stakeholder Management,0,2025-12-01 00:00:00,15,2,12,0.1333,0.8,35.5
+Germany,Supply Chain,Advanced Analytics,0,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Sales,Health and Safety,1,2025-08-01 00:00:00,2,1,1,0.5,0.5,6.0
+UK,Operations,Leadership Essentials,0,2026-01-01 00:00:00,12,9,1,0.75,0.0833,31.4
+UK,Operations,Advanced Analytics,0,2026-02-01 00:00:00,12,3,0,0.25,0.0,29.3
+Germany,Operations,Health and Safety,1,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Data Protection,1,2025-03-01 00:00:00,4,4,0,1.0,0.0,13.8
+France,Operations,Leadership Essentials,0,2026-01-01 00:00:00,2,2,0,1.0,0.0,49.5
+Germany,Sales,Data Protection,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,9.0
+Netherlands,Technology,Leadership Essentials,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,16.0
+France,Supply Chain,Stakeholder Management,0,2025-01-01 00:00:00,2,1,1,0.5,0.5,12.0
+Netherlands,Sales,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,8.0
+France,Technology,Data Protection,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,4.0
+France,Operations,Leadership Essentials,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,16.0
+Germany,Commercial,Advanced Analytics,0,2025-11-01 00:00:00,4,3,1,0.75,0.25,25.3
+Germany,Operations,Leadership Essentials,0,2025-09-01 00:00:00,4,0,4,0.0,1.0,
+Germany,Supply Chain,Advanced Analytics,0,2026-01-01 00:00:00,2,0,2,0.0,1.0,
+UK,Sales,Health and Safety,1,2026-01-01 00:00:00,2,2,0,1.0,0.0,22.0
+Netherlands,Technology,Advanced Analytics,0,2026-03-01 00:00:00,3,3,0,1.0,0.0,6.7
+UK,Technology,Leadership Essentials,0,2025-09-01 00:00:00,3,1,2,0.3333,0.6667,11.0
+UK,Commercial,Leadership Essentials,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,17.0
+France,Sales,Advanced Analytics,0,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Health and Safety,1,2025-06-01 00:00:00,5,3,2,0.6,0.4,31.3
+Germany,Finance,Advanced Analytics,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,3.0
+UK,Operations,Code of Conduct,1,2026-02-01 00:00:00,6,6,0,1.0,0.0,26.2
+UK,Sales,Leadership Essentials,0,2026-03-01 00:00:00,6,4,0,0.6667,0.0,12.8
+France,Customer Support,Code of Conduct,1,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Customer Support,Advanced Analytics,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,41.0
+Germany,Sales,Health and Safety,1,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Finance,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,2.0
+Germany,Operations,Health and Safety,1,2025-08-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Customer Support,Stakeholder Management,0,2025-10-01 00:00:00,3,1,2,0.3333,0.6667,43.0
+UK,Finance,Data Protection,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,5.5
+France,Operations,Data Protection,1,2025-01-01 00:00:00,3,2,1,0.6667,0.3333,25.0
+France,Supply Chain,Data Protection,1,2025-11-01 00:00:00,2,1,1,0.5,0.5,33.0
+France,Supply Chain,Leadership Essentials,0,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,10.0
+France,Operations,Leadership Essentials,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,61.0
+Netherlands,Technology,Health and Safety,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,2.0
+Netherlands,Operations,Leadership Essentials,0,2026-03-01 00:00:00,2,1,0,0.5,0.0,2.0
+France,Technology,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,13.0
+UK,Customer Support,Health and Safety,1,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+France,Supply Chain,Data Protection,1,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Technology,Leadership Essentials,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,8.0
+Germany,Supply Chain,Health and Safety,1,2025-05-01 00:00:00,3,1,2,0.3333,0.6667,37.0
+Germany,Supply Chain,Data Protection,1,2026-02-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Leadership Essentials,0,2025-03-01 00:00:00,3,2,1,0.6667,0.3333,36.0
+UK,Technology,Advanced Analytics,0,2025-06-01 00:00:00,2,2,0,1.0,0.0,15.5
+Ireland,Sales,Advanced Analytics,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,17.0
+France,Finance,Code of Conduct,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,People,Stakeholder Management,0,2025-04-01 00:00:00,4,2,2,0.5,0.5,10.5
+Germany,Operations,Health and Safety,1,2025-03-01 00:00:00,5,5,0,1.0,0.0,35.6
+UK,People,Leadership Essentials,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Sales,Data Protection,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,8.0
+Germany,Supply Chain,Leadership Essentials,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+France,Supply Chain,Advanced Analytics,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,39.0
+Germany,Customer Support,Leadership Essentials,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+UK,Customer Support,Code of Conduct,1,2026-03-01 00:00:00,2,2,0,1.0,0.0,6.0
+Ireland,Operations,Stakeholder Management,0,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+UK,Technology,Stakeholder Management,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,8.0
+Netherlands,Finance,Advanced Analytics,0,2025-01-01 00:00:00,3,3,0,1.0,0.0,13.3
+Germany,Operations,Health and Safety,1,2026-01-01 00:00:00,3,1,2,0.3333,0.6667,19.0
+Germany,Commercial,Stakeholder Management,0,2025-02-01 00:00:00,2,1,1,0.5,0.5,5.0
+Netherlands,Technology,Leadership Essentials,0,2025-08-01 00:00:00,3,1,2,0.3333,0.6667,1.0
+Germany,People,Code of Conduct,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,4.0
+Ireland,Finance,Stakeholder Management,0,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Supply Chain,Advanced Analytics,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,17.0
+Germany,Operations,Stakeholder Management,0,2025-02-01 00:00:00,2,1,1,0.5,0.5,65.0
+France,Operations,Stakeholder Management,0,2026-02-01 00:00:00,2,0,0,0.0,0.0,
+Germany,Operations,Data Protection,1,2025-12-01 00:00:00,6,3,3,0.5,0.5,36.3
+France,Sales,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,30.0
+France,Customer Support,Code of Conduct,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,20.0
+Germany,Finance,Health and Safety,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,15.0
+France,Supply Chain,Health and Safety,1,2026-02-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Supply Chain,Data Protection,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,30.0
+France,Operations,Data Protection,1,2025-11-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Operations,Advanced Analytics,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,17.0
+Netherlands,Supply Chain,Stakeholder Management,0,2025-02-01 00:00:00,2,2,0,1.0,0.0,15.0
+Germany,Supply Chain,Health and Safety,1,2026-01-01 00:00:00,2,1,1,0.5,0.5,18.0
+Germany,Supply Chain,Advanced Analytics,0,2025-08-01 00:00:00,3,0,3,0.0,1.0,
+France,Commercial,Stakeholder Management,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Health and Safety,1,2025-05-01 00:00:00,2,1,1,0.5,0.5,23.0
+Germany,Sales,Leadership Essentials,0,2025-04-01 00:00:00,2,1,1,0.5,0.5,23.0
+Germany,Technology,Advanced Analytics,0,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+UK,Sales,Data Protection,1,2026-01-01 00:00:00,2,2,0,1.0,0.0,8.5
+Germany,People,Leadership Essentials,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,19.0
+Germany,Supply Chain,Advanced Analytics,0,2025-03-01 00:00:00,3,1,2,0.3333,0.6667,22.0
+UK,Supply Chain,Health and Safety,1,2026-03-01 00:00:00,2,1,0,0.5,0.0,6.0
+France,Commercial,Health and Safety,1,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+Netherlands,Supply Chain,Health and Safety,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,38.0
+UK,Supply Chain,Advanced Analytics,0,2025-10-01 00:00:00,2,1,1,0.5,0.5,23.0
+Netherlands,Sales,Health and Safety,1,2025-07-01 00:00:00,2,2,0,1.0,0.0,21.5
+Ireland,Supply Chain,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,45.0
+Ireland,Operations,Health and Safety,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,28.0
+France,Customer Support,Data Protection,1,2025-06-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Supply Chain,Code of Conduct,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,15.0
+Germany,Sales,Health and Safety,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,18.0
+Ireland,Sales,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,13.0
+Ireland,Supply Chain,Code of Conduct,1,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Commercial,Advanced Analytics,0,2025-01-01 00:00:00,2,2,0,1.0,0.0,18.5
+UK,Supply Chain,Code of Conduct,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,25.5
+Netherlands,Commercial,Stakeholder Management,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,18.0
+Germany,Supply Chain,Stakeholder Management,0,2025-02-01 00:00:00,3,1,2,0.3333,0.6667,12.0
+Germany,Customer Support,Health and Safety,1,2025-12-01 00:00:00,2,1,1,0.5,0.5,25.0
+Ireland,Sales,Stakeholder Management,0,2025-06-01 00:00:00,2,1,1,0.5,0.5,21.0
+Ireland,Commercial,Leadership Essentials,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,People,Advanced Analytics,0,2026-03-01 00:00:00,1,1,0,1.0,0.0,4.0
+France,Finance,Health and Safety,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,7.0
+Netherlands,Technology,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,26.0
+Ireland,Operations,Leadership Essentials,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+UK,Supply Chain,Code of Conduct,1,2025-02-01 00:00:00,4,3,1,0.75,0.25,20.3
+France,Technology,Code of Conduct,1,2025-08-01 00:00:00,1,1,0,1.0,0.0,17.0
+UK,Supply Chain,Stakeholder Management,0,2025-06-01 00:00:00,5,2,3,0.4,0.6,42.0
+UK,Operations,Leadership Essentials,0,2025-10-01 00:00:00,12,2,10,0.1667,0.8333,31.0
+UK,Customer Support,Code of Conduct,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,24.0
+Netherlands,Operations,Leadership Essentials,0,2026-02-01 00:00:00,3,1,0,0.3333,0.0,44.0
+Germany,Operations,Code of Conduct,1,2025-07-01 00:00:00,6,3,3,0.5,0.5,23.7
+UK,People,Advanced Analytics,0,2025-07-01 00:00:00,3,3,0,1.0,0.0,15.7
+France,Operations,Data Protection,1,2025-09-01 00:00:00,2,1,1,0.5,0.5,46.0
+Germany,Customer Support,Advanced Analytics,0,2025-06-01 00:00:00,5,0,5,0.0,1.0,
+Germany,Commercial,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,19.0
+UK,Supply Chain,Advanced Analytics,0,2025-08-01 00:00:00,5,2,3,0.4,0.6,18.5
+UK,Customer Support,Advanced Analytics,0,2025-06-01 00:00:00,7,5,2,0.7143,0.2857,23.2
+Germany,Technology,Data Protection,1,2025-06-01 00:00:00,3,2,1,0.6667,0.3333,9.5
+UK,Commercial,Code of Conduct,1,2025-03-01 00:00:00,4,4,0,1.0,0.0,10.3
+Germany,Commercial,Advanced Analytics,0,2025-09-01 00:00:00,2,1,1,0.5,0.5,13.0
+France,Sales,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,8.0
+Germany,Sales,Health and Safety,1,2025-10-01 00:00:00,4,4,0,1.0,0.0,19.5
+Germany,Sales,Advanced Analytics,0,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+UK,Operations,Data Protection,1,2025-04-01 00:00:00,6,1,5,0.1667,0.8333,19.0
+UK,Technology,Leadership Essentials,0,2025-01-01 00:00:00,7,6,1,0.8571,0.1429,17.5
+Germany,Operations,Data Protection,1,2025-02-01 00:00:00,2,1,1,0.5,0.5,53.0
+UK,Finance,Code of Conduct,1,2025-02-01 00:00:00,2,2,0,1.0,0.0,4.5
+UK,People,Data Protection,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,2.0
+UK,Commercial,Leadership Essentials,0,2026-03-01 00:00:00,8,7,0,0.875,0.0,12.0
+UK,Sales,Advanced Analytics,0,2025-06-01 00:00:00,3,1,2,0.3333,0.6667,34.0
+UK,Technology,Stakeholder Management,0,2025-12-01 00:00:00,5,2,3,0.4,0.6,22.0
+Germany,Operations,Health and Safety,1,2025-10-01 00:00:00,2,1,1,0.5,0.5,39.0
+France,Operations,Advanced Analytics,0,2025-11-01 00:00:00,5,1,4,0.2,0.8,13.0
+UK,Operations,Code of Conduct,1,2026-03-01 00:00:00,10,4,0,0.4,0.0,13.5
+Germany,Sales,Data Protection,1,2025-09-01 00:00:00,1,1,0,1.0,0.0,9.0
+France,Finance,Leadership Essentials,0,2025-06-01 00:00:00,2,0,2,0.0,1.0,
+France,Finance,Stakeholder Management,0,2025-07-01 00:00:00,2,2,0,1.0,0.0,13.5
+Germany,Supply Chain,Health and Safety,1,2025-10-01 00:00:00,5,1,4,0.2,0.8,40.0
+UK,Commercial,Stakeholder Management,0,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,7.0
+UK,Customer Support,Stakeholder Management,0,2025-07-01 00:00:00,3,0,3,0.0,1.0,
+UK,Technology,Leadership Essentials,0,2025-11-01 00:00:00,5,4,1,0.8,0.2,14.8
+Ireland,Supply Chain,Code of Conduct,1,2025-10-01 00:00:00,2,2,0,1.0,0.0,41.5
+Netherlands,Finance,Advanced Analytics,0,2025-09-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Supply Chain,Data Protection,1,2026-03-01 00:00:00,4,1,0,0.25,0.0,20.0
+UK,Operations,Advanced Analytics,0,2026-03-01 00:00:00,4,4,0,1.0,0.0,12.8
+UK,Commercial,Code of Conduct,1,2026-01-01 00:00:00,2,2,0,1.0,0.0,13.5
+Netherlands,Technology,Data Protection,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,12.0
+Netherlands,Technology,Leadership Essentials,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,25.0
+Ireland,Supply Chain,Advanced Analytics,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,51.0
+Ireland,Supply Chain,Stakeholder Management,0,2025-01-01 00:00:00,2,0,2,0.0,1.0,
+UK,Sales,Data Protection,1,2025-10-01 00:00:00,2,1,1,0.5,0.5,11.0
+France,Operations,Advanced Analytics,0,2025-01-01 00:00:00,5,1,4,0.2,0.8,38.0
+UK,Sales,Code of Conduct,1,2025-01-01 00:00:00,3,2,1,0.6667,0.3333,14.5
+UK,Sales,Stakeholder Management,0,2026-03-01 00:00:00,4,2,0,0.5,0.0,17.0
+UK,Supply Chain,Advanced Analytics,0,2025-03-01 00:00:00,8,2,6,0.25,0.75,29.5
+UK,Customer Support,Data Protection,1,2025-09-01 00:00:00,3,3,0,1.0,0.0,14.3
+UK,Supply Chain,Advanced Analytics,0,2026-01-01 00:00:00,6,2,0,0.3333,0.0,9.5
+Germany,Supply Chain,Advanced Analytics,0,2025-10-01 00:00:00,3,0,3,0.0,1.0,
+Ireland,Operations,Data Protection,1,2025-04-01 00:00:00,1,1,0,1.0,0.0,41.0
+Netherlands,Sales,Leadership Essentials,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,2.0
+Germany,Technology,Stakeholder Management,0,2025-07-01 00:00:00,4,4,0,1.0,0.0,12.0
+Germany,Operations,Stakeholder Management,0,2025-12-01 00:00:00,2,0,2,0.0,1.0,
+UK,Finance,Leadership Essentials,0,2025-07-01 00:00:00,3,3,0,1.0,0.0,4.0
+France,Technology,Advanced Analytics,0,2025-02-01 00:00:00,2,2,0,1.0,0.0,15.0
+UK,Operations,Stakeholder Management,0,2025-02-01 00:00:00,6,3,3,0.5,0.5,31.3
+Netherlands,Customer Support,Data Protection,1,2025-12-01 00:00:00,2,1,1,0.5,0.5,11.0
+UK,Supply Chain,Data Protection,1,2025-04-01 00:00:00,2,2,0,1.0,0.0,16.5
+Germany,Sales,Stakeholder Management,0,2026-02-01 00:00:00,1,1,0,1.0,0.0,31.0
+Netherlands,Commercial,Code of Conduct,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+UK,People,Data Protection,1,2025-11-01 00:00:00,2,2,0,1.0,0.0,2.0
+Germany,Supply Chain,Stakeholder Management,0,2025-12-01 00:00:00,4,0,4,0.0,1.0,
+Germany,Technology,Code of Conduct,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,12.0
+France,Sales,Health and Safety,1,2025-01-01 00:00:00,2,1,1,0.5,0.5,12.0
+UK,Customer Support,Health and Safety,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,22.0
+France,Sales,Stakeholder Management,0,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Leadership Essentials,0,2025-10-01 00:00:00,2,0,2,0.0,1.0,
+UK,Sales,Code of Conduct,1,2025-11-01 00:00:00,2,1,1,0.5,0.5,16.0
+Germany,Customer Support,Stakeholder Management,0,2026-01-01 00:00:00,3,0,0,0.0,0.0,
+France,Customer Support,Health and Safety,1,2026-02-01 00:00:00,2,2,0,1.0,0.0,21.0
+Germany,Customer Support,Health and Safety,1,2025-02-01 00:00:00,2,0,2,0.0,1.0,
+UK,People,Health and Safety,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,8.0
+Germany,Finance,Stakeholder Management,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,13.0
+Germany,Operations,Leadership Essentials,0,2025-11-01 00:00:00,2,0,2,0.0,1.0,
+France,Sales,Stakeholder Management,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Customer Support,Code of Conduct,1,2025-10-01 00:00:00,3,1,2,0.3333,0.6667,31.0
+UK,Commercial,Advanced Analytics,0,2025-07-01 00:00:00,3,3,0,1.0,0.0,17.3
+France,Sales,Leadership Essentials,0,2026-01-01 00:00:00,2,0,0,0.0,0.0,
+UK,Supply Chain,Advanced Analytics,0,2025-05-01 00:00:00,5,4,1,0.8,0.2,37.3
+Germany,Customer Support,Data Protection,1,2025-04-01 00:00:00,3,2,1,0.6667,0.3333,25.0
+UK,Technology,Code of Conduct,1,2025-06-01 00:00:00,2,2,0,1.0,0.0,6.5
+France,Supply Chain,Stakeholder Management,0,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Customer Support,Stakeholder Management,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Code of Conduct,1,2025-05-01 00:00:00,2,2,0,1.0,0.0,15.0
+Ireland,Operations,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,32.0
+UK,Supply Chain,Health and Safety,1,2026-02-01 00:00:00,5,5,0,1.0,0.0,26.6
+UK,Sales,Leadership Essentials,0,2026-02-01 00:00:00,5,3,0,0.6,0.0,19.3
+Germany,Sales,Code of Conduct,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,26.0
+Germany,People,Advanced Analytics,0,2025-12-01 00:00:00,3,3,0,1.0,0.0,11.7
+France,Sales,Stakeholder Management,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Commercial,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,16.0
+Germany,People,Health and Safety,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,6.0
+Germany,Operations,Leadership Essentials,0,2025-01-01 00:00:00,1,0,1,0.0,1.0,
+UK,Technology,Data Protection,1,2025-12-01 00:00:00,2,1,1,0.5,0.5,8.0
+Netherlands,Operations,Health and Safety,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Health and Safety,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,7.0
+Germany,Technology,Advanced Analytics,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,7.0
+France,Sales,Leadership Essentials,0,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+Netherlands,Commercial,Data Protection,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,10.0
+France,Sales,Leadership Essentials,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,23.0
+France,Supply Chain,Code of Conduct,1,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+Ireland,Commercial,Leadership Essentials,0,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+UK,People,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,2.0
+Germany,Technology,Advanced Analytics,0,2026-01-01 00:00:00,2,0,1,0.0,0.5,
+Germany,Supply Chain,Leadership Essentials,0,2026-02-01 00:00:00,3,1,0,0.3333,0.0,13.0
+Netherlands,Customer Support,Code of Conduct,1,2026-01-01 00:00:00,1,1,0,1.0,0.0,7.0
+Germany,Customer Support,Stakeholder Management,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Supply Chain,Advanced Analytics,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Supply Chain,Data Protection,1,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Supply Chain,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,30.0
+Ireland,Finance,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,5.0
+France,People,Code of Conduct,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,6.0
+UK,Commercial,Code of Conduct,1,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Technology,Code of Conduct,1,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Customer Support,Stakeholder Management,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,42.0
+Ireland,Customer Support,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,31.0
+Germany,Commercial,Health and Safety,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,9.0
+France,People,Health and Safety,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,2.0
+France,Operations,Stakeholder Management,0,2026-03-01 00:00:00,2,0,0,0.0,0.0,
+France,Technology,Code of Conduct,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,16.0
+Netherlands,Finance,Health and Safety,1,2025-07-01 00:00:00,1,1,0,1.0,0.0,3.0
+UK,Supply Chain,Leadership Essentials,0,2025-11-01 00:00:00,8,3,5,0.375,0.625,31.7
+Netherlands,Operations,Health and Safety,1,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+UK,Customer Support,Leadership Essentials,0,2025-12-01 00:00:00,8,5,3,0.625,0.375,19.2
+UK,Customer Support,Advanced Analytics,0,2025-02-01 00:00:00,6,3,3,0.5,0.5,29.7
+UK,Operations,Advanced Analytics,0,2025-10-01 00:00:00,16,5,11,0.3125,0.6875,44.8
+France,Customer Support,Health and Safety,1,2025-03-01 00:00:00,3,2,1,0.6667,0.3333,8.5
+UK,Operations,Health and Safety,1,2025-11-01 00:00:00,10,7,3,0.7,0.3,24.3
+Germany,Operations,Data Protection,1,2025-06-01 00:00:00,3,1,2,0.3333,0.6667,12.0
+UK,Operations,Stakeholder Management,0,2025-06-01 00:00:00,8,3,5,0.375,0.625,34.0
+France,Operations,Stakeholder Management,0,2025-10-01 00:00:00,5,3,2,0.6,0.4,37.0
+UK,Finance,Stakeholder Management,0,2025-12-01 00:00:00,5,3,2,0.6,0.4,10.3
+UK,Operations,Health and Safety,1,2025-01-01 00:00:00,13,11,2,0.8462,0.1538,27.1
+UK,Sales,Leadership Essentials,0,2025-03-01 00:00:00,5,2,3,0.4,0.6,17.5
+Germany,Operations,Code of Conduct,1,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,51.0
+UK,Operations,Data Protection,1,2025-07-01 00:00:00,9,5,4,0.5556,0.4444,31.2
+UK,Operations,Leadership Essentials,0,2026-03-01 00:00:00,14,9,0,0.6429,0.0,14.8
+UK,Supply Chain,Health and Safety,1,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,26.0
+Netherlands,Operations,Leadership Essentials,0,2025-05-01 00:00:00,3,2,1,0.6667,0.3333,35.5
+Germany,Operations,Advanced Analytics,0,2025-02-01 00:00:00,4,0,4,0.0,1.0,
+UK,Supply Chain,Leadership Essentials,0,2025-01-01 00:00:00,10,3,7,0.3,0.7,32.0
+UK,Supply Chain,Stakeholder Management,0,2025-02-01 00:00:00,6,1,5,0.1667,0.8333,36.0
+UK,Sales,Leadership Essentials,0,2025-05-01 00:00:00,6,4,2,0.6667,0.3333,15.3
+France,Sales,Leadership Essentials,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,10.0
+UK,Supply Chain,Advanced Analytics,0,2026-02-01 00:00:00,14,8,0,0.5714,0.0,25.5
+UK,Supply Chain,Health and Safety,1,2025-03-01 00:00:00,5,3,2,0.6,0.4,11.0
+Germany,Supply Chain,Leadership Essentials,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,8.0
+France,Technology,Advanced Analytics,0,2025-06-01 00:00:00,2,1,1,0.5,0.5,9.0
+UK,Commercial,Health and Safety,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,15.0
+Ireland,People,Stakeholder Management,0,2025-03-01 00:00:00,1,0,1,0.0,1.0,
+UK,Commercial,Leadership Essentials,0,2025-10-01 00:00:00,6,2,4,0.3333,0.6667,16.5
+Germany,Supply Chain,Leadership Essentials,0,2026-01-01 00:00:00,6,1,2,0.1667,0.3333,15.0
+Netherlands,Commercial,Code of Conduct,1,2025-04-01 00:00:00,1,0,1,0.0,1.0,
+France,Operations,Health and Safety,1,2025-12-01 00:00:00,2,2,0,1.0,0.0,32.0
+France,Customer Support,Stakeholder Management,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,41.0
+Germany,Finance,Stakeholder Management,0,2025-07-01 00:00:00,1,1,0,1.0,0.0,19.0
+Netherlands,Operations,Leadership Essentials,0,2025-08-01 00:00:00,4,1,3,0.25,0.75,24.0
+UK,Customer Support,Stakeholder Management,0,2025-04-01 00:00:00,7,2,5,0.2857,0.7143,22.5
+UK,Supply Chain,Health and Safety,1,2025-08-01 00:00:00,4,2,2,0.5,0.5,28.5
+UK,Sales,Leadership Essentials,0,2026-01-01 00:00:00,1,0,0,0.0,0.0,
+UK,Supply Chain,Health and Safety,1,2026-01-01 00:00:00,5,4,1,0.8,0.2,33.3
+France,Operations,Code of Conduct,1,2025-01-01 00:00:00,4,2,2,0.5,0.5,34.0
+UK,Operations,Code of Conduct,1,2025-10-01 00:00:00,9,6,3,0.6667,0.3333,30.2
+UK,Technology,Advanced Analytics,0,2025-12-01 00:00:00,3,3,0,1.0,0.0,14.0
+Ireland,Supply Chain,Leadership Essentials,0,2026-02-01 00:00:00,2,1,0,0.5,0.0,16.0
+UK,Supply Chain,Code of Conduct,1,2025-06-01 00:00:00,6,6,0,1.0,0.0,19.8
+Germany,Technology,Stakeholder Management,0,2025-04-01 00:00:00,2,1,1,0.5,0.5,31.0
+Germany,Finance,Code of Conduct,1,2025-01-01 00:00:00,1,1,0,1.0,0.0,15.0
+Netherlands,Operations,Code of Conduct,1,2025-12-01 00:00:00,1,1,0,1.0,0.0,31.0
+France,Customer Support,Data Protection,1,2025-12-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Operations,Health and Safety,1,2026-03-01 00:00:00,7,5,0,0.7143,0.0,12.8
+France,Sales,Advanced Analytics,0,2025-12-01 00:00:00,4,2,2,0.5,0.5,18.5
+France,Sales,Stakeholder Management,0,2026-02-01 00:00:00,2,2,0,1.0,0.0,28.5
+Netherlands,Technology,Advanced Analytics,0,2025-05-01 00:00:00,1,1,0,1.0,0.0,23.0
+Germany,Supply Chain,Leadership Essentials,0,2025-08-01 00:00:00,2,1,1,0.5,0.5,8.0
+France,Customer Support,Code of Conduct,1,2026-03-01 00:00:00,1,0,0,0.0,0.0,
+Netherlands,Operations,Stakeholder Management,0,2025-02-01 00:00:00,3,3,0,1.0,0.0,32.3
+Netherlands,Operations,Leadership Essentials,0,2026-01-01 00:00:00,1,1,0,1.0,0.0,44.0
+UK,Customer Support,Code of Conduct,1,2026-01-01 00:00:00,2,1,1,0.5,0.5,28.0
+Netherlands,Sales,Leadership Essentials,0,2025-04-01 00:00:00,3,2,1,0.6667,0.3333,24.5
+Netherlands,Sales,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,12.0
+Germany,Supply Chain,Advanced Analytics,0,2026-03-01 00:00:00,2,1,0,0.5,0.0,7.0
+UK,Finance,Leadership Essentials,0,2025-04-01 00:00:00,2,2,0,1.0,0.0,9.0
+France,Operations,Leadership Essentials,0,2026-03-01 00:00:00,3,0,0,0.0,0.0,
+UK,Commercial,Data Protection,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,13.5
+UK,People,Leadership Essentials,0,2025-12-01 00:00:00,4,3,1,0.75,0.25,8.7
+Ireland,Technology,Leadership Essentials,0,2025-08-01 00:00:00,1,1,0,1.0,0.0,14.0
+UK,Commercial,Data Protection,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,Finance,Health and Safety,1,2025-02-01 00:00:00,2,2,0,1.0,0.0,5.5
+Ireland,Operations,Stakeholder Management,0,2025-03-01 00:00:00,2,0,2,0.0,1.0,
+UK,Sales,Advanced Analytics,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,23.0
+UK,Sales,Leadership Essentials,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Code of Conduct,1,2026-02-01 00:00:00,1,1,0,1.0,0.0,8.0
+Netherlands,Supply Chain,Code of Conduct,1,2025-11-01 00:00:00,2,1,1,0.5,0.5,28.0
+UK,Supply Chain,Data Protection,1,2025-07-01 00:00:00,3,1,2,0.3333,0.6667,18.0
+Ireland,Commercial,Code of Conduct,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,13.0
+Ireland,Technology,Health and Safety,1,2026-03-01 00:00:00,1,1,0,1.0,0.0,6.0
+UK,Finance,Code of Conduct,1,2025-06-01 00:00:00,1,1,0,1.0,0.0,7.0
+UK,Commercial,Stakeholder Management,0,2025-07-01 00:00:00,3,2,1,0.6667,0.3333,19.0
+Netherlands,Supply Chain,Advanced Analytics,0,2025-10-01 00:00:00,3,0,3,0.0,1.0,
+Netherlands,Operations,Advanced Analytics,0,2025-10-01 00:00:00,1,1,0,1.0,0.0,33.0
+Ireland,Operations,Advanced Analytics,0,2025-09-01 00:00:00,2,0,2,0.0,1.0,
+UK,Commercial,Advanced Analytics,0,2025-04-01 00:00:00,1,1,0,1.0,0.0,30.0
+France,Customer Support,Leadership Essentials,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Supply Chain,Health and Safety,1,2026-03-01 00:00:00,3,2,0,0.6667,0.0,16.0
+France,Commercial,Health and Safety,1,2025-05-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Customer Support,Advanced Analytics,0,2025-01-01 00:00:00,1,1,0,1.0,0.0,12.0
+UK,Customer Support,Code of Conduct,1,2025-08-01 00:00:00,3,3,0,1.0,0.0,11.0
+UK,Sales,Stakeholder Management,0,2025-10-01 00:00:00,3,2,1,0.6667,0.3333,23.0
+UK,Customer Support,Code of Conduct,1,2025-03-01 00:00:00,1,1,0,1.0,0.0,24.0
+Germany,Customer Support,Code of Conduct,1,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,15.0
+Germany,Customer Support,Advanced Analytics,0,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+Netherlands,Operations,Leadership Essentials,0,2025-03-01 00:00:00,1,1,0,1.0,0.0,22.0
+Netherlands,Customer Support,Stakeholder Management,0,2025-12-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Sales,Stakeholder Management,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Supply Chain,Data Protection,1,2025-10-01 00:00:00,2,2,0,1.0,0.0,31.0
+Germany,Sales,Stakeholder Management,0,2026-01-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Sales,Stakeholder Management,0,2025-03-01 00:00:00,2,1,1,0.5,0.5,18.0
+France,Supply Chain,Code of Conduct,1,2025-10-01 00:00:00,1,1,0,1.0,0.0,25.0
+Germany,Finance,Code of Conduct,1,2025-11-01 00:00:00,1,1,0,1.0,0.0,4.0
+Netherlands,Supply Chain,Code of Conduct,1,2025-01-01 00:00:00,3,2,1,0.6667,0.3333,39.5
+UK,Technology,Health and Safety,1,2025-01-01 00:00:00,2,2,0,1.0,0.0,10.0
+Germany,Customer Support,Stakeholder Management,0,2026-02-01 00:00:00,3,1,0,0.3333,0.0,21.0
+Netherlands,Customer Support,Advanced Analytics,0,2025-11-01 00:00:00,1,1,0,1.0,0.0,6.0
+Netherlands,Customer Support,Leadership Essentials,0,2025-06-01 00:00:00,1,1,0,1.0,0.0,22.0
+France,Supply Chain,Health and Safety,1,2025-10-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Sales,Data Protection,1,2025-04-01 00:00:00,3,1,2,0.3333,0.6667,13.0
+UK,Customer Support,Code of Conduct,1,2025-05-01 00:00:00,2,0,2,0.0,1.0,
+Germany,Technology,Data Protection,1,2025-02-01 00:00:00,1,0,1,0.0,1.0,
+France,Finance,Leadership Essentials,0,2025-02-01 00:00:00,1,1,0,1.0,0.0,22.0
+UK,Technology,Code of Conduct,1,2025-02-01 00:00:00,1,1,0,1.0,0.0,14.0
+Germany,Supply Chain,Leadership Essentials,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,Operations,Stakeholder Management,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,Finance,Advanced Analytics,0,2025-09-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Sales,Advanced Analytics,0,2025-07-01 00:00:00,1,0,1,0.0,1.0,
+Germany,Sales,Stakeholder Management,0,2025-08-01 00:00:00,1,0,1,0.0,1.0,
+Ireland,People,Advanced Analytics,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
+UK,People,Advanced Analytics,0,2025-04-01 00:00:00,2,2,0,1.0,0.0,8.5
+Germany,Sales,Stakeholder Management,0,2025-05-01 00:00:00,1,0,1,0.0,1.0,
